@@ -1,0 +1,27 @@
+{
+  "trend_id": "trench-coat",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "United Kingdom",
+      "place_type": "country",
+      "year": 1901,
+      "year_precision": "year",
+      "who": "Burberry",
+      "hedged": true,
+      "quote": "Invention of the trench coat is claimed by two British luxury clothing manufacturers, Burberry and Aquascutum, with Aquascutum's claim dating back to the 1850s. Thomas Burberry had invented gabardine fabric in 1879 and submitted a design for a British Army officer's raincoat to the War Office in 1901.",
+      "note": "Burberry claims invention, design sent 1901"
+    },
+    {
+      "kind": "rival",
+      "place": "United Kingdom",
+      "place_type": "country",
+      "year": 1850,
+      "year_precision": "decade",
+      "who": "Aquascutum",
+      "hedged": true,
+      "quote": "Invention of the trench coat is claimed by two British luxury clothing manufacturers, Burberry and Aquascutum, with Aquascutum's claim dating back to the 1850s.",
+      "note": "Aquascutum claims it from the 1850s"
+    }
+  ]
+}

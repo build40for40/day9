@@ -1,0 +1,16 @@
+{
+  "trend_id": "fair-isle",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Fair Isle",
+      "place_type": "region",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "It is named after Fair Isle, one of the Shetland Islands.",
+      "note": "style named after Shetland island"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "trend_id": "polo-shirt",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "United States",
+      "place_type": "country",
+      "year": 1926,
+      "year_precision": "year",
+      "who": "René Lacoste",
+      "hedged": false,
+      "quote": "He designed a white, short-sleeved shirt of loosely-knit piqué cotton (he called the cotton weave jersey petit piqué) with an unstarched, flat, protruding collar; a buttoned placket; and a shirt-tail longer in back than in front (known today as a \"tennis tail\"; see below), which he first wore at the 1926 U.S. Open championship.",
+      "note": "Lacoste first wore it at US Open"
+    },
+    {
+      "kind": "rival",
+      "place": "British India",
+      "place_type": "country",
+      "year": 1859,
+      "year_precision": "year",
+      "who": "polo players",
+      "hedged": false,
+      "quote": "Polo shirts are usually short sleeved but can be long; they were used by polo players originally in British India in 1859 and in Great Britain during the 1920s.",
+      "note": "polo players wore it in British India"
+    }
+  ]
+}

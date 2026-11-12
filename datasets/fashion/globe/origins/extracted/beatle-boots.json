@@ -1,0 +1,16 @@
+{
+  "trend_id": "beatle-boots",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "London",
+      "place_type": "city",
+      "year": 1961,
+      "year_precision": "year",
+      "who": "Anello & Davide",
+      "hedged": false,
+      "quote": "Beatle boots originated in 1958, but in October 1961 English musicians John Lennon, George Harrison and Paul McCartney saw Chelsea boots while in Hamburg, being worn by a London band, and then went to the London footwear company Anello & Davide to commission four pairs (with the addition of Cuban heels) for the Beatles, to complement their new suit image upon their return from Hamburg.",
+      "note": "Beatles commissioned Cuban heel versions in London"
+    }
+  ]
+}

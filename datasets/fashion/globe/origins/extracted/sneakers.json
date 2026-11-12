@@ -1,0 +1,16 @@
+{
+  "trend_id": "sneakers",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "United Kingdom",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "The plimsoll shoe originated in the United Kingdom, first called \"sand shoe\" until the 1870s.",
+      "note": "plimsoll began in the UK"
+    }
+  ]
+}

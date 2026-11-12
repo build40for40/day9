@@ -1,0 +1,16 @@
+{
+  "trend_id": "boat-shoes",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "New Haven",
+      "place_type": "city",
+      "year": 1935,
+      "year_precision": "year",
+      "who": "Paul A. Sperry",
+      "hedged": false,
+      "quote": "Modern boat shoes were invented in 1935 by American Paul A. Sperry of New Haven, Connecticut, after noticing his dog's ability to run easily over ice without slipping.",
+      "note": "Sperry cut siping into soles"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "trend_id": "halter-top",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "France",
+      "place_type": "country",
+      "year": 1930,
+      "year_precision": "decade",
+      "who": "Madeleine Vionnet",
+      "hedged": false,
+      "quote": "The style first started trending through the fashion of French fashion designer Madeleine Vionnet. Vionnet often used the halterneck style in her most notable designs of the 1930s.",
+      "note": "Vionnet made the halterneck trend"
+    }
+  ]
+}

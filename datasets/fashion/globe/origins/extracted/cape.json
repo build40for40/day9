@@ -1,0 +1,16 @@
+{
+  "trend_id": "cape",
+  "claims": [
+    {
+      "kind": "root",
+      "place": "Andes",
+      "place_type": "region",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "Ponchos have been used by the Native American peoples of the Andes, Greater Nicoya, Patagonia, and the Valley of Mexico since pre-Hispanic times, in places now under the territory of Argentina, Bolivia, Brazil, Chile, Colombia, Costa Rica, Ecuador, Mexico, Nicaragua, Peru, Uruguay, and Venezuela, and have also become familiar in parts of the U.S.",
+      "note": "worn by Native American peoples since pre-Hispanic times"
+    }
+  ]
+}

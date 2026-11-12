@@ -1,0 +1,16 @@
+{
+  "trend_id": "grunge",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Seattle",
+      "place_type": "city",
+      "year": 1985,
+      "year_precision": "decade",
+      "who": null,
+      "hedged": false,
+      "quote": "This subculture emerged in mid-1980s Seattle, and had reached wide popularity by the mid 1990s.",
+      "note": "subculture emerged in Seattle"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "trend_id": "fleece",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Massachusetts",
+      "place_type": "region",
+      "year": 1979,
+      "year_precision": "year",
+      "who": "Malden Mills and Patagonia",
+      "hedged": false,
+      "quote": "Polar fleece originated in Massachusetts in 1979 when Malden Mills and Patagonia developed Synchilla (synthetic chinchilla).",
+      "note": "developed as Synchilla pile fabric"
+    }
+  ]
+}

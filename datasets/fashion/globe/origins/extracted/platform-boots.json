@@ -1,0 +1,16 @@
+{
+  "trend_id": "platform-boots",
+  "claims": [
+    {
+      "kind": "root",
+      "place": "Venice",
+      "place_type": "city",
+      "year": 1400,
+      "year_precision": "century",
+      "who": null,
+      "hedged": false,
+      "quote": "The most famous predecessor of platform shoes are the Zoccoli in Venice of the 15th century, designed with the functional goal of avoiding wet feet when the pavements were flooded.",
+      "note": "Venetian zoccoli as predecessor"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "trend_id": "miniskirt",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "London",
+      "place_type": "city",
+      "year": 1960,
+      "year_precision": "decade",
+      "who": "Mary Quant",
+      "hedged": true,
+      "quote": "Several designers have been credited with the invention of the 1960s miniskirt, most significantly the London-based designer Mary Quant and the Parisian André Courrèges.",
+      "note": "Quant credited with inventing the miniskirt"
+    },
+    {
+      "kind": "rival",
+      "place": "Paris",
+      "place_type": "city",
+      "year": 1960,
+      "year_precision": "decade",
+      "who": "André Courrèges",
+      "hedged": true,
+      "quote": "Several designers have been credited with the invention of the 1960s miniskirt, most significantly the London-based designer Mary Quant and the Parisian André Courrèges.",
+      "note": "Courrèges credited alongside Quant"
+    },
+    {
+      "kind": "rival",
+      "place": "United Kingdom",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": "John Bates",
+      "hedged": true,
+      "quote": "However, the contemporary fashion journalist Marit Allen, who edited the influential \"Young Ideas\" pages for UK Vogue, firmly stated that the British designer John Bates was the first to offer fashionable miniskirts.",
+      "note": "Allen said Bates was first"
+    },
+    {
+      "kind": "rival",
+      "place": "London",
+      "place_type": "city",
+      "year": 1966,
+      "year_precision": "year",
+      "who": "Barbara Hulanicki",
+      "hedged": true,
+      "quote": "An alternative origin story for the miniskirt came from Barbara Hulanicki from the London boutique Biba, who recalled that in 1966 she received a delivery of stretchy jersey skirts that had shrunk drastically in transit.",
+      "note": "shrunken jersey skirts sold out at Biba"
+    }
+  ]
+}

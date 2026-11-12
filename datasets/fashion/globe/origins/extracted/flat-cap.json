@@ -1,0 +1,16 @@
+{
+  "trend_id": "flat-cap",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Northern England",
+      "place_type": "region",
+      "year": 1500,
+      "year_precision": "century",
+      "who": null,
+      "hedged": false,
+      "quote": "The style can be traced back to the 16th century in Northern England, when it was more likely to be called a \"bonnet\".",
+      "note": "traced to 16th century north"
+    }
+  ]
+}

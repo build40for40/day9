@@ -1,0 +1,27 @@
+{
+  "trend_id": "trouser-suit",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Britain",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "However, the term \"trouser suit\" had been used in Britain during the First World War, with reference to women working in heavy industry.",
+      "note": "term used in Britain in WWI"
+    },
+    {
+      "kind": "rival",
+      "place": "London",
+      "place_type": "city",
+      "year": 1964,
+      "year_precision": "year",
+      "who": "Ossie Clark",
+      "hedged": false,
+      "quote": "Whilst Saint-Laurent is often credited with introducing trouser suits, it was noted in 1968 that some of his pantsuits were very similar to designs that had already been offered by Luba Marks, and the London designer Ossie Clark had offered a trouser suit for women in 1964 that predated Saint Laurent's 'Le Smoking' design by two years.",
+      "note": "Clark offered a trouser suit before Saint Laurent"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "trend_id": "homburg",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Bad Homburg",
+      "place_type": "city",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "The name comes from Bad Homburg in Hesse, in the German Empire, where it originated as hunting headgear.",
+      "note": "began as hunting hat in Bad Homburg"
+    },
+    {
+      "kind": "root",
+      "place": "Bad Homburg",
+      "place_type": "city",
+      "year": 1890,
+      "year_precision": "decade",
+      "who": "Edward VII",
+      "hedged": false,
+      "quote": "The homburg was popularised in the 1890s by the future Edward VII after he visited Bad Homburg in Hesse, Germany, and brought back a hat of this style.",
+      "note": "Edward VII brought hat from Germany"
+    }
+  ]
+}

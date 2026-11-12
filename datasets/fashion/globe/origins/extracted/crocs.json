@@ -1,0 +1,27 @@
+{
+  "trend_id": "crocs",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Fort Lauderdale",
+      "place_type": "city",
+      "year": 2002,
+      "year_precision": "year",
+      "who": "Crocs",
+      "hedged": false,
+      "quote": "In 2002, Crocs unveiled their first model, the Beach, at the Fort Lauderdale Boat Show in Florida, and all 200 pairs produced sold out.",
+      "note": "first model shown at boat show"
+    },
+    {
+      "kind": "root",
+      "place": "Quebec City",
+      "place_type": "city",
+      "year": null,
+      "year_precision": null,
+      "who": "Andrew Reddyhoff",
+      "hedged": false,
+      "quote": "The trio acquired Andrew Reddyhoff's design from Foam Creations, Inc. of Quebec City, which became the foundation of the Crocs sandals known in the present day.",
+      "note": "design bought from Quebec firm"
+    }
+  ]
+}

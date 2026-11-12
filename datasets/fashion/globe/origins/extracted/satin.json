@@ -1,0 +1,27 @@
+{
+  "trend_id": "satin",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "China",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "Satin originated in ancient China and was originally made solely of silk.",
+      "note": "satin originated in ancient China"
+    },
+    {
+      "kind": "root",
+      "place": "Quanzhou",
+      "place_type": "city",
+      "year": 1200,
+      "year_precision": "century",
+      "who": "Arab merchants",
+      "hedged": false,
+      "quote": "The word \"satin\" derives its origin from the Chinese port city of Quanzhou (泉州), which was known as Zayton in Europe during the Yuan dynasty (13th–14th century), and Arab merchants referred to the silk material imported from that city as zaituni.",
+      "note": "word derives from Quanzhou"
+    }
+  ]
+}

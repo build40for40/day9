@@ -1,0 +1,16 @@
+{
+  "trend_id": "two-tone-shoes",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "England",
+      "place_type": "country",
+      "year": 1868,
+      "year_precision": "year",
+      "who": "John Lobb",
+      "hedged": true,
+      "quote": "The English shoemaker John Lobb claimed to have designed the first spectator shoe as a cricket shoe in 1868.",
+      "note": "Lobb claimed first spectator shoe"
+    }
+  ]
+}

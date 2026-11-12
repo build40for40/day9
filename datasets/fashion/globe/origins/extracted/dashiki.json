@@ -1,0 +1,27 @@
+{
+  "trend_id": "dashiki",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Netherlands",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": "Toon van de Mannaker for Vlisco",
+      "hedged": false,
+      "quote": "The now trademark dashiki design was born from a wax print pattern by Dutch designer Toon van de Mannaker for Netherlands-based Vlisco.",
+      "note": "trademark design born as Dutch wax print"
+    },
+    {
+      "kind": "root",
+      "place": "Ethiopia",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "Van de Mannaker's print pattern was inspired by the silk embroidered tunics worn by Christian Ethiopian noblewomen in the 19th century.",
+      "note": "pattern inspired by Ethiopian tunics"
+    }
+  ]
+}

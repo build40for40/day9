@@ -1,0 +1,27 @@
+{
+  "trend_id": "patches",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "United States",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": "United States military units",
+      "hedged": false,
+      "quote": "Embroidered patches were first adopted by United States military units, with some crude, unofficial examples found on soldiers’ uniforms from the War of 1812, 1845 Mexican War, and the Civil War (1861–65)",
+      "note": "first adopted by US military"
+    },
+    {
+      "kind": "root",
+      "place": "Mediterranean",
+      "place_type": "region",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "Embroidered patches—an important identification tool for military and other uniformed personnel—trace their roots thousands of years ago to ancient cultures of the Mediterranean, Mideast, China, India and South America, where the art of decorating fabric with thread stitching originated.",
+      "note": "roots in ancient stitched embroidery"
+    }
+  ]
+}

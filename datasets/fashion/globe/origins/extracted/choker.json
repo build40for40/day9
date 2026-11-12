@@ -1,0 +1,16 @@
+{
+  "trend_id": "choker",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Mesopotamia",
+      "place_type": "region",
+      "year": -2500,
+      "year_precision": "year",
+      "who": "Sumerian artisans",
+      "hedged": false,
+      "quote": "Golden choker necklaces were crafted by Sumerian artisans around 2500 BC and according to curators from the Jewelry Museum of Fine Arts, chokers have been around for thousands of years, appearing in Ancient Egypt, in addition to the Sumerians in Mesopotamia.",
+      "note": "Sumerians crafted golden chokers"
+    }
+  ]
+}

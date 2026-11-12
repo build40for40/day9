@@ -1,0 +1,16 @@
+{
+  "trend_id": "windbreaker",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Chicago",
+      "place_type": "city",
+      "year": null,
+      "year_precision": null,
+      "who": "John Rissman company",
+      "hedged": false,
+      "quote": "The term was first used and trademarked by the John Rissman company of Chicago for its gabardine jackets.",
+      "note": "name first used and trademarked"
+    }
+  ]
+}

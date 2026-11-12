@@ -1,0 +1,16 @@
+{
+  "trend_id": "utility-clothing",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "United Kingdom",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "The Utility Clothing Scheme was a programme introduced in the United Kingdom during the Second World War.",
+      "note": "wartime clothing scheme started in the UK"
+    }
+  ]
+}

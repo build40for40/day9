@@ -1,0 +1,16 @@
+{
+  "trend_id": "babydoll-dress",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "United States",
+      "place_type": "country",
+      "year": 1942,
+      "year_precision": "year",
+      "who": "Sylvia Pedlar",
+      "hedged": true,
+      "quote": "The creation of the super-short nightgown is attributed to the American lingerie designer Sylvia Pedlar, who produced them in 1942 in response to fabric shortages during World War II.",
+      "note": "short nightgown made in wartime shortage"
+    }
+  ]
+}

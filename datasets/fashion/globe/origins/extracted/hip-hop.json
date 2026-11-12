@@ -1,0 +1,27 @@
+{
+  "trend_id": "hip-hop",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "United States",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "Hip-hop fashion (also known as rap fashion) refers to the various styles of dress that originated from Urban Black America and inner city youth in American cities like New York City, Los Angeles, and Atlanta.",
+      "note": "grew out of Black inner city youth in US cities"
+    },
+    {
+      "kind": "root",
+      "place": "Africa",
+      "place_type": "region",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "Black nationalism was increasingly influential in rap during the late 1980s, and fashions and hairstyles reflected traditional African influences.",
+      "note": "late 1980s styles reflected traditional African dress"
+    }
+  ]
+}

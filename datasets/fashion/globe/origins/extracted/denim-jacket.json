@@ -1,0 +1,27 @@
+{
+  "trend_id": "denim-jacket",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "United States",
+      "place_type": "country",
+      "year": 1880,
+      "year_precision": "year",
+      "who": "Levi Strauss",
+      "hedged": false,
+      "quote": "In the United States the first recorded denim jacket is from about 1880, produced by German-born Jewish-American businessman Levi Strauss approximately ten years after he had begun selling jeans with copper rivets as a new type of work apparel intended for use by cowboys, miners, and railroad workers.",
+      "note": "Levi Strauss made first recorded US jacket"
+    },
+    {
+      "kind": "rival",
+      "place": "Rhineland",
+      "place_type": "region",
+      "year": 1805,
+      "year_precision": "year",
+      "who": null,
+      "hedged": true,
+      "quote": "The first recorded denim jacket is part of the collection of the German Historical Commission of the Rhineland (Stiftung Historische Kommission für die Rheinlande 1789–1815) and dates back to 1805 or 1810.",
+      "note": "earlier German jacket in a collection"
+    }
+  ]
+}

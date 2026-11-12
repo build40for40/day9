@@ -1,0 +1,16 @@
+{
+  "trend_id": "houndstooth",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Scottish Lowlands",
+      "place_type": "region",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": true,
+      "quote": "Contemporary houndstooth checks may have originated as a pattern in woven tweed cloth from the Scottish Lowlands, but are now used in many other woven fabrics aside from wool.",
+      "note": "maybe began in Lowlands tweed"
+    }
+  ]
+}

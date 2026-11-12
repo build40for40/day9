@@ -1,0 +1,27 @@
+{
+  "trend_id": "jelly-shoes",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Paris",
+      "place_type": "city",
+      "year": 1980,
+      "year_precision": "year",
+      "who": "Tony Alano and Nicolas Guillon",
+      "hedged": false,
+      "quote": "Its name comes from the French company called Jelly Shoes, founded by Tony Alano and Nicolas Guillon in 1980 in Paris.",
+      "note": "company founded in Paris"
+    },
+    {
+      "kind": "rival",
+      "place": "France",
+      "place_type": "country",
+      "year": 1950,
+      "year_precision": "decade",
+      "who": "Sarraizienne",
+      "hedged": true,
+      "quote": "The French company Sarraizienne claims to have created the first shoe in PVC in the 50's, and they were used by fishermen for their low price and ease of cleaning.",
+      "note": "earlier PVC shoe claimed"
+    }
+  ]
+}

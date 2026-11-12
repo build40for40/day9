@@ -1,0 +1,16 @@
+{
+  "trend_id": "trilby",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "London",
+      "place_type": "city",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "The hat's name derives from the stage adaptation of George du Maurier's 1894 novel Trilby. A hat of this style was worn in the first London production of the play, and promptly came to be called \"a Trilby hat\".",
+      "note": "named after hat in London play"
+    }
+  ]
+}

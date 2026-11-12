@@ -1,0 +1,27 @@
+{
+  "trend_id": "velvet",
+  "claims": [
+    {
+      "kind": "root",
+      "place": "Kashmir",
+      "place_type": "region",
+      "year": null,
+      "year_precision": null,
+      "who": "Kashmiri merchants",
+      "hedged": false,
+      "quote": "Velvet was introduced to Baghdad during the rule of Harun al-Rashid (786–809) by Kashmiri merchants and to Al-Andalus by Ziryab.",
+      "note": "Kashmiri merchants brought velvet to Baghdad"
+    },
+    {
+      "kind": "root",
+      "place": "Cairo",
+      "place_type": "city",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "In the Mamluk era, Cairo was the world's largest producer of velvet. Much of it was exported to Venice (whence it spread to most of Europe), Iberia and the Mali Empire.",
+      "note": "Cairo velvet exported to Venice"
+    }
+  ]
+}

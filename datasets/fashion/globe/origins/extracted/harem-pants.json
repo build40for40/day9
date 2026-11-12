@@ -1,0 +1,27 @@
+{
+  "trend_id": "harem-pants",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Paris",
+      "place_type": "city",
+      "year": 1911,
+      "year_precision": "year",
+      "who": "Paul Poiret",
+      "hedged": false,
+      "quote": "In 1911, the Paris couturier Paul Poiret introduced harem pants as part of his efforts to reinvent and 'liberate' Western female fashion.",
+      "note": "Poiret introduced harem pants"
+    },
+    {
+      "kind": "root",
+      "place": "Turkey",
+      "place_type": "country",
+      "year": 1910,
+      "year_precision": "year",
+      "who": "Paul Poiret",
+      "hedged": false,
+      "quote": "Inspired by Middle East clothing styles, especially şalvar (Turkish trousers), so-called 'harem pants/skirts' were introduced to Western fashion by designers such as Paul Poiret around 1910.",
+      "note": "inspired by Turkish şalvar"
+    }
+  ]
+}

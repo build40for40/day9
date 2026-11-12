@@ -1,0 +1,222 @@
+[
+  {
+    "trend_id": "buzz-cut",
+    "kind": "origin",
+    "place": "Serbia",
+    "year": 1870,
+    "stage": "hand review",
+    "reason": "Serbia is the nationality of the man who invented hair clippers, not where the haircut started.",
+    "source_url": "https://en.wikipedia.org/wiki/Buzz_cut",
+    "source_sentence": "The buzz cut rose to popularity with the advent of manual hair clippers by the Serbian inventor Nikola Bizumić in the late 19th century."
+  },
+  {
+    "trend_id": "denim-jacket",
+    "kind": "rival",
+    "place": "Rhineland",
+    "year": 1805,
+    "stage": "hand review",
+    "reason": "Says which collection holds the jacket, not where it was made.",
+    "source_url": "https://en.wikipedia.org/wiki/Jean_jacket",
+    "source_sentence": "The first recorded denim jacket is part of the collection of the German Historical Commission of the Rhineland (Stiftung Historische Kommission für die Rheinlande 1789–1815) and dates back to 1805 or 1810."
+  },
+  {
+    "trend_id": "hip-hop",
+    "kind": "root",
+    "place": "Africa",
+    "year": null,
+    "stage": "rule",
+    "reason": "no place, or wider than a country",
+    "source_url": "https://en.wikipedia.org/wiki/Hip-hop_fashion",
+    "source_sentence": "Black nationalism was increasingly influential in rap during the late 1980s, and fashions and hairstyles reflected traditional African influences."
+  },
+  {
+    "trend_id": "levis-501",
+    "kind": "origin",
+    "place": "United States",
+    "year": 1873,
+    "stage": "hand review",
+    "reason": "About the rivet patent, not the 501. The article is about the whole company and the same fact is already filed under jeans.",
+    "source_url": "https://en.wikipedia.org/wiki/Levi_Strauss_%26_Co.",
+    "source_sentence": "After Strauss accepted Davis's offer, the two men received U.S. patent 139,121 from the United States Patent and Trademark Office on May 20, 1873."
+  },
+  {
+    "trend_id": "madras",
+    "kind": "root",
+    "place": "Chennai",
+    "year": 1958,
+    "stage": "hand review",
+    "reason": "One trade deal in 1958. The quote does not say that is when the West picked madras up, and the place is the same as the origin.",
+    "source_url": "https://en.wikipedia.org/wiki/Madras_(cloth)",
+    "source_sentence": "In 1958 William Jacobson, a leading textile importer, traveled to Bombay to trade with Captain C.P. Krishnan, an exporter of madras from Chennai (formerly Madras)."
+  },
+  {
+    "trend_id": "nehru-jacket",
+    "kind": "root",
+    "place": "Jodhpur",
+    "year": null,
+    "stage": "hand review",
+    "reason": "Jodhpur is inferred from the garment's name (Jodhpuri). The quote names no place.",
+    "source_url": "https://en.wikipedia.org/wiki/Nehru_jacket",
+    "source_sentence": "The Nehru jacket is a variation of the Jodhpuri where the material is often khadi (hand-woven cloth). The Jodhpuri itself is an evolution from the Angarkha."
+  },
+  {
+    "trend_id": "kaftan",
+    "kind": "rival",
+    "place": "Turkic peoples",
+    "year": null,
+    "stage": "hand review",
+    "reason": "Says the kaftan is the oldest Turkish dress, which is not a competing origin.",
+    "source_url": "https://en.wikipedia.org/wiki/Kaftan",
+    "source_sentence": "The caftan appears to be the oldest Turkish dress; this costume can be traced as far back as the Hun and Göktürk periods."
+  },
+  {
+    "trend_id": "kaftan",
+    "kind": "root",
+    "place": "Ottoman Empire",
+    "year": null,
+    "stage": "hand review",
+    "reason": "About the kaftan reaching North Africa, not the West.",
+    "source_url": "https://en.wikipedia.org/wiki/Kaftan",
+    "source_sentence": "According to the Encyclopaedia of Islam, the kaftan was introduced into the Barbary States by the Ottomans and spread by fashion as far as Morocco."
+  },
+  {
+    "trend_id": "kaftan",
+    "kind": "root",
+    "place": "Arabs",
+    "year": null,
+    "stage": "hand review",
+    "reason": "About Arab traders in Southeast Asia, not the West.",
+    "source_url": "https://en.wikipedia.org/wiki/Kaftan",
+    "source_sentence": "In Southeast Asia, the kaftan was originally worn by Arab traders, as seen in early lithographs and photographs from the region."
+  },
+  {
+    "trend_id": "dreadlocks",
+    "kind": "root",
+    "place": "Ethiopia",
+    "year": null,
+    "stage": "hand review",
+    "reason": "One step removed. It says where Jamaicans got the idea, and the West got it from Jamaica.",
+    "source_url": "https://en.wikipedia.org/wiki/Dreadlocks",
+    "source_sentence": "Jamaicans locked their hair after seeing images of Ethiopians with locs fighting Italian soldiers during the Second Italo-Ethiopian War."
+  },
+  {
+    "trend_id": "dreadlocks",
+    "kind": "root",
+    "place": "Kenya",
+    "year": 1950,
+    "stage": "hand review",
+    "reason": "One step removed. It says what inspired Rastas, and the West got it from Jamaica.",
+    "source_url": "https://en.wikipedia.org/wiki/Dreadlocks",
+    "source_sentence": "Another African influence for Rastas wearing locs was seeing photos of Mau Mau freedom fighters with locs in Kenya fighting against the British authorities in the 1950s."
+  },
+  {
+    "trend_id": "tie-dye",
+    "kind": "root",
+    "place": "Africa",
+    "year": null,
+    "stage": "rule",
+    "reason": "no place, or wider than a country",
+    "source_url": "https://en.wikipedia.org/wiki/Tie-dye",
+    "source_sentence": "It has been suggested that these African techniques were the inspiration for the tie-dyed garments identified with hippie fashion."
+  },
+  {
+    "trend_id": "love-beads",
+    "kind": "root",
+    "place": "India",
+    "year": null,
+    "stage": "hand review",
+    "reason": "India is one of three examples of 'non-Western cultures' in a sentence that says 'probably'. Not a borrowing from one place.",
+    "source_url": "https://en.wikipedia.org/wiki/Love_beads",
+    "source_sentence": "The love bead trend probably evolved from the hippie fascination with non-Western cultures, such as those of Africa, India, and Native America, which make common use of similar beads."
+  },
+  {
+    "trend_id": "love-beads",
+    "kind": "root",
+    "place": "Native Americans",
+    "year": null,
+    "stage": "hand review",
+    "reason": "Native America is one of three examples of 'non-Western cultures' in a sentence that says 'probably'. Not a borrowing from one place.",
+    "source_url": "https://en.wikipedia.org/wiki/Love_beads",
+    "source_sentence": "The love bead trend probably evolved from the hippie fascination with non-Western cultures, such as those of Africa, India, and Native America, which make common use of similar beads."
+  },
+  {
+    "trend_id": "acid-wash",
+    "kind": "root",
+    "place": "Surfers",
+    "year": 1960,
+    "stage": "hand review",
+    "reason": "Surfers are a crowd, not a place. The quote names no place.",
+    "source_url": "https://en.wikipedia.org/wiki/Stone_washing",
+    "source_sentence": "The process became popular in the 1980s, as acid jeans gained popularity; however, stone washing has roots going back to 1960s surfer apparel."
+  },
+  {
+    "trend_id": "bell-bottoms",
+    "kind": "root",
+    "place": "sailors",
+    "year": 1800,
+    "stage": "hand review",
+    "reason": "Sailors are a trade, not a place. The quote names two navies and no place.",
+    "source_url": "https://en.wikipedia.org/wiki/Bell-bottoms",
+    "source_sentence": "In the early 19th century, when standardised uniforms for British ratings in the Royal Navy or enlisted men in the U.S. Navy did not as yet exist, some sailors adopted a style of wide trousers ending in bell-shaped cuffs."
+  },
+  {
+    "trend_id": "cocktail-dress",
+    "kind": "origin",
+    "place": "France",
+    "year": null,
+    "stage": "hand review",
+    "reason": "Says French designers made their own version. It does not say where the dress started.",
+    "source_url": "https://en.wikipedia.org/wiki/Cocktail_dress",
+    "source_sentence": "Since cocktail parties originated in the United States, French designers created their own version of a cocktail dress."
+  },
+  {
+    "trend_id": "patches",
+    "kind": "root",
+    "place": "Mediterranean",
+    "year": null,
+    "stage": "hand review",
+    "reason": "The Mediterranean is the first of five regions in a list. Not a borrowing from one place.",
+    "source_url": "https://en.wikipedia.org/wiki/Embroidered_patch",
+    "source_sentence": "Embroidered patches—an important identification tool for military and other uniformed personnel—trace their roots thousands of years ago to ancient cultures of the Mediterranean, Mideast, China, India and South America, where the art of decorating fabric with thread stitching originated."
+  },
+  {
+    "trend_id": "pillbox-hat",
+    "kind": "root",
+    "place": "Roman Empire",
+    "year": null,
+    "stage": "hand review",
+    "reason": "A Roman cap that looked similar. The quote does not connect it to the hat.",
+    "source_url": "https://en.wikipedia.org/wiki/Pillbox_hat",
+    "source_sentence": "During the late Roman Empire, the pileus pannonicus or \"Pannonian cap\", a type of headgear similar to the modern pillbox, was worn by Roman soldiers."
+  },
+  {
+    "trend_id": "polka-dots",
+    "kind": "root",
+    "place": "Central Europe",
+    "year": null,
+    "stage": "hand review",
+    "reason": "The quote itself calls the link to the Central European dance mostly discredited.",
+    "source_url": "https://en.wikipedia.org/wiki/Polka_dot",
+    "source_sentence": "It was also at this time, the name “polka dots\" is believed to be connected to an Central European dance called the polka, though the reasons behind this association are varied and mostly discredited."
+  },
+  {
+    "trend_id": "velvet",
+    "kind": "root",
+    "place": "Kashmir",
+    "year": null,
+    "stage": "hand review",
+    "reason": "About velvet reaching Baghdad and Al-Andalus, not the West picking it up.",
+    "source_url": "https://en.wikipedia.org/wiki/Velvet",
+    "source_sentence": "Velvet was introduced to Baghdad during the rule of Harun al-Rashid (786–809) by Kashmiri merchants and to Al-Andalus by Ziryab."
+  },
+  {
+    "trend_id": "wrap-dress",
+    "kind": "root",
+    "place": "China",
+    "year": null,
+    "stage": "hand review",
+    "reason": "About ancient Chinese garments reaching Japan, not the West's wrap dress.",
+    "source_url": "https://en.wikipedia.org/wiki/Wrap_dress",
+    "source_sentence": "Wrap-style garments which were tied with sash have very ancient origins in China and were later introduced in Japan influencing the design of the kimono."
+  }
+]

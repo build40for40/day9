@@ -1,0 +1,27 @@
+{
+  "trend_id": "brothel-creepers",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Wellingborough",
+      "place_type": "city",
+      "year": 1949,
+      "year_precision": "year",
+      "who": "George Cox Limited",
+      "hedged": false,
+      "quote": "This style of thick soled shoe was first developed commercially in 1949 by George Cox Limited of Wellingborough, Northamptonshire, England, and marketed under the \"Hamilton\" name, based on George Cox Jr.'s middle name.",
+      "note": "first made commercially by George Cox"
+    },
+    {
+      "kind": "root",
+      "place": "North Africa",
+      "place_type": "region",
+      "year": null,
+      "year_precision": null,
+      "who": "World War II soldiers",
+      "hedged": false,
+      "quote": "A version of this style of shoe became popular with World War II soldiers in North Africa, who adopted suede boots with hard-wearing crepe rubber.",
+      "note": "soldiers wore crepe-soled suede boots"
+    }
+  ]
+}

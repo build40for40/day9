@@ -1,0 +1,27 @@
+{
+  "trend_id": "hot-pants",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Italy",
+      "place_type": "country",
+      "year": 1970,
+      "year_precision": "year",
+      "who": "Mariuccia Mandelli of Krizia",
+      "hedged": true,
+      "quote": "Lambert credits Mariuccia Mandelli of the Italian fashion label Krizia with designing the first \"hot pants\" in 1970.",
+      "note": "Krizia credited with first hot pants"
+    },
+    {
+      "kind": "rival",
+      "place": "France",
+      "place_type": "country",
+      "year": 1970,
+      "year_precision": "year",
+      "who": "Dorothée Bis",
+      "hedged": true,
+      "quote": "According to the fashion publicist Eleanor Lambert, the term \"hot pants\" was coined by Women's Wear Daily (WWD) in 1970 to describe fashions innovated by the French ready-to-wear company Dorothée Bis.",
+      "note": "French label said to have innovated them"
+    }
+  ]
+}

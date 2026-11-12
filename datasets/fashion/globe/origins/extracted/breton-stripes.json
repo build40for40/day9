@@ -1,0 +1,16 @@
+{
+  "trend_id": "breton-stripes",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "France",
+      "place_type": "country",
+      "year": 1858,
+      "year_precision": "year",
+      "who": "French Navy",
+      "hedged": false,
+      "quote": "Regulations of 27 March 1858 introduced the blue-and-white marinière to the French Navy's official uniform for seamen, describing it thus:",
+      "note": "added to French Navy uniform"
+    }
+  ]
+}

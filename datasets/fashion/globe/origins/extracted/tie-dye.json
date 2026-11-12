@@ -1,0 +1,16 @@
+{
+  "trend_id": "tie-dye",
+  "claims": [
+    {
+      "kind": "root",
+      "place": "Africa",
+      "place_type": "region",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": true,
+      "quote": "It has been suggested that these African techniques were the inspiration for the tie-dyed garments identified with hippie fashion.",
+      "note": "African dyeing said to inspire hippie tie-dye"
+    }
+  ]
+}

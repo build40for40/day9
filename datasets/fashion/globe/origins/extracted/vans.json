@@ -1,0 +1,16 @@
+{
+  "trend_id": "vans",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Anaheim",
+      "place_type": "city",
+      "year": 1966,
+      "year_precision": "year",
+      "who": "Paul Van Doren, James Van Doren and Gordon C. Lee",
+      "hedged": false,
+      "quote": "Paul Van Doren, his brother James, and Gordon C. Lee opened the first Vans store as \"The Van Doren Rubber Company\" on March 16, 1966, at 704 East Broadway in Anaheim, California.",
+      "note": "first Vans store opened"
+    }
+  ]
+}

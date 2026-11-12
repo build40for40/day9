@@ -1,0 +1,1638 @@
+[
+  {
+    "trend_id": "beatle-boots",
+    "title": "Beatle boot",
+    "url": "https://en.wikipedia.org/wiki/Beatle_boot",
+    "chars": 6302
+  },
+  {
+    "trend_id": "beatniks",
+    "title": "Beatnik",
+    "url": "https://en.wikipedia.org/wiki/Beatnik",
+    "chars": 25398
+  },
+  {
+    "trend_id": "boat-shoes",
+    "title": "Boat shoe",
+    "url": "https://en.wikipedia.org/wiki/Boat_shoe",
+    "chars": 2174
+  },
+  {
+    "trend_id": "breton-stripes",
+    "title": "Marinière",
+    "url": "https://en.wikipedia.org/wiki/Marini%C3%A8re",
+    "chars": 6102,
+    "redirected_from": "Breton shirt"
+  },
+  {
+    "trend_id": "button-down-shirt",
+    "title": "Dress shirt",
+    "url": "https://en.wikipedia.org/wiki/Dress_shirt",
+    "chars": 20058,
+    "redirected_from": "Button-down collar"
+  },
+  {
+    "trend_id": "buzz-cut",
+    "title": "Buzz cut",
+    "url": "https://en.wikipedia.org/wiki/Buzz_cut",
+    "chars": 2291
+  },
+  {
+    "trend_id": "cardigan",
+    "title": "Cardigan (sweater)",
+    "url": "https://en.wikipedia.org/wiki/Cardigan_(sweater)",
+    "chars": 2544
+  },
+  {
+    "trend_id": "crew-cut",
+    "title": "Crew cut",
+    "url": "https://en.wikipedia.org/wiki/Crew_cut",
+    "chars": 8219
+  },
+  {
+    "trend_id": "denim-jacket",
+    "title": "Jean jacket",
+    "url": "https://en.wikipedia.org/wiki/Jean_jacket",
+    "chars": 5938
+  },
+  {
+    "trend_id": "double-breasted-suit",
+    "title": "Double-breasted",
+    "url": "https://en.wikipedia.org/wiki/Double-breasted",
+    "chars": 2893
+  },
+  {
+    "trend_id": "drape-jacket",
+    "title": "Drape suit",
+    "url": "https://en.wikipedia.org/wiki/Drape_suit",
+    "chars": 5009
+  },
+  {
+    "trend_id": "goth",
+    "title": "Goth subculture",
+    "url": "https://en.wikipedia.org/wiki/Goth_subculture",
+    "chars": 31250
+  },
+  {
+    "trend_id": "greasers",
+    "title": "Greaser (subculture)",
+    "url": "https://en.wikipedia.org/wiki/Greaser_(subculture)",
+    "chars": 10745
+  },
+  {
+    "trend_id": "grunge",
+    "title": "Grunge (fashion)",
+    "url": "https://en.wikipedia.org/wiki/Grunge_(fashion)",
+    "chars": 5798,
+    "redirected_from": "Grunge fashion"
+  },
+  {
+    "trend_id": "harrington-jacket",
+    "title": "Harrington jacket",
+    "url": "https://en.wikipedia.org/wiki/Harrington_jacket",
+    "chars": 1604
+  },
+  {
+    "trend_id": "high-top-sneakers",
+    "title": "High-top",
+    "url": "https://en.wikipedia.org/wiki/High-top",
+    "chars": 1234
+  },
+  {
+    "trend_id": "hip-hop",
+    "title": "Hip-hop fashion",
+    "url": "https://en.wikipedia.org/wiki/Hip-hop_fashion",
+    "chars": 28300
+  },
+  {
+    "trend_id": "houndstooth",
+    "title": "Houndstooth",
+    "url": "https://en.wikipedia.org/wiki/Houndstooth",
+    "chars": 3781
+  },
+  {
+    "trend_id": "jeans",
+    "title": "Jeans",
+    "url": "https://en.wikipedia.org/wiki/Jeans",
+    "chars": 24563
+  },
+  {
+    "trend_id": "kipper-tie",
+    "title": "Kipper tie",
+    "url": "https://en.wikipedia.org/wiki/Kipper_tie",
+    "chars": 2172
+  },
+  {
+    "trend_id": "leather-jacket",
+    "title": "Leather jacket",
+    "url": "https://en.wikipedia.org/wiki/Leather_jacket",
+    "chars": 9338
+  },
+  {
+    "trend_id": "levis-501",
+    "title": "Levi Strauss & Co.",
+    "url": "https://en.wikipedia.org/wiki/Levi_Strauss_%26_Co.",
+    "chars": 17992,
+    "redirected_from": "Levi's 501"
+  },
+  {
+    "trend_id": "loafers",
+    "title": "Slip-on shoe",
+    "url": "https://en.wikipedia.org/wiki/Slip-on_shoe",
+    "chars": 6915
+  },
+  {
+    "trend_id": "mens-makeup",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "miniskirt",
+    "title": "Miniskirt",
+    "url": "https://en.wikipedia.org/wiki/Miniskirt",
+    "chars": 57655
+  },
+  {
+    "trend_id": "new-look",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "platform-boots",
+    "title": "Platform shoe",
+    "url": "https://en.wikipedia.org/wiki/Platform_shoe",
+    "chars": 28249
+  },
+  {
+    "trend_id": "poet-shirt",
+    "title": "Poet shirt",
+    "url": "https://en.wikipedia.org/wiki/Poet_shirt",
+    "chars": 3228
+  },
+  {
+    "trend_id": "polo-shirt",
+    "title": "Polo shirt",
+    "url": "https://en.wikipedia.org/wiki/Polo_shirt",
+    "chars": 5867
+  },
+  {
+    "trend_id": "punk",
+    "title": "Punk fashion",
+    "url": "https://en.wikipedia.org/wiki/Punk_fashion",
+    "chars": 26676
+  },
+  {
+    "trend_id": "quiff",
+    "title": "Quiff",
+    "url": "https://en.wikipedia.org/wiki/Quiff",
+    "chars": 1290
+  },
+  {
+    "trend_id": "safety-pins",
+    "title": "Safety pin",
+    "url": "https://en.wikipedia.org/wiki/Safety_pin",
+    "chars": 5466
+  },
+  {
+    "trend_id": "slim-suit",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "sustainable-fabrics",
+    "title": "Sustainable fashion",
+    "url": "https://en.wikipedia.org/wiki/Sustainable_fashion",
+    "chars": 37583
+  },
+  {
+    "trend_id": "turtleneck",
+    "title": "Polo neck",
+    "url": "https://en.wikipedia.org/wiki/Polo_neck",
+    "chars": 4624
+  },
+  {
+    "trend_id": "tweed-jacket",
+    "title": "Sport coat",
+    "url": "https://en.wikipedia.org/wiki/Sport_coat",
+    "chars": 2141
+  },
+  {
+    "trend_id": "two-tone-shoes",
+    "title": "Spectator shoe",
+    "url": "https://en.wikipedia.org/wiki/Spectator_shoe",
+    "chars": 3070
+  },
+  {
+    "trend_id": "velvet-blazer",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "work-boots",
+    "title": "Steel-toe boot",
+    "url": "https://en.wikipedia.org/wiki/Steel-toe_boot",
+    "chars": 7472
+  },
+  {
+    "trend_id": "paisley",
+    "title": "Paisley (design)",
+    "url": "https://en.wikipedia.org/wiki/Paisley_(design)",
+    "chars": 10265
+  },
+  {
+    "trend_id": "madras",
+    "title": "Madras (cloth)",
+    "url": "https://en.wikipedia.org/wiki/Madras_(cloth)",
+    "chars": 5109
+  },
+  {
+    "trend_id": "nehru-jacket",
+    "title": "Nehru jacket",
+    "url": "https://en.wikipedia.org/wiki/Nehru_jacket",
+    "chars": 1784
+  },
+  {
+    "trend_id": "kaftan",
+    "title": "Kaftan",
+    "url": "https://en.wikipedia.org/wiki/Kaftan",
+    "chars": 20886
+  },
+  {
+    "trend_id": "dashiki",
+    "title": "Dashiki",
+    "url": "https://en.wikipedia.org/wiki/Dashiki",
+    "chars": 5814
+  },
+  {
+    "trend_id": "moccasins",
+    "title": "Moccasin",
+    "url": "https://en.wikipedia.org/wiki/Moccasin",
+    "chars": 3480
+  },
+  {
+    "trend_id": "hawaiian-shirt",
+    "title": "Aloha shirt",
+    "url": "https://en.wikipedia.org/wiki/Aloha_shirt",
+    "chars": 9870
+  },
+  {
+    "trend_id": "harem-pants",
+    "title": "Harem pants",
+    "url": "https://en.wikipedia.org/wiki/Harem_pants",
+    "chars": 2999
+  },
+  {
+    "trend_id": "kilt",
+    "title": "Kilt",
+    "url": "https://en.wikipedia.org/wiki/Kilt",
+    "chars": 23750
+  },
+  {
+    "trend_id": "dreadlocks",
+    "title": "Dreadlocks",
+    "url": "https://en.wikipedia.org/wiki/Dreadlocks",
+    "chars": 35805
+  },
+  {
+    "trend_id": "cornrows",
+    "title": "Cornrows",
+    "url": "https://en.wikipedia.org/wiki/Cornrows",
+    "chars": 11051
+  },
+  {
+    "trend_id": "braids",
+    "title": "Braid (hairstyle)",
+    "url": "https://en.wikipedia.org/wiki/Braid_(hairstyle)",
+    "chars": 13151
+  },
+  {
+    "trend_id": "bandana",
+    "title": "Kerchief",
+    "url": "https://en.wikipedia.org/wiki/Kerchief",
+    "chars": 4534,
+    "redirected_from": "Bandana"
+  },
+  {
+    "trend_id": "beret",
+    "title": "Beret",
+    "url": "https://en.wikipedia.org/wiki/Beret",
+    "chars": 12154
+  },
+  {
+    "trend_id": "afro",
+    "title": "Afro",
+    "url": "https://en.wikipedia.org/wiki/Afro",
+    "chars": 10200
+  },
+  {
+    "trend_id": "tartan",
+    "title": "Tartan",
+    "url": "https://en.wikipedia.org/wiki/Tartan",
+    "chars": 233377
+  },
+  {
+    "trend_id": "fair-isle",
+    "title": "Fair Isle (knitting)",
+    "url": "https://en.wikipedia.org/wiki/Fair_Isle_(knitting)",
+    "chars": 4550,
+    "redirected_from": "Fair Isle (technique)"
+  },
+  {
+    "trend_id": "argyle",
+    "title": "Argyle (pattern)",
+    "url": "https://en.wikipedia.org/wiki/Argyle_(pattern)",
+    "chars": 3172
+  },
+  {
+    "trend_id": "birkenstocks",
+    "title": "Birkenstock",
+    "url": "https://en.wikipedia.org/wiki/Birkenstock",
+    "chars": 17117
+  },
+  {
+    "trend_id": "ugg-boots",
+    "title": "Ugg boots",
+    "url": "https://en.wikipedia.org/wiki/Ugg_boots",
+    "chars": 20990
+  },
+  {
+    "trend_id": "bermuda-shorts",
+    "title": "Bermuda shorts",
+    "url": "https://en.wikipedia.org/wiki/Bermuda_shorts",
+    "chars": 4122
+  },
+  {
+    "trend_id": "capri-pants",
+    "title": "Capri pants",
+    "url": "https://en.wikipedia.org/wiki/Capri_pants",
+    "chars": 2420
+  },
+  {
+    "trend_id": "chinos",
+    "title": "Chino cloth",
+    "url": "https://en.wikipedia.org/wiki/Chino_cloth",
+    "chars": 1610
+  },
+  {
+    "trend_id": "desert-boots",
+    "title": "Chukka boot",
+    "url": "https://en.wikipedia.org/wiki/Chukka_boot",
+    "chars": 3060
+  },
+  {
+    "trend_id": "doc-martens",
+    "title": "Dr. Martens",
+    "url": "https://en.wikipedia.org/wiki/Dr._Martens",
+    "chars": 11987
+  },
+  {
+    "trend_id": "tie-dye",
+    "title": "Tie-dye",
+    "url": "https://en.wikipedia.org/wiki/Tie-dye",
+    "chars": 12502
+  },
+  {
+    "trend_id": "seersucker",
+    "title": "Seersucker",
+    "url": "https://en.wikipedia.org/wiki/Seersucker",
+    "chars": 6901
+  },
+  {
+    "trend_id": "gingham",
+    "title": "Gingham",
+    "url": "https://en.wikipedia.org/wiki/Gingham",
+    "chars": 2347
+  },
+  {
+    "trend_id": "parka",
+    "title": "Parka",
+    "url": "https://en.wikipedia.org/wiki/Parka",
+    "chars": 10162
+  },
+  {
+    "trend_id": "cape",
+    "title": "Poncho",
+    "url": "https://en.wikipedia.org/wiki/Poncho",
+    "chars": 7626
+  },
+  {
+    "trend_id": "headscarf",
+    "title": "Turban",
+    "url": "https://en.wikipedia.org/wiki/Turban",
+    "chars": 22754
+  },
+  {
+    "trend_id": "mohawk",
+    "title": "Mohawk hairstyle",
+    "url": "https://en.wikipedia.org/wiki/Mohawk_hairstyle",
+    "chars": 8615
+  },
+  {
+    "trend_id": "puka-shell-necklace",
+    "title": "Puka shell",
+    "url": "https://en.wikipedia.org/wiki/Puka_shell",
+    "chars": 3886
+  },
+  {
+    "trend_id": "gladiator-sandals",
+    "title": "Caligae",
+    "url": "https://en.wikipedia.org/wiki/Caligae",
+    "chars": 3778,
+    "redirected_from": "Gladiator sandal"
+  },
+  {
+    "trend_id": "palazzo-pants",
+    "title": "Palazzo pants",
+    "url": "https://en.wikipedia.org/wiki/Palazzo_pants",
+    "chars": 2002
+  },
+  {
+    "trend_id": "culottes",
+    "title": "Culottes",
+    "url": "https://en.wikipedia.org/wiki/Culottes",
+    "chars": 6001
+  },
+  {
+    "trend_id": "cowboy-boots",
+    "title": "Cowboy boot",
+    "url": "https://en.wikipedia.org/wiki/Cowboy_boot",
+    "chars": 10044
+  },
+  {
+    "trend_id": "stetson",
+    "title": "Cowboy hat",
+    "url": "https://en.wikipedia.org/wiki/Cowboy_hat",
+    "chars": 8930
+  },
+  {
+    "trend_id": "zoot-suit",
+    "title": "Zoot suit",
+    "url": "https://en.wikipedia.org/wiki/Zoot_suit",
+    "chars": 11833
+  },
+  {
+    "trend_id": "homburg",
+    "title": "Homburg hat",
+    "url": "https://en.wikipedia.org/wiki/Homburg_hat",
+    "chars": 2698
+  },
+  {
+    "trend_id": "leisure-suit",
+    "title": "Safari jacket",
+    "url": "https://en.wikipedia.org/wiki/Safari_jacket",
+    "chars": 4657
+  },
+  {
+    "trend_id": "brogues",
+    "title": "Brogue shoe",
+    "url": "https://en.wikipedia.org/wiki/Brogue_shoe",
+    "chars": 11020
+  },
+  {
+    "trend_id": "love-beads",
+    "title": "Love beads",
+    "url": "https://en.wikipedia.org/wiki/Love_beads",
+    "chars": 2685
+  },
+  {
+    "trend_id": "peasant-blouse",
+    "title": "Blouse",
+    "url": "https://en.wikipedia.org/wiki/Blouse",
+    "chars": 10988,
+    "redirected_from": "Peasant blouse"
+  },
+  {
+    "trend_id": "tweed",
+    "title": "Tweed",
+    "url": "https://en.wikipedia.org/wiki/Tweed",
+    "chars": 5538
+  },
+  {
+    "trend_id": "denim",
+    "title": "Denim",
+    "url": "https://en.wikipedia.org/wiki/Denim",
+    "chars": 12525
+  },
+  {
+    "trend_id": "hoop-earrings",
+    "title": "Earring",
+    "url": "https://en.wikipedia.org/wiki/Earring",
+    "chars": 31308,
+    "redirected_from": "Hoop earring"
+  },
+  {
+    "trend_id": "acid-wash",
+    "title": "Stone washing",
+    "url": "https://en.wikipedia.org/wiki/Stone_washing",
+    "chars": 8944,
+    "redirected_from": "Acid wash"
+  },
+  {
+    "trend_id": "air-jordans",
+    "title": "Air Jordan",
+    "url": "https://en.wikipedia.org/wiki/Air_Jordan",
+    "chars": 46736
+  },
+  {
+    "trend_id": "animal-print",
+    "title": "Animal print",
+    "url": "https://en.wikipedia.org/wiki/Animal_print",
+    "chars": 4493
+  },
+  {
+    "trend_id": "art-deco-jewellery",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "aviator-sunglasses",
+    "title": "Aviator sunglasses",
+    "url": "https://en.wikipedia.org/wiki/Aviator_sunglasses",
+    "chars": 10334
+  },
+  {
+    "trend_id": "babydoll-dress",
+    "title": "Babydoll",
+    "url": "https://en.wikipedia.org/wiki/Babydoll",
+    "chars": 3562
+  },
+  {
+    "trend_id": "baggy-jeans",
+    "title": "Wide-leg trousers",
+    "url": "https://en.wikipedia.org/wiki/Wide-leg_trousers",
+    "chars": 5406,
+    "redirected_from": "Wide-leg jeans"
+  },
+  {
+    "trend_id": "ballet-flats",
+    "title": "Ballet flat",
+    "url": "https://en.wikipedia.org/wiki/Ballet_flat",
+    "chars": 2998
+  },
+  {
+    "trend_id": "band-t-shirt",
+    "title": "Concert T-shirt",
+    "url": "https://en.wikipedia.org/wiki/Concert_T-shirt",
+    "chars": 1612
+  },
+  {
+    "trend_id": "baseball-cap",
+    "title": "Baseball cap",
+    "url": "https://en.wikipedia.org/wiki/Baseball_cap",
+    "chars": 13995
+  },
+  {
+    "trend_id": "beanie",
+    "title": "Knit cap",
+    "url": "https://en.wikipedia.org/wiki/Knit_cap",
+    "chars": 10872
+  },
+  {
+    "trend_id": "bell-bottoms",
+    "title": "Bell-bottoms",
+    "url": "https://en.wikipedia.org/wiki/Bell-bottoms",
+    "chars": 7888
+  },
+  {
+    "trend_id": "bike-shorts",
+    "title": "Cycling shorts",
+    "url": "https://en.wikipedia.org/wiki/Cycling_shorts",
+    "chars": 6137
+  },
+  {
+    "trend_id": "bobby-socks",
+    "title": "Bobby sock",
+    "url": "https://en.wikipedia.org/wiki/Bobby_sock",
+    "chars": 709
+  },
+  {
+    "trend_id": "body-piercing",
+    "title": "Body piercing",
+    "url": "https://en.wikipedia.org/wiki/Body_piercing",
+    "chars": 37504
+  },
+  {
+    "trend_id": "bomber-jacket",
+    "title": "Flight jacket",
+    "url": "https://en.wikipedia.org/wiki/Flight_jacket",
+    "chars": 12127
+  },
+  {
+    "trend_id": "bootcut-jeans",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "bowler-hat",
+    "title": "Bowler hat",
+    "url": "https://en.wikipedia.org/wiki/Bowler_hat",
+    "chars": 10243
+  },
+  {
+    "trend_id": "braces",
+    "title": "Suspenders",
+    "url": "https://en.wikipedia.org/wiki/Suspenders",
+    "chars": 5947
+  },
+  {
+    "trend_id": "brothel-creepers",
+    "title": "Brothel creeper",
+    "url": "https://en.wikipedia.org/wiki/Brothel_creeper",
+    "chars": 2554
+  },
+  {
+    "trend_id": "bucket-hat",
+    "title": "Bucket hat",
+    "url": "https://en.wikipedia.org/wiki/Bucket_hat",
+    "chars": 6493
+  },
+  {
+    "trend_id": "camisole",
+    "title": "Camisole",
+    "url": "https://en.wikipedia.org/wiki/Camisole",
+    "chars": 1872
+  },
+  {
+    "trend_id": "camouflage",
+    "title": "Military camouflage",
+    "url": "https://en.wikipedia.org/wiki/Military_camouflage",
+    "chars": 34435
+  },
+  {
+    "trend_id": "cargo-pants",
+    "title": "Cargo pants",
+    "url": "https://en.wikipedia.org/wiki/Cargo_pants",
+    "chars": 2697
+  },
+  {
+    "trend_id": "cat-eye-glasses",
+    "title": "Cat eye glasses",
+    "url": "https://en.wikipedia.org/wiki/Cat_eye_glasses",
+    "chars": 2271
+  },
+  {
+    "trend_id": "chelsea-boots",
+    "title": "Chelsea boot",
+    "url": "https://en.wikipedia.org/wiki/Chelsea_boot",
+    "chars": 2734
+  },
+  {
+    "trend_id": "choker",
+    "title": "Choker",
+    "url": "https://en.wikipedia.org/wiki/Choker",
+    "chars": 2521
+  },
+  {
+    "trend_id": "chunky-sneakers",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "cigarette-holder",
+    "title": "Cigarette holder",
+    "url": "https://en.wikipedia.org/wiki/Cigarette_holder",
+    "chars": 5883
+  },
+  {
+    "trend_id": "cloche-hat",
+    "title": "Cloche hat",
+    "url": "https://en.wikipedia.org/wiki/Cloche_hat",
+    "chars": 2471
+  },
+  {
+    "trend_id": "cocktail-dress",
+    "title": "Cocktail dress",
+    "url": "https://en.wikipedia.org/wiki/Cocktail_dress",
+    "chars": 5668
+  },
+  {
+    "trend_id": "combat-boots",
+    "title": "Combat boot",
+    "url": "https://en.wikipedia.org/wiki/Combat_boot",
+    "chars": 27935
+  },
+  {
+    "trend_id": "converse",
+    "title": "Chuck Taylor All-Stars",
+    "url": "https://en.wikipedia.org/wiki/Chuck_Taylor_All-Stars",
+    "chars": 15118
+  },
+  {
+    "trend_id": "corduroy",
+    "title": "Corduroy",
+    "url": "https://en.wikipedia.org/wiki/Corduroy",
+    "chars": 3758
+  },
+  {
+    "trend_id": "corset",
+    "title": "Corset",
+    "url": "https://en.wikipedia.org/wiki/Corset",
+    "chars": 46394
+  },
+  {
+    "trend_id": "court-shoes",
+    "title": "Court shoe",
+    "url": "https://en.wikipedia.org/wiki/Court_shoe",
+    "chars": 4326
+  },
+  {
+    "trend_id": "crocs",
+    "title": "Crocs",
+    "url": "https://en.wikipedia.org/wiki/Crocs",
+    "chars": 17277
+  },
+  {
+    "trend_id": "crop-top",
+    "title": "Crop top",
+    "url": "https://en.wikipedia.org/wiki/Crop_top",
+    "chars": 2826
+  },
+  {
+    "trend_id": "denim-shorts",
+    "title": "Jorts",
+    "url": "https://en.wikipedia.org/wiki/Jorts",
+    "chars": 6222,
+    "redirected_from": "Jean shorts"
+  },
+  {
+    "trend_id": "designer-jeans",
+    "title": "Designer clothing",
+    "url": "https://en.wikipedia.org/wiki/Designer_clothing",
+    "chars": 4746,
+    "redirected_from": "Designer jeans"
+  },
+  {
+    "trend_id": "dog-collar",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "double-denim",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "ed-hardy",
+    "title": "Don Ed Hardy",
+    "url": "https://en.wikipedia.org/wiki/Don_Ed_Hardy",
+    "chars": 8051
+  },
+  {
+    "trend_id": "fanny-pack",
+    "title": "Fanny pack",
+    "url": "https://en.wikipedia.org/wiki/Fanny_pack",
+    "chars": 4804
+  },
+  {
+    "trend_id": "faux-fur",
+    "title": "Fake fur",
+    "url": "https://en.wikipedia.org/wiki/Fake_fur",
+    "chars": 7117
+  },
+  {
+    "trend_id": "feather-boa",
+    "title": "Boa (clothing accessory)",
+    "url": "https://en.wikipedia.org/wiki/Boa_(clothing_accessory)",
+    "chars": 3756,
+    "redirected_from": "Feather boa"
+  },
+  {
+    "trend_id": "fedora",
+    "title": "Fedora",
+    "url": "https://en.wikipedia.org/wiki/Fedora",
+    "chars": 13601
+  },
+  {
+    "trend_id": "fingerless-gloves",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "fishnets",
+    "title": "Fishnet",
+    "url": "https://en.wikipedia.org/wiki/Fishnet",
+    "chars": 4006
+  },
+  {
+    "trend_id": "flannel-shirt",
+    "title": "Flannel",
+    "url": "https://en.wikipedia.org/wiki/Flannel",
+    "chars": 4863
+  },
+  {
+    "trend_id": "flat-cap",
+    "title": "Flat cap",
+    "url": "https://en.wikipedia.org/wiki/Flat_cap",
+    "chars": 4475
+  },
+  {
+    "trend_id": "fleece",
+    "title": "Polar fleece",
+    "url": "https://en.wikipedia.org/wiki/Polar_fleece",
+    "chars": 3678
+  },
+  {
+    "trend_id": "floral-print",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "flower-power",
+    "title": "Flower power",
+    "url": "https://en.wikipedia.org/wiki/Flower_power",
+    "chars": 9236
+  },
+  {
+    "trend_id": "fringe",
+    "title": "Fringe (trim)",
+    "url": "https://en.wikipedia.org/wiki/Fringe_(trim)",
+    "chars": 1589
+  },
+  {
+    "trend_id": "fur-coat",
+    "title": "Fur clothing",
+    "url": "https://en.wikipedia.org/wiki/Fur_clothing",
+    "chars": 19611
+  },
+  {
+    "trend_id": "geometric-print",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "gloves",
+    "title": "Glove",
+    "url": "https://en.wikipedia.org/wiki/Glove",
+    "chars": 23032
+  },
+  {
+    "trend_id": "go-go-boots",
+    "title": "Go-go boot",
+    "url": "https://en.wikipedia.org/wiki/Go-go_boot",
+    "chars": 3080
+  },
+  {
+    "trend_id": "gold-chain",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "granny-boots",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "graphic-t-shirt",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "hair-bow",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "halter-top",
+    "title": "Halterneck",
+    "url": "https://en.wikipedia.org/wiki/Halterneck",
+    "chars": 6543
+  },
+  {
+    "trend_id": "headband",
+    "title": "Headband",
+    "url": "https://en.wikipedia.org/wiki/Headband",
+    "chars": 7962
+  },
+  {
+    "trend_id": "high-waisted-trousers",
+    "title": "High-rise (fashion)",
+    "url": "https://en.wikipedia.org/wiki/High-rise_(fashion)",
+    "chars": 2937
+  },
+  {
+    "trend_id": "hoodie",
+    "title": "Hoodie",
+    "url": "https://en.wikipedia.org/wiki/Hoodie",
+    "chars": 11787
+  },
+  {
+    "trend_id": "horn-rimmed-glasses",
+    "title": "Horn-rimmed glasses",
+    "url": "https://en.wikipedia.org/wiki/Horn-rimmed_glasses",
+    "chars": 5889
+  },
+  {
+    "trend_id": "hot-pants",
+    "title": "Hotpants",
+    "url": "https://en.wikipedia.org/wiki/Hotpants",
+    "chars": 9996
+  },
+  {
+    "trend_id": "it-bag",
+    "title": "It bag",
+    "url": "https://en.wikipedia.org/wiki/It_bag",
+    "chars": 3962
+  },
+  {
+    "trend_id": "jelly-bracelets",
+    "title": "Gel bracelet",
+    "url": "https://en.wikipedia.org/wiki/Gel_bracelet",
+    "chars": 6052
+  },
+  {
+    "trend_id": "jelly-shoes",
+    "title": "Jelly shoes",
+    "url": "https://en.wikipedia.org/wiki/Jelly_shoes",
+    "chars": 5016
+  },
+  {
+    "trend_id": "kitten-heels",
+    "title": "Kitten heel",
+    "url": "https://en.wikipedia.org/wiki/Kitten_heel",
+    "chars": 1974
+  },
+  {
+    "trend_id": "knee-high-boots",
+    "title": "Knee-high boot",
+    "url": "https://en.wikipedia.org/wiki/Knee-high_boot",
+    "chars": 1711
+  },
+  {
+    "trend_id": "knee-socks",
+    "title": "Knee highs",
+    "url": "https://en.wikipedia.org/wiki/Knee_highs",
+    "chars": 2502
+  },
+  {
+    "trend_id": "lace",
+    "title": "Lace",
+    "url": "https://en.wikipedia.org/wiki/Lace",
+    "chars": 17061
+  },
+  {
+    "trend_id": "leather-trousers",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "leg-warmers",
+    "title": "Leg warmer",
+    "url": "https://en.wikipedia.org/wiki/Leg_warmer",
+    "chars": 2187
+  },
+  {
+    "trend_id": "leggings",
+    "title": "Leggings",
+    "url": "https://en.wikipedia.org/wiki/Leggings",
+    "chars": 8501
+  },
+  {
+    "trend_id": "little-black-dress",
+    "title": "Little black dress",
+    "url": "https://en.wikipedia.org/wiki/Little_black_dress",
+    "chars": 7654
+  },
+  {
+    "trend_id": "logomania",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "low-rise-jeans",
+    "title": "Low-rise (fashion)",
+    "url": "https://en.wikipedia.org/wiki/Low-rise_(fashion)",
+    "chars": 5390
+  },
+  {
+    "trend_id": "mary-janes",
+    "title": "Mary Jane shoes",
+    "url": "https://en.wikipedia.org/wiki/Mary_Jane_shoes",
+    "chars": 3532,
+    "redirected_from": "Mary Jane (shoe)"
+  },
+  {
+    "trend_id": "maxi-dress",
+    "title": "Dress",
+    "url": "https://en.wikipedia.org/wiki/Dress",
+    "chars": 13829,
+    "redirected_from": "Maxi dress"
+  },
+  {
+    "trend_id": "maxi-skirt",
+    "title": "Skirt",
+    "url": "https://en.wikipedia.org/wiki/Skirt",
+    "chars": 13088,
+    "redirected_from": "Maxi skirt"
+  },
+  {
+    "trend_id": "metallics",
+    "title": "Lamé (fabric)",
+    "url": "https://en.wikipedia.org/wiki/Lam%C3%A9_(fabric)",
+    "chars": 1518
+  },
+  {
+    "trend_id": "midi-skirt",
+    "title": "Skirt",
+    "url": "https://en.wikipedia.org/wiki/Skirt",
+    "chars": 13088,
+    "redirected_from": "Midi skirt"
+  },
+  {
+    "trend_id": "military-surplus",
+    "title": "Military surplus",
+    "url": "https://en.wikipedia.org/wiki/Military_surplus",
+    "chars": 4007
+  },
+  {
+    "trend_id": "mom-jeans",
+    "title": "Mom jeans",
+    "url": "https://en.wikipedia.org/wiki/Mom_jeans",
+    "chars": 2517
+  },
+  {
+    "trend_id": "newsboy-cap",
+    "title": "Newsboy cap",
+    "url": "https://en.wikipedia.org/wiki/Newsboy_cap",
+    "chars": 2926
+  },
+  {
+    "trend_id": "off-the-shoulder",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "overalls",
+    "title": "Overalls",
+    "url": "https://en.wikipedia.org/wiki/Overalls",
+    "chars": 4215
+  },
+  {
+    "trend_id": "oversized-sunglasses",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "oversized-sweater",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "patches",
+    "title": "Embroidered patch",
+    "url": "https://en.wikipedia.org/wiki/Embroidered_patch",
+    "chars": 6800
+  },
+  {
+    "trend_id": "pearls",
+    "title": "Pearl necklace",
+    "url": "https://en.wikipedia.org/wiki/Pearl_necklace",
+    "chars": 730
+  },
+  {
+    "trend_id": "pencil-skirt",
+    "title": "Pencil skirt",
+    "url": "https://en.wikipedia.org/wiki/Pencil_skirt",
+    "chars": 1777
+  },
+  {
+    "trend_id": "petticoat",
+    "title": "Petticoat",
+    "url": "https://en.wikipedia.org/wiki/Petticoat",
+    "chars": 8925
+  },
+  {
+    "trend_id": "pillbox-hat",
+    "title": "Pillbox hat",
+    "url": "https://en.wikipedia.org/wiki/Pillbox_hat",
+    "chars": 2886
+  },
+  {
+    "trend_id": "pinstripe",
+    "title": "Pinstripes",
+    "url": "https://en.wikipedia.org/wiki/Pinstripes",
+    "chars": 2124,
+    "redirected_from": "Pin stripes"
+  },
+  {
+    "trend_id": "platform-shoes",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "pleated-skirt",
+    "title": "Pleat",
+    "url": "https://en.wikipedia.org/wiki/Pleat",
+    "chars": 8249,
+    "redirected_from": "Pleated skirt"
+  },
+  {
+    "trend_id": "plus-fours",
+    "title": "Plus fours",
+    "url": "https://en.wikipedia.org/wiki/Plus_fours",
+    "chars": 1334
+  },
+  {
+    "trend_id": "polka-dots",
+    "title": "Polka dot",
+    "url": "https://en.wikipedia.org/wiki/Polka_dot",
+    "chars": 6198
+  },
+  {
+    "trend_id": "polyester",
+    "title": "Polyester",
+    "url": "https://en.wikipedia.org/wiki/Polyester",
+    "chars": 28537
+  },
+  {
+    "trend_id": "pork-pie-hat",
+    "title": "Pork pie hat",
+    "url": "https://en.wikipedia.org/wiki/Pork_pie_hat",
+    "chars": 6597
+  },
+  {
+    "trend_id": "power-suit",
+    "title": "Power dressing",
+    "url": "https://en.wikipedia.org/wiki/Power_dressing",
+    "chars": 4540
+  },
+  {
+    "trend_id": "prairie-dress",
+    "title": "Prairie dress",
+    "url": "https://en.wikipedia.org/wiki/Prairie_dress",
+    "chars": 3239
+  },
+  {
+    "trend_id": "psychedelic-print",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "puffer-jacket",
+    "title": "Down jacket",
+    "url": "https://en.wikipedia.org/wiki/Down_jacket",
+    "chars": 4970,
+    "redirected_from": "Puffer jacket"
+  },
+  {
+    "trend_id": "pvc",
+    "title": "PVC clothing",
+    "url": "https://en.wikipedia.org/wiki/PVC_clothing",
+    "chars": 5148
+  },
+  {
+    "trend_id": "rhinestones",
+    "title": "Rhinestone",
+    "url": "https://en.wikipedia.org/wiki/Rhinestone",
+    "chars": 4659
+  },
+  {
+    "trend_id": "ripped-jeans",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "round-glasses",
+    "title": "Windsor glasses",
+    "url": "https://en.wikipedia.org/wiki/Windsor_glasses",
+    "chars": 1382
+  },
+  {
+    "trend_id": "sack-dress",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "saddle-shoes",
+    "title": "Saddle shoe",
+    "url": "https://en.wikipedia.org/wiki/Saddle_shoe",
+    "chars": 950
+  },
+  {
+    "trend_id": "satin",
+    "title": "Satin",
+    "url": "https://en.wikipedia.org/wiki/Satin",
+    "chars": 5479
+  },
+  {
+    "trend_id": "scrunchie",
+    "title": "Scrunchie",
+    "url": "https://en.wikipedia.org/wiki/Scrunchie",
+    "chars": 6450
+  },
+  {
+    "trend_id": "sequins",
+    "title": "Sequin",
+    "url": "https://en.wikipedia.org/wiki/Sequin",
+    "chars": 4389
+  },
+  {
+    "trend_id": "sheath-dress",
+    "title": "Sheath dress",
+    "url": "https://en.wikipedia.org/wiki/Sheath_dress",
+    "chars": 5046
+  },
+  {
+    "trend_id": "sheer-top",
+    "title": "See-through clothing",
+    "url": "https://en.wikipedia.org/wiki/See-through_clothing",
+    "chars": 13070
+  },
+  {
+    "trend_id": "shift-dress",
+    "title": "Shift dress",
+    "url": "https://en.wikipedia.org/wiki/Shift_dress",
+    "chars": 1369
+  },
+  {
+    "trend_id": "shutter-shades",
+    "title": "Shutter shades",
+    "url": "https://en.wikipedia.org/wiki/Shutter_shades",
+    "chars": 1605
+  },
+  {
+    "trend_id": "skinny-jeans",
+    "title": "Slim-fit pants",
+    "url": "https://en.wikipedia.org/wiki/Slim-fit_pants",
+    "chars": 11452
+  },
+  {
+    "trend_id": "skinny-tie",
+    "title": "Necktie",
+    "url": "https://en.wikipedia.org/wiki/Necktie",
+    "chars": 38625,
+    "redirected_from": "Skinny tie"
+  },
+  {
+    "trend_id": "skirt-suit",
+    "title": "Suit",
+    "url": "https://en.wikipedia.org/wiki/Suit",
+    "chars": 39443,
+    "redirected_from": "Skirt suit"
+  },
+  {
+    "trend_id": "skull-print",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "slip-dress",
+    "title": "Slip dress",
+    "url": "https://en.wikipedia.org/wiki/Slip_dress",
+    "chars": 1846
+  },
+  {
+    "trend_id": "slogan-t-shirt",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "snapback",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "sneakers",
+    "title": "Sneakers",
+    "url": "https://en.wikipedia.org/wiki/Sneakers",
+    "chars": 11584
+  },
+  {
+    "trend_id": "spandex",
+    "title": "Spandex",
+    "url": "https://en.wikipedia.org/wiki/Spandex",
+    "chars": 6253
+  },
+  {
+    "trend_id": "sports-jersey",
+    "title": "Team jersey",
+    "url": "https://en.wikipedia.org/wiki/Team_jersey",
+    "chars": 2631,
+    "redirected_from": "Jersey (sport)"
+  },
+  {
+    "trend_id": "sportswear",
+    "title": "Sportswear (fashion)",
+    "url": "https://en.wikipedia.org/wiki/Sportswear_(fashion)",
+    "chars": 29655
+  },
+  {
+    "trend_id": "statement-jewellery",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "stiletto-heels",
+    "title": "Stiletto heel",
+    "url": "https://en.wikipedia.org/wiki/Stiletto_heel",
+    "chars": 4398
+  },
+  {
+    "trend_id": "stockings",
+    "title": "Stocking",
+    "url": "https://en.wikipedia.org/wiki/Stocking",
+    "chars": 9680
+  },
+  {
+    "trend_id": "straight-leg-jeans",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "studs-and-spikes",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "sweater-vest",
+    "title": "Sweater vest",
+    "url": "https://en.wikipedia.org/wiki/Sweater_vest",
+    "chars": 937
+  },
+  {
+    "trend_id": "sweatpants",
+    "title": "Sweatpants",
+    "url": "https://en.wikipedia.org/wiki/Sweatpants",
+    "chars": 4717
+  },
+  {
+    "trend_id": "tank-top",
+    "title": "Sleeveless shirt",
+    "url": "https://en.wikipedia.org/wiki/Sleeveless_shirt",
+    "chars": 6459
+  },
+  {
+    "trend_id": "tattoos",
+    "title": "Tattoo",
+    "url": "https://en.wikipedia.org/wiki/Tattoo",
+    "chars": 53605
+  },
+  {
+    "trend_id": "tea-gown",
+    "title": "Tea gown",
+    "url": "https://en.wikipedia.org/wiki/Tea_gown",
+    "chars": 1641
+  },
+  {
+    "trend_id": "tights",
+    "title": "Tights",
+    "url": "https://en.wikipedia.org/wiki/Tights",
+    "chars": 8210
+  },
+  {
+    "trend_id": "tonic-suit",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "tracksuit",
+    "title": "Tracksuit",
+    "url": "https://en.wikipedia.org/wiki/Tracksuit",
+    "chars": 5484
+  },
+  {
+    "trend_id": "tramp-stamp",
+    "title": "Lower-back tattoo",
+    "url": "https://en.wikipedia.org/wiki/Lower-back_tattoo",
+    "chars": 3755
+  },
+  {
+    "trend_id": "trench-coat",
+    "title": "Trench coat",
+    "url": "https://en.wikipedia.org/wiki/Trench_coat",
+    "chars": 5576
+  },
+  {
+    "trend_id": "trilby",
+    "title": "Trilby",
+    "url": "https://en.wikipedia.org/wiki/Trilby",
+    "chars": 2834
+  },
+  {
+    "trend_id": "trouser-suit",
+    "title": "Pantsuit",
+    "url": "https://en.wikipedia.org/wiki/Pantsuit",
+    "chars": 3273
+  },
+  {
+    "trend_id": "trucker-hat",
+    "title": "Trucker hat",
+    "url": "https://en.wikipedia.org/wiki/Trucker_hat",
+    "chars": 2964
+  },
+  {
+    "trend_id": "tube-socks",
+    "title": "Sock",
+    "url": "https://en.wikipedia.org/wiki/Sock",
+    "chars": 18550,
+    "redirected_from": "Tube sock"
+  },
+  {
+    "trend_id": "tube-top",
+    "title": "Tube top",
+    "url": "https://en.wikipedia.org/wiki/Tube_top",
+    "chars": 1588
+  },
+  {
+    "trend_id": "union-jack",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "unstructured-blazer",
+    "title": "Blazer",
+    "url": "https://en.wikipedia.org/wiki/Blazer",
+    "chars": 8084
+  },
+  {
+    "trend_id": "utility-clothing",
+    "title": "Utility clothing",
+    "url": "https://en.wikipedia.org/wiki/Utility_clothing",
+    "chars": 5076
+  },
+  {
+    "trend_id": "vans",
+    "title": "Vans",
+    "url": "https://en.wikipedia.org/wiki/Vans",
+    "chars": 6943
+  },
+  {
+    "trend_id": "varsity-jacket",
+    "title": "Letterman (sports)",
+    "url": "https://en.wikipedia.org/wiki/Letterman_(sports)",
+    "chars": 7296,
+    "redirected_from": "Varsity jacket"
+  },
+  {
+    "trend_id": "velvet",
+    "title": "Velvet",
+    "url": "https://en.wikipedia.org/wiki/Velvet",
+    "chars": 8937
+  },
+  {
+    "trend_id": "waistcoat",
+    "title": "Waistcoat",
+    "url": "https://en.wikipedia.org/wiki/Waistcoat",
+    "chars": 20421
+  },
+  {
+    "trend_id": "wayfarers",
+    "title": "Ray-Ban Wayfarer",
+    "url": "https://en.wikipedia.org/wiki/Ray-Ban_Wayfarer",
+    "chars": 5544
+  },
+  {
+    "trend_id": "wedge-heels",
+    "title": "Wedge (footwear)",
+    "url": "https://en.wikipedia.org/wiki/Wedge_(footwear)",
+    "chars": 1847
+  },
+  {
+    "trend_id": "wedge-sneakers",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "wellies",
+    "title": "Wellington boot",
+    "url": "https://en.wikipedia.org/wiki/Wellington_boot",
+    "chars": 8077
+  },
+  {
+    "trend_id": "western-shirt",
+    "title": "Western wear",
+    "url": "https://en.wikipedia.org/wiki/Western_wear",
+    "chars": 9364,
+    "redirected_from": "Western shirt"
+  },
+  {
+    "trend_id": "white-sneakers",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "white-t-shirt",
+    "title": "T-shirt",
+    "url": "https://en.wikipedia.org/wiki/T-shirt",
+    "chars": 17724
+  },
+  {
+    "trend_id": "wide-belt",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "wide-leg-trousers",
+    "title": null,
+    "url": null,
+    "chars": 0,
+    "note": "no article of its own"
+  },
+  {
+    "trend_id": "windbreaker",
+    "title": "Windbreaker",
+    "url": "https://en.wikipedia.org/wiki/Windbreaker",
+    "chars": 2689
+  },
+  {
+    "trend_id": "winklepickers",
+    "title": "Winklepicker",
+    "url": "https://en.wikipedia.org/wiki/Winklepicker",
+    "chars": 5401
+  },
+  {
+    "trend_id": "womens-trousers",
+    "title": "Trousers as women's clothing",
+    "url": "https://en.wikipedia.org/wiki/Trousers_as_women's_clothing",
+    "chars": 39035
+  },
+  {
+    "trend_id": "workwear",
+    "title": "Workwear",
+    "url": "https://en.wikipedia.org/wiki/Workwear",
+    "chars": 10052
+  },
+  {
+    "trend_id": "wrap-dress",
+    "title": "Wrap dress",
+    "url": "https://en.wikipedia.org/wiki/Wrap_dress",
+    "chars": 7381
+  },
+  {
+    "trend_id": "yoga-pants",
+    "title": "Yoga pants",
+    "url": "https://en.wikipedia.org/wiki/Yoga_pants",
+    "chars": 8163
+  }
+]

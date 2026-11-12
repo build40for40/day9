@@ -1,0 +1,16 @@
+{
+  "trend_id": "birkenstocks",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Frankfurt am Main",
+      "place_type": "city",
+      "year": 1896,
+      "year_precision": "year",
+      "who": "Konrad Birkenstock",
+      "hedged": false,
+      "quote": "His grandson, Konrad Birkenstock (1873–1950), left the Wetterau after also training as a shoemaker and opened an orthopaedic shoemaker's workshop in Frankfurt am Main in 1896 and founded Konrad Birkenstock GmbH a year later. Konrad Birkenstock developed the first contoured insole for use by shoemakers in the production of custom footwear.",
+      "note": "first contoured insole developed"
+    }
+  ]
+}

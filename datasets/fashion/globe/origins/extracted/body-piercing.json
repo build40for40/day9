@@ -1,0 +1,16 @@
+{
+  "trend_id": "body-piercing",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "West Hollywood",
+      "place_type": "city",
+      "year": 1978,
+      "year_precision": "year",
+      "who": "Jim Ward",
+      "hedged": true,
+      "quote": "Ward (inspired by and with money from Malloy) opened The Gauntlet as a home business in November 1975 and then as a commercial storefront operation in West Hollywood on 17 November 1978. The establishment of this business – considered the first of its type in the United States – was the beginning of the body piercing industry.",
+      "note": "first piercing studio opened"
+    }
+  ]
+}

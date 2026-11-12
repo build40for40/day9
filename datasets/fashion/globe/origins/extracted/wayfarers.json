@@ -1,0 +1,16 @@
+{
+  "trend_id": "wayfarers",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "United States",
+      "place_type": "country",
+      "year": 1952,
+      "year_precision": "year",
+      "who": "Raymond Stegeman",
+      "hedged": false,
+      "quote": "Wayfarers were designed in 1952 by American optical designer Raymond Stegeman, who worked for Bausch & Lomb, Ray-Ban's parent company at that time.",
+      "note": "designed by American optical designer"
+    }
+  ]
+}

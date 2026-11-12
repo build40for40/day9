@@ -1,0 +1,16 @@
+{
+  "trend_id": "leisure-suit",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "France",
+      "place_type": "country",
+      "year": 1960,
+      "year_precision": "decade",
+      "who": "Ted Lapidus and Yves Saint Laurent",
+      "hedged": true,
+      "quote": "In the 1960s and 1970s, safari suits became fashionable thanks to designer versions for men and women by, for example, French designers Ted Lapidus and Yves Saint Laurent, both of whom are among those credited with inventing and popularising the look.",
+      "note": "French designers credited with the look"
+    }
+  ]
+}

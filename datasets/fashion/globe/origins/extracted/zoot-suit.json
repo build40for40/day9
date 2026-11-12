@@ -1,0 +1,60 @@
+{
+  "trend_id": "zoot-suit",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "African Americans",
+      "place_type": "people",
+      "year": 1920,
+      "year_precision": "decade",
+      "who": null,
+      "hedged": false,
+      "quote": "The zoot suit originated in African American comedy shows within the Chitlin' Circuit in the 1920s.",
+      "note": "started in comedy shows"
+    },
+    {
+      "kind": "rival",
+      "place": "Chicago",
+      "place_type": "city",
+      "year": null,
+      "year_precision": null,
+      "who": "Harold C. Fox",
+      "hedged": true,
+      "quote": "There was no one designer in creating the zoot suits; however, many tailors have taken credit for the definitive style and capitalized on it. Harold C. Fox, a Chicago clothier and big-band trumpeter; Charles Klein and Vito Bagnato of New York City; Louis Lettes, a Memphis tailor; and Nathan (Toddy) Elkus, a Detroit retailer.",
+      "note": "tailor credited with the style"
+    },
+    {
+      "kind": "rival",
+      "place": "New York City",
+      "place_type": "city",
+      "year": null,
+      "year_precision": null,
+      "who": "Charles Klein and Vito Bagnato",
+      "hedged": true,
+      "quote": "There was no one designer in creating the zoot suits; however, many tailors have taken credit for the definitive style and capitalized on it. Harold C. Fox, a Chicago clothier and big-band trumpeter; Charles Klein and Vito Bagnato of New York City; Louis Lettes, a Memphis tailor; and Nathan (Toddy) Elkus, a Detroit retailer.",
+      "note": "tailors credited with the style"
+    },
+    {
+      "kind": "rival",
+      "place": "Memphis",
+      "place_type": "city",
+      "year": null,
+      "year_precision": null,
+      "who": "Louis Lettes",
+      "hedged": true,
+      "quote": "There was no one designer in creating the zoot suits; however, many tailors have taken credit for the definitive style and capitalized on it. Harold C. Fox, a Chicago clothier and big-band trumpeter; Charles Klein and Vito Bagnato of New York City; Louis Lettes, a Memphis tailor; and Nathan (Toddy) Elkus, a Detroit retailer.",
+      "note": "tailor credited with the style"
+    },
+    {
+      "kind": "rival",
+      "place": "Detroit",
+      "place_type": "city",
+      "year": null,
+      "year_precision": null,
+      "who": "Nathan (Toddy) Elkus",
+      "hedged": true,
+      "quote": "There was no one designer in creating the zoot suits; however, many tailors have taken credit for the definitive style and capitalized on it. Harold C. Fox, a Chicago clothier and big-band trumpeter; Charles Klein and Vito Bagnato of New York City; Louis Lettes, a Memphis tailor; and Nathan (Toddy) Elkus, a Detroit retailer.",
+      "note": "retailer credited with the style"
+    }
+  ]
+}

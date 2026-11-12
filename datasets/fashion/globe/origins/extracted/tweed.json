@@ -1,0 +1,16 @@
+{
+  "trend_id": "tweed",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Scottish Borders",
+      "place_type": "region",
+      "year": 1831,
+      "year_precision": "year",
+      "who": "James Locke",
+      "hedged": false,
+      "quote": "Around 1831, a London merchant, James Locke, received a letter from a Hawick firm, Wm. Watson & Sons, Dangerfield Mills about some \"tweels\". The merchant misinterpreted the handwriting, understanding it to be a trade-name taken from the River Tweed that flows through the Scottish Borders textile area.",
+      "note": "name Tweed came from a misread letter"
+    }
+  ]
+}

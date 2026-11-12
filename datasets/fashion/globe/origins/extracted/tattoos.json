@@ -1,0 +1,27 @@
+{
+  "trend_id": "tattoos",
+  "claims": [
+    {
+      "kind": "root",
+      "place": "South Pacific",
+      "place_type": "region",
+      "year": 1770,
+      "year_precision": "century",
+      "who": "Captain James Cook",
+      "hedged": true,
+      "quote": "It is commonly held that the modern popularity of tattooing stems from Captain James Cook's three voyages to the South Pacific in the late 18th century.",
+      "note": "modern popularity traced to Cook's voyages"
+    },
+    {
+      "kind": "root",
+      "place": "Samoa",
+      "place_type": "country",
+      "year": 1700,
+      "year_precision": "century",
+      "who": null,
+      "hedged": false,
+      "quote": "The word tattoo, or tattow in the 18th century, is a loanword from the Samoan word tatau, meaning \"to strike\", from Proto-Oceanic *sau₃ referring to a wingbone from a flying fox used as an instrument for the tattooing process.",
+      "note": "word borrowed from Samoan tatau"
+    }
+  ]
+}

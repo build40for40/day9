@@ -1,0 +1,422 @@
+<title>Who Wore It First</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Instrument+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap">
+<style>
+/* One room, one job: a look's origin story told in a few stops on a globe. One dark look, the Nerds of Fashion tokens. */
+:root {
+  --bg: #0e0d12; --panel: #17151d; --raised: #211e29; --line: #302c3a; --edge: #453f52;
+  --text: #f2eee6; --sub: #cfc9d6; --muted: #a39fae; --pink: #ff6fa8; --pink-hover: #ff8fbb; --pink-ink: #1f0612; --gold: #e8c27a;
+  --ocean: #131118; --land: #262230; --land-edge: #453f52; --grid: #1c1923;
+  --body: "Instrument Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --display: "Bodoni Moda", Didot, Georgia, serif;
+  --mono: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+body { background: var(--bg); color: var(--text); font-family: var(--body); font-size: 15px; line-height: 1.55;
+  padding-block: 0 48px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+a { color: var(--pink); }
+.wrap { max-width: 1040px; margin: 0 auto; display: flex; flex-direction: column; gap: 22px; }
+.bar { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; border-bottom: 1px solid var(--line); padding-block: 12px; }
+.brand { font-family: var(--display); font-style: italic; font-weight: 900; font-size: clamp(22px, 5.5vw, 30px); line-height: 1; color: var(--text); text-decoration: none; }
+.brand span { color: var(--pink); }
+.back { font-size: 13px; font-weight: 600; color: var(--sub); text-decoration: none; border: 1px solid var(--line); border-radius: 999px; padding: 5px 12px; white-space: nowrap; }
+.back:hover { color: var(--text); border-color: var(--muted); }
+.eyebrow { font-family: var(--mono); font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--pink); margin: 0; }
+.intro { display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr); gap: 12px 48px; align-items: end; }
+h1 { font-family: var(--display); font-weight: 500; font-size: clamp(44px, 9vw, 96px); line-height: 0.92; letter-spacing: -0.025em; margin: 8px 0 0; text-wrap: balance; }
+h1 em { font-weight: 400; }
+.intro p.lede { margin: 0; color: var(--sub); max-width: 54ch; }
+.find { display: flex; flex-direction: column; gap: 8px; }
+.combo { max-width: 460px; display: flex; flex-direction: column; gap: 6px; }
+.find input { font: inherit; font-size: 16px; color: var(--text); background: var(--panel); border: 1px solid var(--edge); border-radius: 999px; padding: 11px 16px; width: 100%; }
+.find input::placeholder { color: var(--muted); }
+.hits { list-style: none; margin: 0; padding: 6px; display: flex; flex-direction: column; background: var(--panel); border: 1px solid var(--line); border-radius: 16px; }
+.hits li { display: flex; align-items: center; gap: 10px; padding: 9px 10px; border-radius: 10px; cursor: pointer; font-weight: 600; min-width: 0; }
+.hits li:hover, .hits li[aria-selected="true"] { background: var(--raised); }
+.hits li i, .chip i { width: 9px; height: 9px; border-radius: 50%; flex: none; display: inline-block; }
+.hits li .m { margin-left: auto; font-family: var(--mono); font-size: 11px; font-weight: 400; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); white-space: nowrap; }
+.hits li.none { cursor: default; font-weight: 400; color: var(--muted); }
+.hits li.none:hover { background: none; }
+.chips { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+.try { font-size: 13px; color: var(--muted); }
+.chip { font: inherit; font-size: 13px; font-weight: 600; color: var(--sub); background: transparent; border: 1px solid var(--edge); border-radius: 999px; padding: 6px 12px; cursor: pointer; display: inline-flex; align-items: center; gap: 7px; }
+.chip:hover { border-color: var(--muted); color: var(--text); }
+.chip[aria-pressed="true"] { background: var(--text); color: var(--bg); border-color: var(--text); }
+.room { border: 1px solid var(--line); background: var(--panel); border-radius: 16px; overflow: hidden; display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); }
+.globe { position: relative; aspect-ratio: 1 / 1; width: 100%; max-width: 560px; margin: 0 auto; }
+canvas { position: absolute; inset: 0; width: 100%; height: 100%; touch-action: pan-y; cursor: grab; }
+canvas:active { cursor: grabbing; }
+.tell { display: flex; flex-direction: column; gap: 14px; padding: 22px 22px 20px; border-left: 1px solid var(--line); min-width: 0; }
+@media (max-width: 760px) {
+  .intro { grid-template-columns: minmax(0, 1fr); }
+  .room { grid-template-columns: minmax(0, 1fr); }
+  .tell { border-left: 0; border-top: 1px solid var(--line); padding: 18px 16px; }
+}
+.look { font-family: var(--display); font-style: italic; font-weight: 700; font-size: 26px; line-height: 1.1; margin: 0; }
+.what { margin: 0; color: var(--muted); font-size: 13.5px; }
+.stopno { font-family: var(--mono); font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--pink); margin: 0; }
+.cap { font-family: var(--display); font-size: clamp(22px, 3.2vw, 30px); line-height: 1.18; margin: 0; min-height: 3.5em; text-wrap: pretty; overflow-wrap: anywhere; }
+.pic { display: flex; gap: 12px; align-items: flex-start; margin: 0; }
+.pic img { width: 76px; flex: none; border-radius: 8px; border: 1px solid var(--line); }
+.pic figcaption { font-size: 12px; color: var(--muted); min-width: 0; overflow-wrap: anywhere; }
+.dots { display: flex; gap: 6px; flex-wrap: wrap; }
+.dots button { font: inherit; font-family: var(--mono); font-size: 11px; letter-spacing: 0.04em; text-transform: uppercase; color: var(--muted); background: transparent; border: 1px solid var(--line); border-radius: 999px; padding: 4px 10px; cursor: pointer; }
+.dots button[aria-current="step"] { color: var(--bg); background: var(--text); border-color: var(--text); }
+.dots button.seen { color: var(--sub); border-color: var(--edge); }
+.ctl { display: flex; gap: 8px; flex-wrap: wrap; }
+.btn { font: inherit; font-weight: 600; border-radius: 999px; padding: 10px 16px; cursor: pointer; border: 1px solid var(--edge); background: transparent; color: var(--text); }
+.btn:hover { border-color: var(--muted); }
+.btn[disabled] { opacity: 0.35; cursor: default; }
+.btn.go { background: var(--pink); color: var(--pink-ink); border-color: var(--pink); flex: 1 1 140px; }
+.btn.go:hover { background: var(--pink-hover); }
+details { border-top: 1px solid var(--line); padding-top: 12px; }
+summary { cursor: pointer; font-family: var(--mono); font-size: 12px; letter-spacing: 0.06em; text-transform: uppercase; color: var(--sub); }
+.rc { list-style: none; margin: 10px 0 0; padding: 0; display: flex; flex-direction: column; gap: 10px; }
+.rc li { font-size: 13px; color: var(--sub); overflow-wrap: anywhere; }
+.rc b { color: var(--text); }
+.shaky { font-family: var(--mono); font-size: 10.5px; text-transform: uppercase; letter-spacing: 0.05em; color: var(--gold); border: 1px dashed var(--gold); border-radius: 999px; padding: 0 6px; margin-left: 6px; }
+.how { font-family: var(--mono); font-size: 12px; color: var(--muted); margin: 0; }
+.key { display: inline-block; width: 22px; border-top: 2px solid var(--muted); vertical-align: middle; margin: 0 4px 2px 0; }
+.key.dash { border-top-style: dashed; margin-left: 12px; }
+footer { color: var(--muted); font-size: 12.5px; border-top: 1px solid var(--line); padding-top: 16px; }
+footer p { margin: 0 0 6px; max-width: 86ch; }
+canvas:focus-visible, button:focus-visible, input:focus-visible, a:focus-visible, summary:focus-visible { outline: 2px solid var(--pink); outline-offset: 3px; }
+</style>
+
+<div class="wrap">
+  <div class="bar"><a class="brand" href="https://build40for40.com/nerds-of-fashion/">Nerds <span>of</span> Fashion</a><a class="back" href="https://build40for40.com/nerds-of-fashion/">Back to the rooms</a></div>
+
+  <header class="intro">
+    <div>
+      <p class="eyebrow">Room VII</p>
+      <h1>Who Wore It <em>First?</em></h1>
+    </div>
+    <p class="lede">Every look has an origin story, and somebody usually disputes it. Pick one and the globe tells it in a few stops: what it was borrowed from, where it was born, who else claims it, where it went and when it came back.</p>
+  </header>
+
+  <div class="find">
+    <div class="combo">
+      <input type="search" id="q" role="combobox" aria-expanded="false" aria-controls="hits" aria-autocomplete="list" placeholder="Type a look, like punk or zoot suit" aria-label="Search looks" autocomplete="off">
+      <ul class="hits" id="hits" role="listbox" aria-label="Matching looks" hidden></ul>
+    </div>
+    <div class="chips" id="examples" role="group" aria-label="Examples"></div>
+  </div>
+
+  <section class="room" aria-label="The story">
+    <div class="globe"><canvas id="globe" tabindex="0" role="img" aria-label="Globe that turns to each stop of the story. Arrow keys step through the stops."></canvas></div>
+    <div class="tell">
+      <div>
+        <h2 class="look" id="look"></h2>
+        <p class="what" id="what"></p>
+      </div>
+      <div class="dots" id="dots" role="group" aria-label="Stops"></div>
+      <p class="stopno" id="stopno"></p>
+      <p class="cap" id="cap" aria-live="polite"></p>
+      <figure class="pic" id="pic" hidden><img id="img" alt=""><figcaption id="figcap"></figcaption></figure>
+      <div class="ctl">
+        <button class="btn" id="prev" type="button">Back</button>
+        <button class="btn go" id="next" type="button">Next stop</button>
+        <button class="btn" id="play" type="button">Play</button>
+      </div>
+      <details id="receipts">
+        <summary id="rc-sum">Receipts</summary>
+        <ul class="rc" id="rc"></ul>
+      </details>
+    </div>
+  </section>
+  <p class="how">Pick a look and press play. Open the receipts at any stop. <span class="key"></span>sourced <span class="key dash"></span>shaky, or a guess</p>
+
+  <footer>
+    <p><span id="n-all">0</span> looks have a story here, and <span id="n-full">0</span> of them have four stops or more. A missing stop means we found no source for it, not that it never happened.</p>
+    <p>Dates and quotes: the Day 9 fashion dataset, built from Wikipedia's fashion history articles (CC BY-SA 4.0), plus each look's own Wikipedia article for origins, rivals and roots. Arrival dates beyond the UK, US, France and Italy come from newspaper archives at the national libraries of the Netherlands, Norway, Luxembourg and Estonia and the Deutsche Digitale Bibliothek. Photos © Victoria and Albert Museum, London. Coastlines from Natural Earth.</p>
+  </footer>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
+<script>
+const LAND = /*LAND*/null;
+const STORIES = /*DATA*/null;
+
+const FAMILY = { clothes: '#5b8ef0', scenes: '#e2703a', kit: '#1fa583', face: '#a970da' };
+const CAT = { garment: FAMILY.clothes, silhouette: FAMILY.clothes, fabric: FAMILY.clothes, pattern: FAMILY.clothes, colour: FAMILY.clothes, subculture: FAMILY.scenes, accessory: FAMILY.kit, footwear: FAMILY.kit, hair: FAMILY.face, makeup: FAMILY.face };
+const LABEL = { root: 'Borrowed from', born: 'Born', rival: 'Disputed', went: 'Travelled', everywhere: 'Everywhere', back: 'Back again' };
+const EXAMPLES = ['miniskirt', 'paisley', 'hawaiian-shirt'];
+for (const t of STORIES) t.col = CAT[t.c] || '#a39fae';
+const byId = Object.fromEntries(STORIES.map((t) => [t.id, t]));
+const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+const $ = (id) => document.getElementById(id);
+$('n-all').textContent = STORIES.length;
+$('n-full').textContent = STORIES.filter((t) => t.full).length;
+
+// sel: the look. i: the stop on show. prog: how far the current stop has drawn in. home: 0 to 1 as it is sent home.
+const S = { sel: EXAMPLES.find((id) => byId[id]) || STORIES[0].id, i: 0, prog: 1, home: 0, rot: [0, -30, 0], zoom: 1, q: '', playing: false };
+const story = () => byId[S.sel];
+const stop = () => story().stops[S.i];
+const bornAt = (t) => { const b = t.stops.find((s) => s.k === 'born'); return b ? b.pts[0] : null; };
+
+const canvas = $('globe'), ctx = canvas.getContext('2d');
+const proj = d3.geoOrthographic().clipAngle(90).precision(0.4);
+const path = d3.geoPath(proj, ctx);
+const land = topojson.feature(LAND, LAND.objects.land);
+const grid = d3.geoGraticule10();
+let W = 0, dpr = 1;
+
+function size() {
+  const r = canvas.getBoundingClientRect();
+  dpr = Math.min(window.devicePixelRatio || 1, 2);
+  W = r.width;
+  canvas.width = canvas.height = Math.round(W * dpr);
+  draw();
+}
+function arcLine(a, b, from, to) {
+  const f = d3.geoInterpolate(a, b), n = 32, pts = [];
+  for (let k = 0; k <= n; k++) pts.push(f(from + ((to - from) * k) / n));
+  return { type: 'LineString', coordinates: pts };
+}
+
+// Where the camera should sit for a stop: centred on its places (and the birthplace), zoomed to fit them.
+function camera(t, i) {
+  const s = t.stops[i], b = bornAt(t);
+  let pts = s.pts.map((p) => [p[0], p[1]]);
+  if (b && (s.k !== 'born' || !pts.length)) pts.push([b[0], b[1]]);
+  if (!pts.length) pts = t.stops.flatMap((x) => x.pts.map((p) => [p[0], p[1]])).slice(0, 1);
+  if (s.k === 'everywhere' || s.k === 'back') return { rot: [-pts[pts.length - 1][0], -pts[pts.length - 1][1] * 0.5, 0], zoom: 1 };
+  let x = 0, y = 0, z = 0;
+  for (const [lon, lat] of pts) { const a = (lon * Math.PI) / 180, c = (lat * Math.PI) / 180; x += Math.cos(c) * Math.cos(a); y += Math.cos(c) * Math.sin(a); z += Math.sin(c); }
+  const centre = [(Math.atan2(y, x) * 180) / Math.PI, (Math.atan2(z, Math.hypot(x, y)) * 180) / Math.PI];
+  const spread = Math.max(0, ...pts.map((p) => d3.geoDistance(p, centre)));
+  // Too far apart to fit on one face of the globe: look at this stop's own place and let the line run to the horizon.
+  if (spread > 0.95 && s.pts.length) {
+    // A journey that went all over: stay on the birthplace so most of the lines are in view.
+    const at = s.k === 'went' && b ? b : s.pts[0];
+    return { rot: [-at[0], -at[1] * 0.6, 0], zoom: s.k === 'went' ? 1 : 1.15 };
+  }
+  return { rot: [-centre[0], -centre[1], 0], zoom: Math.max(1, Math.min(3, 0.85 / Math.sin(Math.min(Math.PI / 2, spread + 0.28)))) };
+}
+
+function draw() {
+  if (!W) return;
+  const css = getComputedStyle(document.documentElement), v = (n) => css.getPropertyValue(n).trim();
+  const t = story(), R = (W / 2 - 14) * S.zoom, b = bornAt(t), hasRoot = t.stops.some((s) => s.k === 'root');
+  proj.translate([W / 2, W / 2]).scale(R).rotate(S.rot);
+  ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+  ctx.clearRect(0, 0, W, W);
+  ctx.beginPath(); path({ type: 'Sphere' }); ctx.fillStyle = v('--ocean'); ctx.fill();
+  ctx.beginPath(); path(grid); ctx.strokeStyle = v('--grid'); ctx.lineWidth = 0.6; ctx.stroke();
+  ctx.beginPath(); path(land); ctx.fillStyle = v('--land'); ctx.fill();
+  // "Everywhere": the whole map takes on the look's colour.
+  const ev = t.stops.findIndex((s) => s.k === 'everywhere');
+  if (ev >= 0 && ev <= S.i) { ctx.globalAlpha = 0.3 * (ev === S.i ? S.prog : 1) * (1 - S.home); ctx.fillStyle = t.col; ctx.fill(); ctx.globalAlpha = 1; }
+  ctx.strokeStyle = v('--land-edge'); ctx.lineWidth = 0.7; ctx.stroke();
+
+  const centre = [-S.rot[0], -S.rot[1]], labels = [];
+  ctx.lineCap = 'round';
+  t.stops.forEach((s, k) => {
+    if (k > S.i) return;
+    const p = k === S.i ? S.prog : 1, here = k === S.i;
+    // Sent home: journeys pull back to the birthplace, then the birthplace hands it back to its root.
+    const keep = s.k === 'went' ? 1 - S.home : s.k === 'root' ? 1 : 1;
+    for (const a of s.arcs || []) {
+      let from = 0, to = p;
+      if (s.k === 'went') to = p * (1 - S.home);
+      if (s.k === 'root') to = p * (1 - S.home);
+      if (to <= 0.001) continue;
+      ctx.beginPath(); path(arcLine([a[0], a[1]], [a[2], a[3]], from, to));
+      ctx.setLineDash(a[4] ? [2, 6] : []); ctx.strokeStyle = t.col; ctx.globalAlpha = here ? 0.95 : 0.45; ctx.lineWidth = here ? 2.2 : 1.5; ctx.stroke();
+    }
+    ctx.setLineDash([]); ctx.globalAlpha = 1;
+    for (const pt of s.pts) {
+      if (d3.geoDistance([pt[0], pt[1]], centre) > Math.PI / 2 - 0.04) continue;
+      let alpha = p * keep;
+      if (s.k === 'born' && hasRoot) alpha = p * (1 - S.home);
+      if (s.k === 'rival') alpha = p * (1 - S.home);
+      if (alpha <= 0.02) continue;
+      const [x, y] = proj([pt[0], pt[1]]);
+      ctx.globalAlpha = alpha * (here ? 1 : 0.6);
+      ctx.beginPath(); ctx.arc(x, y, s.k === 'born' ? 7 : 5, 0, 7);
+      if (s.ring) { ctx.strokeStyle = t.col; ctx.lineWidth = 2; ctx.setLineDash([2, 3]); ctx.stroke(); ctx.setLineDash([]); }
+      else { ctx.fillStyle = t.col; ctx.fill(); }
+      if (s.k === 'born') { ctx.beginPath(); ctx.arc(x, y, 12, 0, 7); ctx.strokeStyle = t.col; ctx.lineWidth = 1.5; ctx.stroke(); }
+      ctx.globalAlpha = 1;
+      if (here || (S.home > 0.5 && s.k === (hasRoot ? 'root' : 'born'))) labels.push([pt[2], x, y]);
+    }
+  });
+  ctx.font = '600 12.5px ' + v('--body'); ctx.textBaseline = 'middle';
+  const used = [];
+  for (const [label, x, y] of labels.slice(0, 9)) {
+    const w = ctx.measureText(label).width, left = x + 18 + w > W - 4, tx = left ? x - 18 - w : x + 18;
+    let ty = y;
+    while (used.some((u) => Math.abs(u[1] - ty) < 19 && tx < u[0] + u[2] + 8 && u[0] < tx + w + 8)) ty += 19;
+    used.push([tx, ty, w]);
+    ctx.fillStyle = v('--bg'); ctx.globalAlpha = 0.85; ctx.fillRect(tx - 5, ty - 10, w + 10, 20); ctx.globalAlpha = 1;
+    ctx.fillStyle = v('--text'); ctx.fillText(label, tx, ty);
+  }
+}
+
+const tweens = new Map();
+function tween(key, to, ms, read, write, done) {
+  const f = d3.interpolate(read(), to);
+  if (reduce || ms === 0) { tweens.delete(key); write(to); draw(); if (done) done(); return; }
+  tweens.set(key, { t0: performance.now(), ms, f, write, done });
+  if (tweens.size === 1) requestAnimationFrame(tick);
+}
+function tick(now) {
+  for (const [k, t] of tweens) {
+    const p = Math.min(1, (now - t.t0) / t.ms);
+    t.write(t.f(d3.easeCubicInOut(p)));
+    if (p >= 1) { tweens.delete(k); if (t.done) t.done(); }
+  }
+  draw();
+  if (tweens.size) requestAnimationFrame(tick);
+}
+
+let timer = null;
+function go(i, instant) {
+  const t = story();
+  S.i = Math.max(0, Math.min(t.stops.length - 1, i));
+  tweens.delete('home'); S.home = 0;
+  const cam = camera(t, S.i);
+  tween('rot', cam.rot, instant ? 0 : 1000, () => S.rot, (r) => { S.rot = r; });
+  tween('zoom', cam.zoom, instant ? 0 : 1000, () => S.zoom, (z) => { S.zoom = z; });
+  S.prog = instant ? 1 : 0;
+  tween('prog', 1, instant ? 0 : 1100, () => S.prog, (p) => { S.prog = p; });
+  paint();
+  clearTimeout(timer);
+  if (S.playing) {
+    if (S.i >= t.stops.length - 1) { S.playing = false; paint(); }
+    else timer = setTimeout(() => go(S.i + 1), reduce ? 2600 : 3800);
+  }
+}
+function sendHome() {
+  const t = story(), root = t.stops.find((s) => s.k === 'root'), b = bornAt(t);
+  S.playing = false; clearTimeout(timer);
+  const at = root ? root.pts[0] : b;
+  if (at) { tween('rot', [-at[0], -at[1] * 0.6, 0], 1200, () => S.rot, (r) => { S.rot = r; }); tween('zoom', root ? 1.6 : 2, 1200, () => S.zoom, (z) => { S.zoom = z; }); }
+  tween('home', 1, 1400, () => S.home, (h) => { S.home = h; }, paint);
+  paint(true);
+}
+
+function paint(leaving) {
+  const t = story(), s = stop(), last = S.i === t.stops.length - 1, sent = leaving || S.home > 0.5;
+  $('look').textContent = t.n; $('what').textContent = t.d;
+  const dots = $('dots'); dots.innerHTML = '';
+  t.stops.forEach((x, k) => {
+    const b = document.createElement('button');
+    b.type = 'button'; b.textContent = LABEL[x.k]; if (k < S.i) b.className = 'seen';
+    if (k === S.i) b.setAttribute('aria-current', 'step');
+    b.addEventListener('click', () => { S.playing = false; go(k); });
+    dots.append(b);
+  });
+  $('stopno').textContent = sent ? 'Sent home' : 'Stop ' + (S.i + 1) + ' of ' + t.stops.length + ' · ' + LABEL[s.k];
+  $('cap').textContent = sent ? 'Sent home to ' + t.home + '.' + (t.stops.some((x) => x.k === 'root') ? ' Even the birthplace has to give it back.' : ' Everyone else has to find something else to wear.') : s.cap;
+  const showPic = !sent && s.k === 'born' && t.img;
+  $('pic').hidden = !showPic;
+  if (showPic) { $('img').src = t.img.s; $('img').alt = t.img.t + ', ' + t.img.y; const c = $('figcap'); c.textContent = t.img.t + ', ' + t.img.y + '. © Victoria and Albert Museum, London. '; c.append(link(t.img.u, 'See it')); }
+  $('prev').disabled = S.i === 0 && !sent;
+  $('next').textContent = sent ? 'Tell it again' : last ? 'Send it home' : 'Next stop';
+  $('play').textContent = S.playing ? 'Pause' : 'Play';
+  $('play').hidden = last || sent;
+  const rc = $('rc'); rc.innerHTML = '';
+  $('rc-sum').textContent = 'Receipts for this stop (' + s.rc.length + ')';
+  for (const r of s.rc) {
+    const li = document.createElement('li');
+    const b = document.createElement('b'); b.textContent = r.l; li.append(b);
+    if (r.s) { const sh = document.createElement('span'); sh.className = 'shaky'; sh.textContent = 'shaky'; li.append(sh); }
+    li.append(document.createElement('br'), r.t + ' ');
+    if (r.u) li.append(link(r.u, 'Source'));
+    rc.append(li);
+  }
+  $('receipts').hidden = sent;
+  document.querySelectorAll('#examples .chip').forEach((el) => el.setAttribute('aria-pressed', el.dataset.id === S.sel));
+}
+function link(url, text) {
+  const a = document.createElement('a'); a.href = url; a.target = '_blank'; a.rel = 'noopener'; a.textContent = text;
+  return a;
+}
+function pick(id) {
+  S.sel = id; S.playing = false; clearTimeout(timer);
+  $('receipts').open = false;
+  go(0);
+}
+
+$('next').addEventListener('click', () => {
+  const t = story();
+  if (S.home > 0.5) { go(0); return; }
+  S.playing = false;
+  if (S.i === t.stops.length - 1) sendHome(); else go(S.i + 1);
+});
+$('prev').addEventListener('click', () => { S.playing = false; if (S.home > 0.5) go(S.i); else go(S.i - 1); });
+$('play').addEventListener('click', () => {
+  S.playing = !S.playing; clearTimeout(timer);
+  if (S.playing) timer = setTimeout(() => go(S.i + 1), 600);
+  paint();
+});
+
+// Finding a look: type and pick from the list, or use one of three examples.
+let hitAt = -1;
+function matches() {
+  const q = S.q.trim().toLowerCase();
+  if (!q) return [];
+  const rank = (t) => (t.n.toLowerCase().startsWith(q) ? 0 : t.n.toLowerCase().includes(' ' + q) ? 1 : 2);
+  return STORIES.filter((t) => t.n.toLowerCase().includes(q) || t.id.includes(q)).sort((x, y) => rank(x) - rank(y) || y.stops.length - x.stops.length || x.n.localeCompare(y.n)).slice(0, 8);
+}
+function drawHits() {
+  const listEl = $('hits'), input = $('q'), found = matches(), open = S.q.trim() !== '';
+  listEl.innerHTML = ''; listEl.hidden = !open; input.setAttribute('aria-expanded', open);
+  if (!open) { hitAt = -1; input.removeAttribute('aria-activedescendant'); return; }
+  if (!found.length) { const li = document.createElement('li'); li.className = 'none'; li.textContent = 'No story for that one. Either we don\'t have it, or nobody can say where it started.'; listEl.append(li); return; }
+  hitAt = Math.min(hitAt, found.length - 1);
+  found.forEach((t, k) => {
+    const li = document.createElement('li');
+    li.id = 'hit-' + k; li.setAttribute('role', 'option'); li.setAttribute('aria-selected', k === hitAt);
+    li.innerHTML = '<i style="background:' + t.col + '"></i><span></span><span class="m"></span>';
+    li.children[1].textContent = t.n; li.children[2].textContent = t.stops.length + (t.stops.length === 1 ? ' stop' : ' stops');
+    li.addEventListener('pointerdown', (e) => e.preventDefault());
+    li.addEventListener('click', () => choose(t));
+    listEl.append(li);
+  });
+  if (hitAt >= 0) input.setAttribute('aria-activedescendant', 'hit-' + hitAt); else input.removeAttribute('aria-activedescendant');
+}
+function choose(t) { S.q = ''; $('q').value = ''; hitAt = -1; drawHits(); pick(t.id); }
+$('q').addEventListener('input', (e) => { S.q = e.target.value; hitAt = -1; drawHits(); });
+$('q').addEventListener('keydown', (e) => {
+  const found = matches();
+  if (e.key === 'ArrowDown' || e.key === 'ArrowUp') {
+    if (!found.length) return;
+    e.preventDefault(); hitAt = (hitAt + (e.key === 'ArrowDown' ? 1 : -1) + found.length) % found.length; drawHits();
+  } else if (e.key === 'Enter' && found.length) { e.preventDefault(); choose(found[Math.max(0, hitAt)]); }
+  else if (e.key === 'Escape') { S.q = ''; e.target.value = ''; drawHits(); }
+});
+const ex = $('examples');
+const lab = document.createElement('span'); lab.className = 'try'; lab.textContent = 'Or try'; ex.append(lab);
+for (const id of EXAMPLES) if (byId[id]) {
+  const el = document.createElement('button');
+  el.type = 'button'; el.className = 'chip'; el.dataset.id = id;
+  el.innerHTML = '<i style="background:' + byId[id].col + '"></i>'; el.append(byId[id].n);
+  el.addEventListener('click', () => pick(id));
+  ex.append(el);
+}
+
+// The globe can still be turned by hand, but nothing depends on it.
+let drag = null;
+canvas.addEventListener('pointerdown', (e) => { drag = { x: e.clientX, y: e.clientY }; tweens.delete('rot'); canvas.setPointerCapture(e.pointerId); });
+canvas.addEventListener('pointermove', (e) => {
+  if (!drag) return;
+  const k = 150 / (W || 300) / S.zoom;
+  S.rot = [S.rot[0] + (e.clientX - drag.x) * k, e.pointerType === 'touch' ? S.rot[1] : Math.max(-80, Math.min(80, S.rot[1] - (e.clientY - drag.y) * k)), 0];
+  drag.x = e.clientX; drag.y = e.clientY; draw();
+});
+canvas.addEventListener('pointerup', () => { drag = null; });
+canvas.addEventListener('pointercancel', () => { drag = null; });
+canvas.addEventListener('keydown', (e) => {
+  if (e.key === 'ArrowRight') { e.preventDefault(); S.playing = false; go(S.i + 1); }
+  if (e.key === 'ArrowLeft') { e.preventDefault(); S.playing = false; go(S.i - 1); }
+});
+
+new ResizeObserver(size).observe(canvas);
+if (document.fonts && document.fonts.ready) document.fonts.ready.then(draw);
+size(); go(0, true);
+</script>

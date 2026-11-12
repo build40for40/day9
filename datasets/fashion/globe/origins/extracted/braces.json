@@ -1,0 +1,16 @@
+{
+  "trend_id": "braces",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "London",
+      "place_type": "city",
+      "year": 1822,
+      "year_precision": "year",
+      "who": "Albert Thurston",
+      "hedged": false,
+      "quote": "There have been several precursors to suspenders throughout the past 300 years, but modern suspenders were first popularised as \"braces\" in 1822 by a London haberdasher Albert Thurston.",
+      "note": "London haberdasher popularised braces"
+    }
+  ]
+}

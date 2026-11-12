@@ -1,0 +1,27 @@
+{
+  "trend_id": "acid-wash",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Italy",
+      "place_type": "country",
+      "year": 1986,
+      "year_precision": "year",
+      "who": "Rifle jeans company",
+      "hedged": false,
+      "quote": "The modern process of acid washing was patented in Italy by the Rifle jeans company in February 1986.",
+      "note": "acid washing patented in Italy"
+    },
+    {
+      "kind": "root",
+      "place": "Surfers",
+      "place_type": "people",
+      "year": 1960,
+      "year_precision": "decade",
+      "who": null,
+      "hedged": false,
+      "quote": "The process became popular in the 1980s, as acid jeans gained popularity; however, stone washing has roots going back to 1960s surfer apparel.",
+      "note": "roots in surfer apparel"
+    }
+  ]
+}

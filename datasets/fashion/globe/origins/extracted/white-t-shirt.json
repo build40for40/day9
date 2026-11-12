@@ -1,0 +1,16 @@
+{
+  "trend_id": "white-t-shirt",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "United States",
+      "place_type": "country",
+      "year": 1913,
+      "year_precision": "year",
+      "who": "U.S. Navy",
+      "hedged": false,
+      "quote": "In 1913, the U.S. Navy first issued them as undergarments.",
+      "note": "Navy first issued T-shirts as undershirts"
+    }
+  ]
+}

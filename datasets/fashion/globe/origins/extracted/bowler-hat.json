@@ -1,0 +1,16 @@
+{
+  "trend_id": "bowler-hat",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "London",
+      "place_type": "city",
+      "year": 1849,
+      "year_precision": "year",
+      "who": "Thomas and William Bowler",
+      "hedged": false,
+      "quote": "The bowler hat, also known as a Coke hat, billycock, bob hat, or derby (United States), is a hard felt hat with a rounded crown, originally created by the London hat-makers Thomas and William Bowler in 1849 and commissioned by Lock & Co. Hatters of St James's Street, London.",
+      "note": "made by London hatters for Lock & Co."
+    }
+  ]
+}

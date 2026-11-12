@@ -1,0 +1,60 @@
+{
+  "trend_id": "kaftan",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "West Asia",
+      "place_type": "region",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "Originating in West Asia, it has been worn by a number of cultures around the world for thousands of years.",
+      "note": "kaftan originated in West Asia"
+    },
+    {
+      "kind": "rival",
+      "place": "Turkic peoples",
+      "place_type": "people",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": true,
+      "quote": "The caftan appears to be the oldest Turkish dress; this costume can be traced as far back as the Hun and Göktürk periods.",
+      "note": "said to be oldest Turkish dress"
+    },
+    {
+      "kind": "root",
+      "place": "Russia",
+      "place_type": "country",
+      "year": 1890,
+      "year_precision": "decade",
+      "who": "Alix of Hesse",
+      "hedged": false,
+      "quote": "In the recent era the kaftan was introduced to the West in the 1890s, Queen Victoria's granddaughter Alix of Hesse wore a traditional Russian coronation dress before a crowd which included Western on-lookers, this traditional dress featured the loose-fitting Russian kaftan which was so exotic to Western eyes.",
+      "note": "Russian kaftan shown to the West"
+    },
+    {
+      "kind": "root",
+      "place": "Ottoman Empire",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "According to the Encyclopaedia of Islam, the kaftan was introduced into the Barbary States by the Ottomans and spread by fashion as far as Morocco.",
+      "note": "Ottomans brought it to the Barbary States"
+    },
+    {
+      "kind": "root",
+      "place": "Arabs",
+      "place_type": "people",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "In Southeast Asia, the kaftan was originally worn by Arab traders, as seen in early lithographs and photographs from the region.",
+      "note": "first worn by Arab traders in Southeast Asia"
+    }
+  ]
+}

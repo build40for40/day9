@@ -1,0 +1,27 @@
+{
+  "trend_id": "winklepickers",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "England",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "The extremely pointed toe was called a winkle picker because, in England, periwinkle snails (\"winkles\") were a popular seaside snack which is eaten using a pin or other thin pointed object to carefully extract the soft parts out of the coiled shell.",
+      "note": "named after English winkle snack"
+    },
+    {
+      "kind": "root",
+      "place": "Poland",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": "medieval French nobility",
+      "hedged": false,
+      "quote": "Winklepickers, inspired by the Polish poulaines worn by the medieval French nobility, were a conspicuous contrast to the brothel creepers worn by Teddy Boys.",
+      "note": "inspired by Polish poulaines"
+    }
+  ]
+}

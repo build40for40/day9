@@ -1,0 +1,16 @@
+{
+  "trend_id": "button-down-shirt",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "United Kingdom",
+      "place_type": "country",
+      "year": 1896,
+      "year_precision": "year",
+      "who": "John E Brooks",
+      "hedged": false,
+      "quote": "Originally a British sports (football, cricket, polo, etc.) shirt. The British polo player's shirt was first produced in the UK by John E Brooks in 1896 and copied by Brooks Brothers after his return to the USA.",
+      "note": "British polo shirt first made, then copied"
+    }
+  ]
+}

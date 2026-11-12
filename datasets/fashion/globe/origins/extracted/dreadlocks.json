@@ -1,0 +1,49 @@
+{
+  "trend_id": "dreadlocks",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Sudan",
+      "place_type": "country",
+      "year": -2500,
+      "year_precision": "year",
+      "who": null,
+      "hedged": false,
+      "quote": "The earliest archaeological evidence of dreadlocks and locked hair in Kerma culture (in what's today Sudan) dates back approximately 4,000 years to the Kerma period (c. 2500–1500 BCE).",
+      "note": "earliest evidence in Kerma culture"
+    },
+    {
+      "kind": "root",
+      "place": "Ethiopia",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "Jamaicans locked their hair after seeing images of Ethiopians with locs fighting Italian soldiers during the Second Italo-Ethiopian War.",
+      "note": "Jamaicans copied Ethiopians with locs"
+    },
+    {
+      "kind": "root",
+      "place": "Kenya",
+      "place_type": "country",
+      "year": 1950,
+      "year_precision": "decade",
+      "who": null,
+      "hedged": false,
+      "quote": "Another African influence for Rastas wearing locs was seeing photos of Mau Mau freedom fighters with locs in Kenya fighting against the British authorities in the 1950s.",
+      "note": "Rastas inspired by Mau Mau locs"
+    },
+    {
+      "kind": "root",
+      "place": "Jamaica",
+      "place_type": "country",
+      "year": 1970,
+      "year_precision": "decade",
+      "who": null,
+      "hedged": false,
+      "quote": "In the 1970s, Americans and Britons attended reggae concerts and were exposed to various aspects of Jamaican culture, including dreadlocks.",
+      "note": "Westerners met dreadlocks via reggae"
+    }
+  ]
+}

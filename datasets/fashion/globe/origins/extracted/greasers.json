@@ -1,0 +1,16 @@
+{
+  "trend_id": "greasers",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "United States",
+      "place_type": "country",
+      "year": 1950,
+      "year_precision": "decade",
+      "who": null,
+      "hedged": false,
+      "quote": "Greasers are a youth subculture that emerged in the 1950s and early 1960s from predominantly working class and lower-class teenagers and young adults in the United States and Canada.",
+      "note": "subculture emerged among working class youth"
+    }
+  ]
+}

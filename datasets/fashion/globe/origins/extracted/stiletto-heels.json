@@ -1,0 +1,27 @@
+{
+  "trend_id": "stiletto-heels",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Italy",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": "Salvatore Ferragamo",
+      "hedged": true,
+      "quote": "Italian shoe designer Salvatore Ferragamo paved the way for stilettos by inventing the steel arch. Some historians also credit him with inventing the stiletto heel, while others credit French fashion designer Charles Jourdan.",
+      "note": "some credit Ferragamo with the heel"
+    },
+    {
+      "kind": "rival",
+      "place": "France",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": "Charles Jourdan",
+      "hedged": true,
+      "quote": "Italian shoe designer Salvatore Ferragamo paved the way for stilettos by inventing the steel arch. Some historians also credit him with inventing the stiletto heel, while others credit French fashion designer Charles Jourdan.",
+      "note": "others credit French designer Jourdan"
+    }
+  ]
+}

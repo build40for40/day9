@@ -1,0 +1,38 @@
+{
+  "trend_id": "ugg-boots",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Australia",
+      "place_type": "country",
+      "year": 1960,
+      "year_precision": "decade",
+      "who": null,
+      "hedged": false,
+      "quote": "The term \"ugg boots\" originated in Australia, initially for utilitarian footwear worn for warmth, and which were often worn by surfers during the 1960s.",
+      "note": "term and boots began in Australia"
+    },
+    {
+      "kind": "rival",
+      "place": "Australia",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": "Shane Stedman",
+      "hedged": true,
+      "quote": "Surfer Shane Stedman of Australia has stated in interviews that he invented the ugg boot.",
+      "note": "surfer says he invented it"
+    },
+    {
+      "kind": "rival",
+      "place": "New South Wales",
+      "place_type": "region",
+      "year": 1933,
+      "year_precision": "year",
+      "who": "Blue Mountains Ugg Boots",
+      "hedged": true,
+      "quote": "The boots were reportedly being manufactured in 1933 by Blue Mountains Ugg Boots of New South Wales.",
+      "note": "reportedly made in 1933"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "trend_id": "buzz-cut",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Serbia",
+      "place_type": "country",
+      "year": 1870,
+      "year_precision": "century",
+      "who": "Nikola Bizumić",
+      "hedged": false,
+      "quote": "The buzz cut rose to popularity with the advent of manual hair clippers by the Serbian inventor Nikola Bizumić in the late 19th century.",
+      "note": "Serbian inventor's clippers popularised it"
+    }
+  ]
+}

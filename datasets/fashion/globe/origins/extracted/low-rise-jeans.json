@@ -1,0 +1,16 @@
+{
+  "trend_id": "low-rise-jeans",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "United Kingdom",
+      "place_type": "country",
+      "year": 1993,
+      "year_precision": "year",
+      "who": "Alexander McQueen",
+      "hedged": true,
+      "quote": "The 1990s revival of low-rise jeans can be credited to British fashion designer Alexander McQueen, who first showed low-rise \"bumster\" trousers in his 1993 Taxi Driver collection.",
+      "note": "McQueen first showed bumsters"
+    }
+  ]
+}

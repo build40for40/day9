@@ -1,0 +1,27 @@
+{
+  "trend_id": "flower-power",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Berkeley",
+      "place_type": "city",
+      "year": 1965,
+      "year_precision": "year",
+      "who": "Allen Ginsberg",
+      "hedged": false,
+      "quote": "The term \"Flower Power\" originated in Berkeley, California, as a symbolic action of protest against the Vietnam War. In a November 1965 essay titled How to Make a March/Spectacle, Ginsberg, a poet, advocated for protesters to be provided with \"masses of flowers\" to hand out to policemen, press, politicians and spectators.",
+      "note": "term began at Berkeley protest, Ginsberg essay"
+    },
+    {
+      "kind": "rival",
+      "place": "California",
+      "place_type": "region",
+      "year": 1965,
+      "year_precision": "year",
+      "who": "Lord Tim Hudson",
+      "hedged": true,
+      "quote": "In 1965, Sky Saxon of Californian rock band the Seeds began to use the term \"flower rock\" to describe their music. Their manager DJ Lord Tim Hudson claimed to have coined the terms \"flower power\" and \"flower child\" encouraging the band to write songs such as \"March of the Flower Children\" for their album Future (1967).",
+      "note": "band manager claimed to coin the term"
+    }
+  ]
+}

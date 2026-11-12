@@ -1,0 +1,16 @@
+{
+  "trend_id": "cornrows",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Tassili Plateau",
+      "place_type": "region",
+      "year": -3000,
+      "year_precision": "year",
+      "who": null,
+      "hedged": true,
+      "quote": "Early depictions of women with what appear to be cornrows have been found in Stone Age paintings in the Tassili Plateau of the Sahara, and have been dated as far back as 3000 B.C.",
+      "note": "earliest painted cornrows in Sahara"
+    }
+  ]
+}

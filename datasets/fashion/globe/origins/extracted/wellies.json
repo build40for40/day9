@@ -1,0 +1,27 @@
+{
+  "trend_id": "wellies",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "London",
+      "place_type": "city",
+      "year": null,
+      "year_precision": null,
+      "who": "Duke of Wellington",
+      "hedged": false,
+      "quote": "The Duke of Wellington instructed his shoemaker, Hoby of St. James's Street, London, to modify the formal 18th-century Hessian boot, shown in the 1815 portrait by James Lonsdale, recognizable by their tassel.",
+      "note": "Wellington had his London shoemaker adapt the Hessian boot"
+    },
+    {
+      "kind": "root",
+      "place": "Hesse",
+      "place_type": "region",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "Originally a type of leather riding boot adapted from Hessian boots, a style of military footwear, Wellington boots were worn and popularised by the Anglo-Irish military officer and politician Arthur Wellesley, 1st Duke of Wellington.",
+      "note": "adapted from Hessian military boots"
+    }
+  ]
+}

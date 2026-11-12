@@ -1,0 +1,104 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+  pull-requests: write
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  ci:
+    runs-on: ubuntu-latest
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version-file: .node-version
+          cache: npm
+
+      - run: npm ci
+
+      - run: npm test
+
+      - run: npm run build
+        env:
+          PUBLIC_POSTHOG_PROJECT_TOKEN: ${{ secrets.PUBLIC_POSTHOG_PROJECT_TOKEN }}
+          PUBLIC_POSTHOG_HOST: https://eu.i.posthog.com
+
+      # The Worker's keys live in GitHub org secrets and go up with every deploy, in the same
+      # version as the code, so it never runs without them. A missing one is left as it was.
+      - name: Gather the Worker's secrets
+        if: env.CLOUDFLARE_API_TOKEN != '' && github.event_name == 'push'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TYPESAFE_API_KEY: ${{ secrets.TYPESAFE_API_KEY }}
+          PUBLIC_POSTHOG_PROJECT_TOKEN: ${{ secrets.PUBLIC_POSTHOG_PROJECT_TOKEN }}
+        run: |
+          for name in ANTHROPIC_API_KEY TYPESAFE_API_KEY PUBLIC_POSTHOG_PROJECT_TOKEN; do
+            [ -n "${!name}" ] || echo "::warning::$name isn't a secret this repo can see, so the Worker keeps whatever it had."
+          done
+          jq -n 'env | {ANTHROPIC_API_KEY, TYPESAFE_API_KEY, PUBLIC_POSTHOG_PROJECT_TOKEN} | with_entries(select(.value != null and .value != ""))' > "$RUNNER_TEMP/secrets.json"
+
+      # The secret is absent until it's added to the repo, and on pull requests from forks.
+      - name: Deploy to production
+        if: env.CLOUDFLARE_API_TOKEN != '' && github.event_name == 'push'
+        uses: cloudflare/wrangler-action@953926a2e2182532811c01a25e53647d93bf07c0 # v4.1.3
+        with:
+          apiToken: ${{ env.CLOUDFLARE_API_TOKEN }}
+          command: deploy --secrets-file ${{ runner.temp }}/secrets.json
+
+      # A preview can only be uploaded to a Worker that exists, so until the first merge deploys it, skip it.
+      - name: Check the Worker exists
+        id: exists
+        if: env.CLOUDFLARE_API_TOKEN != '' && github.event_name == 'pull_request'
+        run: |
+          if npx wrangler deployments list > /dev/null 2>&1; then
+            echo "yes=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "::notice::No preview: the Worker doesn't exist until this repo's first merge to main deploys it."
+          fi
+
+      # Preview aliases must be a lowercase DNS label short enough to sit before "-nerds-of-fashion".
+      - name: Name the preview
+        if: steps.exists.outputs.yes == 'true'
+        env:
+          BRANCH: ${{ github.head_ref }}
+        run: echo "PREVIEW_ALIAS=$(echo "$BRANCH" | tr '[:upper:]' '[:lower:]' | sed -E 's/[^a-z0-9]+/-/g; s/^-+//' | cut -c1-30 | sed -E 's/-+$//')" >> "$GITHUB_ENV"
+
+      - name: Upload a preview
+        id: preview
+        if: steps.exists.outputs.yes == 'true'
+        uses: cloudflare/wrangler-action@953926a2e2182532811c01a25e53647d93bf07c0 # v4.1.3
+        with:
+          apiToken: ${{ env.CLOUDFLARE_API_TOKEN }}
+          command: versions upload --preview-alias ${{ env.PREVIEW_ALIAS }}
+
+      - name: Comment the preview link
+        if: steps.preview.outcome == 'success'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          OUTPUT: ${{ steps.preview.outputs.command-output }}
+          PR: ${{ github.event.pull_request.number }}
+          SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          url=$(echo "$OUTPUT" | sed -nE 's/.*Version Preview Alias URL: (https:[^ ]+).*/\1/p' | head -1)
+          [ -n "$url" ] || { echo "::warning::No preview alias URL in the wrangler output."; exit 0; }
+          url="${url%/}/nerds-of-fashion/"
+          echo "Preview: $url" >> "$GITHUB_STEP_SUMMARY"
+          gh pr comment "$PR" --repo "$GITHUB_REPOSITORY" --edit-last --create-if-none --body "Preview of ${SHA::7}: $url"
+
+      - name: Skip deploy
+        if: env.CLOUDFLARE_API_TOKEN == ''
+        run: echo "::notice::Deploy skipped because the CLOUDFLARE_API_TOKEN secret isn't set."

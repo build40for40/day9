@@ -1,0 +1,16 @@
+{
+  "trend_id": "combat-boots",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "United States",
+      "place_type": "country",
+      "year": 1943,
+      "year_precision": "year",
+      "who": null,
+      "hedged": false,
+      "quote": "The first true modern combat boots in the US Army, officially titled \"Boots, Combat Service\", were introduced in conjunction with the M-1943 Uniform Ensemble during World War II.",
+      "note": "first modern US Army combat boots"
+    }
+  ]
+}

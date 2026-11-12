@@ -1,0 +1,16 @@
+{
+  "trend_id": "camouflage",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "England",
+      "place_type": "country",
+      "year": 1919,
+      "year_precision": "year",
+      "who": "Chelsea Arts Club",
+      "hedged": false,
+      "quote": "Dazzle camouflage inspired a trend of dazzlesque patterns used on clothing in England, starting in 1919 with the \"Dazzle Ball\" held by Chelsea Arts Club.",
+      "note": "dazzle patterns on clothing at a ball"
+    }
+  ]
+}

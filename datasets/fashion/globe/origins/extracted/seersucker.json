@@ -1,0 +1,27 @@
+{
+  "trend_id": "seersucker",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "India",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "Seersucker originated in colonial India, taking its name from the Persian phrase shir o shekar, meaning 'milk and sugar,' referring to its mix of smooth and rough textures.",
+      "note": "originated in colonial India"
+    },
+    {
+      "kind": "root",
+      "place": "India",
+      "place_type": "country",
+      "year": 1600,
+      "year_precision": "century",
+      "who": null,
+      "hedged": false,
+      "quote": "It was first made in the Indian subcontinent from where this fabric was exported to the European market in 17th century.",
+      "note": "exported from India to Europe"
+    }
+  ]
+}

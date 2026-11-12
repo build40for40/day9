@@ -1,0 +1,27 @@
+{
+  "trend_id": "waistcoat",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "England",
+      "place_type": "country",
+      "year": 1666,
+      "year_precision": "year",
+      "who": "King Charles II",
+      "hedged": false,
+      "quote": "In October 1666, King Charles II of England launched a new fashion in men's wear for the English. The item was a long piece donned beneath the coat that was meant to be seen.",
+      "note": "Charles II launched the vest fashion"
+    },
+    {
+      "kind": "root",
+      "place": "Turkey",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "While Evelyn designated the costume Persian, it was more directly influenced by the Turkish.",
+      "note": "vest influenced by Turkish dress"
+    }
+  ]
+}
