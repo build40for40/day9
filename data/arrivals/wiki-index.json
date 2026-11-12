@@ -1,0 +1,1362 @@
+[
+  {
+    "trend": "miniskirt",
+    "lang": "en",
+    "title": "Miniskirt",
+    "chars": 57599,
+    "kept": true,
+    "file": "en.txt"
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "af",
+    "title": "Miniromp",
+    "chars": 262,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "ar",
+    "title": "تنورة قصيرة",
+    "chars": 1890,
+    "kept": true,
+    "file": "ar.txt"
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "arz",
+    "title": "مينى جيب",
+    "chars": 796,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "az",
+    "title": "Miniətək",
+    "chars": 716,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "azb",
+    "title": "مینی ژوپ",
+    "chars": 345,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "be",
+    "title": "Міні-спадніца",
+    "chars": 805,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "be-tarask",
+    "title": "Міні-спадніца",
+    "chars": 593,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "bg",
+    "title": "Минижуп",
+    "chars": 1149,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "bjn",
+    "title": "Rok mini",
+    "chars": 290,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "bn",
+    "title": "মিনিস্কার্ট",
+    "chars": 1482,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "br",
+    "title": "Brozh verr",
+    "chars": 1130,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "ca",
+    "title": "Minifalda",
+    "chars": 28101,
+    "kept": true,
+    "file": "ca.txt"
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "cs",
+    "title": "Minisukně",
+    "chars": 1393,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "cy",
+    "title": "Sgert gwta",
+    "chars": 342,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "da",
+    "title": "Miniskørt",
+    "chars": 6846,
+    "kept": true,
+    "file": "da.txt"
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "de",
+    "title": "Minirock",
+    "chars": 5182,
+    "kept": true,
+    "file": "de.txt"
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "eo",
+    "title": "Minijupo",
+    "chars": 945,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "es",
+    "title": "Minifalda",
+    "chars": 3237,
+    "kept": true,
+    "file": "es.txt"
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "et",
+    "title": "Miniseelik",
+    "chars": 182,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "eu",
+    "title": "Minigona",
+    "chars": 444,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "fa",
+    "title": "مینی‌ژوپ",
+    "chars": 536,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "fi",
+    "title": "Minihame",
+    "chars": 5373,
+    "kept": true,
+    "file": "fi.txt"
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "fr",
+    "title": "Minijupe",
+    "chars": 27204,
+    "kept": true,
+    "file": "fr.txt"
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "he",
+    "title": "חצאית מיני",
+    "chars": 10254,
+    "kept": true,
+    "file": "he.txt"
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "hi",
+    "title": "मिनीस्कर्ट",
+    "chars": 11819,
+    "kept": true,
+    "file": "hi.txt"
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "hu",
+    "title": "Miniszoknya",
+    "chars": 1353,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "hy",
+    "title": "Մինի կիսաշրջազգեստ",
+    "chars": 2714,
+    "kept": true,
+    "file": "hy.txt"
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "ia",
+    "title": "Minigonna",
+    "chars": 177,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "id",
+    "title": "Rok mini",
+    "chars": 1763,
+    "kept": true,
+    "file": "id.txt"
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "it",
+    "title": "Minigonna",
+    "chars": 43649,
+    "kept": true,
+    "file": "it.txt"
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "ja",
+    "title": "ミニスカート",
+    "chars": 3272,
+    "kept": true,
+    "file": "ja.txt"
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "ko",
+    "title": "미니스커트",
+    "chars": 995,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "lb",
+    "title": "Minijupe",
+    "chars": 1199,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "lt",
+    "title": "Mini sijonas",
+    "chars": 8476,
+    "kept": true,
+    "file": "lt.txt"
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "mzn",
+    "title": "مینی‌جوپ",
+    "chars": 349,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "ne",
+    "title": "मिनिस्कर्ट",
+    "chars": 249,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "nl",
+    "title": "Minirok",
+    "chars": 2647,
+    "kept": true,
+    "file": "nl.txt"
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "nb",
+    "title": "Miniskjørt",
+    "chars": 2437,
+    "kept": true,
+    "file": "nb.txt"
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "oc",
+    "title": "Minigonèla",
+    "chars": 772,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "pl",
+    "title": "Minispódniczka",
+    "chars": 745,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "pt",
+    "title": "Minissaia",
+    "chars": 1863,
+    "kept": true,
+    "file": "pt.txt"
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "ru",
+    "title": "Мини-юбка",
+    "chars": 10618,
+    "kept": true,
+    "file": "ru.txt"
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "simple",
+    "title": "Mini-skirt",
+    "chars": 1320,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "sr",
+    "title": "Мини сукња",
+    "chars": 653,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "sv",
+    "title": "Minikjol",
+    "chars": 3046,
+    "kept": true,
+    "file": "sv.txt"
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "te",
+    "title": "మిని",
+    "chars": 2015,
+    "kept": true,
+    "file": "te.txt"
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "tr",
+    "title": "Mini etek",
+    "chars": 768,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "uk",
+    "title": "Мініспідниця",
+    "chars": 1550,
+    "kept": true,
+    "file": "uk.txt"
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "vec",
+    "title": "Cotołeta (abijamento)",
+    "chars": 488,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "vi",
+    "title": "Váy ngắn",
+    "chars": 4412,
+    "kept": true,
+    "file": "vi.txt"
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "zh",
+    "title": "迷你裙",
+    "chars": 1165,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "miniskirt",
+    "lang": "yue",
+    "title": "超短裙",
+    "chars": 106,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "punk-fashion",
+    "lang": "en",
+    "title": "Punk fashion",
+    "chars": 26614,
+    "kept": true,
+    "file": "en.txt"
+  },
+  {
+    "trend": "punk-fashion",
+    "lang": "ar",
+    "title": "موضة البانك",
+    "chars": 1527,
+    "kept": true,
+    "file": "ar.txt"
+  },
+  {
+    "trend": "punk-fashion",
+    "lang": "es",
+    "title": "Moda punk",
+    "chars": 29591,
+    "kept": true,
+    "file": "es.txt"
+  },
+  {
+    "trend": "punk-fashion",
+    "lang": "fr",
+    "title": "Mode punk",
+    "chars": 35897,
+    "kept": true,
+    "file": "fr.txt"
+  },
+  {
+    "trend": "punk-fashion",
+    "lang": "it",
+    "title": "Abbigliamento punk",
+    "chars": 5195,
+    "kept": true,
+    "file": "it.txt"
+  },
+  {
+    "trend": "punk-fashion",
+    "lang": "ja",
+    "title": "パンク・ファッション",
+    "chars": 2925,
+    "kept": true,
+    "file": "ja.txt"
+  },
+  {
+    "trend": "punk-fashion",
+    "lang": "ka",
+    "title": "პანკის მოდა",
+    "chars": 1154,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "punk-fashion",
+    "lang": "ko",
+    "title": "펑크 패션",
+    "chars": 3082,
+    "kept": true,
+    "file": "ko.txt"
+  },
+  {
+    "trend": "punk-fashion",
+    "lang": "new",
+    "title": "पंक फेसन",
+    "chars": 117,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "punk-fashion",
+    "lang": "nl",
+    "title": "Punk (mode)",
+    "chars": 2640,
+    "kept": true,
+    "file": "nl.txt"
+  },
+  {
+    "trend": "punk-fashion",
+    "lang": "pt",
+    "title": "Moda punk",
+    "chars": 18468,
+    "kept": true,
+    "file": "pt.txt"
+  },
+  {
+    "trend": "punk-fashion",
+    "lang": "ro",
+    "title": "Modă punk",
+    "chars": 1611,
+    "kept": true,
+    "file": "ro.txt"
+  },
+  {
+    "trend": "punk-fashion",
+    "lang": "ru",
+    "title": "Панк-мода",
+    "chars": 10647,
+    "kept": true,
+    "file": "ru.txt"
+  },
+  {
+    "trend": "punk-fashion",
+    "lang": "th",
+    "title": "แฟชั่นพังก์",
+    "chars": 471,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "new-look",
+    "lang": "en",
+    "title": "Dior",
+    "chars": 49560,
+    "kept": true,
+    "file": "en.txt"
+  },
+  {
+    "trend": "new-look",
+    "lang": "fr",
+    "title": "New Look",
+    "chars": 10670,
+    "kept": true,
+    "file": "fr.txt"
+  },
+  {
+    "trend": "new-look",
+    "lang": "da",
+    "title": "New Look",
+    "chars": 7185,
+    "kept": true,
+    "file": "da.txt"
+  },
+  {
+    "trend": "new-look",
+    "lang": "de",
+    "title": "New Look",
+    "chars": 3486,
+    "kept": true,
+    "file": "de.txt"
+  },
+  {
+    "trend": "new-look",
+    "lang": "es",
+    "title": "New Look",
+    "chars": 3011,
+    "kept": true,
+    "file": "es.txt"
+  },
+  {
+    "trend": "new-look",
+    "lang": "eu",
+    "title": "New Look",
+    "chars": 2826,
+    "kept": true,
+    "file": "eu.txt"
+  },
+  {
+    "trend": "new-look",
+    "lang": "hy",
+    "title": "New Look (հագուստի ոճ)",
+    "chars": 1985,
+    "kept": true,
+    "file": "hy.txt"
+  },
+  {
+    "trend": "new-look",
+    "lang": "it",
+    "title": "New Look (linea Dior)",
+    "chars": 1492,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "new-look",
+    "lang": "ru",
+    "title": "New Look",
+    "chars": 1751,
+    "kept": true,
+    "file": "ru.txt"
+  },
+  {
+    "trend": "new-look",
+    "lang": "sv",
+    "title": "The New Look",
+    "chars": 1763,
+    "kept": true,
+    "file": "sv.txt"
+  },
+  {
+    "trend": "new-look",
+    "lang": "uk",
+    "title": "New Look",
+    "chars": 3337,
+    "kept": true,
+    "file": "uk.txt"
+  },
+  {
+    "trend": "bell-bottoms",
+    "lang": "en",
+    "title": "Bell-bottoms",
+    "chars": 7826,
+    "kept": true,
+    "file": "en.txt"
+  },
+  {
+    "trend": "bell-bottoms",
+    "lang": "af",
+    "title": "Klokbroek",
+    "chars": 686,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "bell-bottoms",
+    "lang": "ar",
+    "title": "بنطال الجرس",
+    "chars": 654,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "bell-bottoms",
+    "lang": "bjn",
+    "title": "Cutbray",
+    "chars": 585,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "bell-bottoms",
+    "lang": "ca",
+    "title": "Pantaló de campana",
+    "chars": 2253,
+    "kept": true,
+    "file": "ca.txt"
+  },
+  {
+    "trend": "bell-bottoms",
+    "lang": "de",
+    "title": "Schlaghose",
+    "chars": 4235,
+    "kept": true,
+    "file": "de.txt"
+  },
+  {
+    "trend": "bell-bottoms",
+    "lang": "es",
+    "title": "Pantalones de campana",
+    "chars": 6220,
+    "kept": true,
+    "file": "es.txt"
+  },
+  {
+    "trend": "bell-bottoms",
+    "lang": "eu",
+    "title": "Galtza elefante-hankadunak",
+    "chars": 386,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "bell-bottoms",
+    "lang": "fa",
+    "title": "شلوار دمپاگشاد",
+    "chars": 349,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "bell-bottoms",
+    "lang": "fr",
+    "title": "Pantalon à pattes d'éléphant",
+    "chars": 3141,
+    "kept": true,
+    "file": "fr.txt"
+  },
+  {
+    "trend": "bell-bottoms",
+    "lang": "he",
+    "title": "מכנסיים מתרחבים",
+    "chars": 592,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "bell-bottoms",
+    "lang": "id",
+    "title": "Celana lonceng",
+    "chars": 701,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "bell-bottoms",
+    "lang": "it",
+    "title": "Pantaloni a zampa di elefante",
+    "chars": 2315,
+    "kept": true,
+    "file": "it.txt"
+  },
+  {
+    "trend": "bell-bottoms",
+    "lang": "ja",
+    "title": "ベルボトム",
+    "chars": 2098,
+    "kept": true,
+    "file": "ja.txt"
+  },
+  {
+    "trend": "bell-bottoms",
+    "lang": "ko",
+    "title": "나팔바지",
+    "chars": 242,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "bell-bottoms",
+    "lang": "ms",
+    "title": "Seluar loceng",
+    "chars": 228,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "bell-bottoms",
+    "lang": "nl",
+    "title": "Bell bottom",
+    "chars": 3507,
+    "kept": true,
+    "file": "nl.txt"
+  },
+  {
+    "trend": "bell-bottoms",
+    "lang": "nb",
+    "title": "Slengbukser",
+    "chars": 1327,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "bell-bottoms",
+    "lang": "ru",
+    "title": "Брюки клёш",
+    "chars": 1912,
+    "kept": true,
+    "file": "ru.txt"
+  },
+  {
+    "trend": "bell-bottoms",
+    "lang": "simple",
+    "title": "Flares",
+    "chars": 245,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "bell-bottoms",
+    "lang": "tr",
+    "title": "İspanyol paça",
+    "chars": 242,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "bell-bottoms",
+    "lang": "uk",
+    "title": "Штани кльош",
+    "chars": 2540,
+    "kept": true,
+    "file": "uk.txt"
+  },
+  {
+    "trend": "bell-bottoms",
+    "lang": "zh",
+    "title": "喇叭裤",
+    "chars": 1941,
+    "kept": true,
+    "file": "zh.txt"
+  },
+  {
+    "trend": "shoulder-pads",
+    "lang": "en",
+    "title": "Shoulder pad (fashion)",
+    "chars": 28366,
+    "kept": true,
+    "file": "en.txt"
+  },
+  {
+    "trend": "shoulder-pads",
+    "lang": "da",
+    "title": "Skulderpude",
+    "chars": 939,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "shoulder-pads",
+    "lang": "de",
+    "title": "Schulterpolster",
+    "chars": 3650,
+    "kept": true,
+    "file": "de.txt"
+  },
+  {
+    "trend": "shoulder-pads",
+    "lang": "es",
+    "title": "Hombrera",
+    "chars": 1398,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "shoulder-pads",
+    "lang": "fr",
+    "title": "Épaulette (mode)",
+    "chars": 2907,
+    "kept": true,
+    "file": "fr.txt"
+  },
+  {
+    "trend": "shoulder-pads",
+    "lang": "he",
+    "title": "רפידות כתף",
+    "chars": 6730,
+    "kept": true,
+    "file": "he.txt"
+  },
+  {
+    "trend": "shoulder-pads",
+    "lang": "it",
+    "title": "Spallina",
+    "chars": 2101,
+    "kept": true,
+    "file": "it.txt"
+  },
+  {
+    "trend": "shoulder-pads",
+    "lang": "nl",
+    "title": "Schoudervulling",
+    "chars": 420,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "shoulder-pads",
+    "lang": "pt",
+    "title": "Ombreira",
+    "chars": 447,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "shoulder-pads",
+    "lang": "sv",
+    "title": "Axelvadd",
+    "chars": 417,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "hip-hop-fashion",
+    "lang": "en",
+    "title": "Hip-hop fashion",
+    "chars": 28232,
+    "kept": true,
+    "file": "en.txt"
+  },
+  {
+    "trend": "hip-hop-fashion",
+    "lang": "de",
+    "title": "Street fashion",
+    "chars": 12366,
+    "kept": true,
+    "file": "de.txt"
+  },
+  {
+    "trend": "hip-hop-fashion",
+    "lang": "fr",
+    "title": "Mode hip-hop",
+    "chars": 2326,
+    "kept": true,
+    "file": "fr.txt"
+  },
+  {
+    "trend": "hip-hop-fashion",
+    "lang": "hr",
+    "title": "Moda hip-hopa",
+    "chars": 2978,
+    "kept": true,
+    "file": "hr.txt"
+  },
+  {
+    "trend": "hip-hop-fashion",
+    "lang": "it",
+    "title": "Moda hip hop",
+    "chars": 2635,
+    "kept": true,
+    "file": "it.txt"
+  },
+  {
+    "trend": "hip-hop-fashion",
+    "lang": "ja",
+    "title": "ヒップホップ系ファッション",
+    "chars": 3567,
+    "kept": true,
+    "file": "ja.txt"
+  },
+  {
+    "trend": "hip-hop-fashion",
+    "lang": "ko",
+    "title": "힙합 패션",
+    "chars": 216,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "hip-hop-fashion",
+    "lang": "nb",
+    "title": "Streetwear",
+    "chars": 1659,
+    "kept": true,
+    "file": "nb.txt"
+  },
+  {
+    "trend": "hip-hop-fashion",
+    "lang": "pt",
+    "title": "Moda do hip hop",
+    "chars": 2584,
+    "kept": true,
+    "file": "pt.txt"
+  },
+  {
+    "trend": "hip-hop-fashion",
+    "lang": "ru",
+    "title": "Хип-хоп-мода",
+    "chars": 1328,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "hip-hop-fashion",
+    "lang": "si",
+    "title": "හිප් හොප් විලාසිතාව",
+    "chars": 641,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "hip-hop-fashion",
+    "lang": "sr",
+    "title": "Хип-хоп мода",
+    "chars": 27942,
+    "kept": true,
+    "file": "sr.txt"
+  },
+  {
+    "trend": "hip-hop-fashion",
+    "lang": "th",
+    "title": "แฟชั่นฮิปฮอป",
+    "chars": 10103,
+    "kept": true,
+    "file": "th.txt"
+  },
+  {
+    "trend": "hip-hop-fashion",
+    "lang": "tr",
+    "title": "Hip hop modası",
+    "chars": 698,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "hip-hop-fashion",
+    "lang": "uk",
+    "title": "Хіп-хоп-мода",
+    "chars": 2265,
+    "kept": true,
+    "file": "uk.txt"
+  },
+  {
+    "trend": "hip-hop-fashion",
+    "lang": "vi",
+    "title": "Thời trang hip hop",
+    "chars": 818,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "hip-hop-fashion",
+    "lang": "zh",
+    "title": "嘻哈時裝",
+    "chars": 207,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "grunge-fashion",
+    "lang": "en",
+    "title": "Grunge (fashion)",
+    "chars": 5728,
+    "kept": true,
+    "file": "en.txt"
+  },
+  {
+    "trend": "grunge-fashion",
+    "lang": "ja",
+    "title": "グランジ・ファッション",
+    "chars": 735,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "grunge-fashion",
+    "lang": "uk",
+    "title": "Ґрандж-одяг",
+    "chars": 3105,
+    "kept": true,
+    "file": "uk.txt"
+  },
+  {
+    "trend": "skinny-jeans",
+    "lang": "en",
+    "title": "Slim-fit pants",
+    "chars": 11386,
+    "kept": true,
+    "file": "en.txt"
+  },
+  {
+    "trend": "skinny-jeans",
+    "lang": "ar",
+    "title": "السكيني",
+    "chars": 336,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "skinny-jeans",
+    "lang": "bew",
+    "title": "Celana merecet",
+    "chars": 1341,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "skinny-jeans",
+    "lang": "de",
+    "title": "Skinny-Jeans",
+    "chars": 29789,
+    "kept": true,
+    "file": "de.txt"
+  },
+  {
+    "trend": "skinny-jeans",
+    "lang": "eo",
+    "title": "Magreca ĝinzo",
+    "chars": 392,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "skinny-jeans",
+    "lang": "es",
+    "title": "Pantalón pitillo",
+    "chars": 2111,
+    "kept": true,
+    "file": "es.txt"
+  },
+  {
+    "trend": "skinny-jeans",
+    "lang": "eu",
+    "title": "Galtza zango-estuak",
+    "chars": 376,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "skinny-jeans",
+    "lang": "fr",
+    "title": "Slim (pantalon)",
+    "chars": 1217,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "skinny-jeans",
+    "lang": "id",
+    "title": "Celana pensil",
+    "chars": 880,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "skinny-jeans",
+    "lang": "it",
+    "title": "Pantaloni skinny",
+    "chars": 2043,
+    "kept": true,
+    "file": "it.txt"
+  },
+  {
+    "trend": "skinny-jeans",
+    "lang": "ko",
+    "title": "스키니 진",
+    "chars": 3182,
+    "kept": true,
+    "file": "ko.txt"
+  },
+  {
+    "trend": "skinny-jeans",
+    "lang": "nl",
+    "title": "Skinny jeans",
+    "chars": 2053,
+    "kept": true,
+    "file": "nl.txt"
+  },
+  {
+    "trend": "skinny-jeans",
+    "lang": "simple",
+    "title": "Skinny jeans",
+    "chars": 465,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "skinny-jeans",
+    "lang": "tr",
+    "title": "Dar kesim pantolon",
+    "chars": 464,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "skinny-jeans",
+    "lang": "vi",
+    "title": "Quần jean ôm dáng",
+    "chars": 1725,
+    "kept": true,
+    "file": "vi.txt"
+  },
+  {
+    "trend": "skinny-jeans",
+    "lang": "zh",
+    "title": "小脚裤",
+    "chars": 160,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "harajuku",
+    "lang": "en",
+    "title": "Japanese street fashion",
+    "chars": 16411,
+    "kept": true,
+    "file": "en.txt"
+  },
+  {
+    "trend": "harajuku",
+    "lang": "ar",
+    "title": "موضة الشارع اليابانية",
+    "chars": 4833,
+    "kept": true,
+    "file": "ar.txt"
+  },
+  {
+    "trend": "harajuku",
+    "lang": "bg",
+    "title": "Японска улична мода",
+    "chars": 14273,
+    "kept": true,
+    "file": "bg.txt"
+  },
+  {
+    "trend": "harajuku",
+    "lang": "cs",
+    "title": "Japonská pouliční móda",
+    "chars": 1497,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "harajuku",
+    "lang": "el",
+    "title": "Ιαπωνικό στιλ δρόμου",
+    "chars": 13691,
+    "kept": true,
+    "file": "el.txt"
+  },
+  {
+    "trend": "harajuku",
+    "lang": "es",
+    "title": "Moda callejera japonesa",
+    "chars": 15531,
+    "kept": true,
+    "file": "es.txt"
+  },
+  {
+    "trend": "harajuku",
+    "lang": "fa",
+    "title": "مد خیابانی ژاپنی",
+    "chars": 3592,
+    "kept": true,
+    "file": "fa.txt"
+  },
+  {
+    "trend": "harajuku",
+    "lang": "hu",
+    "title": "Japán divat",
+    "chars": 5424,
+    "kept": true,
+    "file": "hu.txt"
+  },
+  {
+    "trend": "harajuku",
+    "lang": "ja",
+    "title": "日本のストリートファッション",
+    "chars": 9250,
+    "kept": true,
+    "file": "ja.txt"
+  },
+  {
+    "trend": "harajuku",
+    "lang": "ka",
+    "title": "იაპონური ქუჩის მოდა",
+    "chars": 731,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "harajuku",
+    "lang": "ko",
+    "title": "일본의 길거리 패션",
+    "chars": 6951,
+    "kept": true,
+    "file": "ko.txt"
+  },
+  {
+    "trend": "harajuku",
+    "lang": "pl",
+    "title": "Japońska moda uliczna",
+    "chars": 16488,
+    "kept": true,
+    "file": "pl.txt"
+  },
+  {
+    "trend": "harajuku",
+    "lang": "pt",
+    "title": "Moda de rua japonesa",
+    "chars": 15673,
+    "kept": true,
+    "file": "pt.txt"
+  },
+  {
+    "trend": "harajuku",
+    "lang": "ru",
+    "title": "Японские молодёжные субкультуры",
+    "chars": 41913,
+    "kept": true,
+    "file": "ru.txt"
+  },
+  {
+    "trend": "harajuku",
+    "lang": "tr",
+    "title": "Japon sokak modası",
+    "chars": 1152,
+    "kept": false,
+    "file": null
+  },
+  {
+    "trend": "harajuku",
+    "lang": "uk",
+    "title": "Молодіжні субкультури Японії",
+    "chars": 2669,
+    "kept": true,
+    "file": "uk.txt"
+  },
+  {
+    "trend": "harajuku",
+    "lang": "vi",
+    "title": "Thời trang đường phố Nhật Bản",
+    "chars": 2931,
+    "kept": true,
+    "file": "vi.txt"
+  },
+  {
+    "trend": "harajuku",
+    "lang": "zh",
+    "title": "日本街头时尚",
+    "chars": 5142,
+    "kept": true,
+    "file": "zh.txt"
+  },
+  {
+    "trend": "harajuku",
+    "lang": "en",
+    "title": "Harajuku",
+    "chars": 8708,
+    "kept": true,
+    "file": "en-2.txt"
+  },
+  {
+    "trend": "athleisure",
+    "lang": "en",
+    "title": "Athleisure",
+    "chars": 7501,
+    "kept": true,
+    "file": "en.txt"
+  },
+  {
+    "trend": "athleisure",
+    "lang": "de",
+    "title": "Athleisure",
+    "chars": 10654,
+    "kept": true,
+    "file": "de.txt"
+  },
+  {
+    "trend": "athleisure",
+    "lang": "mk",
+    "title": "Спортска облека",
+    "chars": 9709,
+    "kept": true,
+    "file": "mk.txt"
+  },
+  {
+    "trend": "athleisure",
+    "lang": "zh",
+    "title": "運動休閒風",
+    "chars": 219,
+    "kept": false,
+    "file": null
+  }
+]

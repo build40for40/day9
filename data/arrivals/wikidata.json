@@ -1,0 +1,131 @@
+[
+  {
+    "trend": "miniskirt",
+    "qid": "Q230823",
+    "label": "miniskirt",
+    "inception": [],
+    "country_of_origin": [],
+    "location_of_formation": [],
+    "discoverer_or_inventor": [
+      "Mary Quant"
+    ],
+    "creator": [],
+    "time_period": [],
+    "start_time": []
+  },
+  {
+    "trend": "punk-fashion",
+    "qid": "Q2423086",
+    "label": "Punk fashion",
+    "inception": [],
+    "country_of_origin": [],
+    "location_of_formation": [],
+    "discoverer_or_inventor": [],
+    "creator": [],
+    "time_period": [],
+    "start_time": []
+  },
+  {
+    "trend": "new-look",
+    "qid": "Q542767",
+    "label": "Christian Dior",
+    "inception": [
+      1946,
+      1958
+    ],
+    "country_of_origin": [],
+    "location_of_formation": [
+      "Paris"
+    ],
+    "discoverer_or_inventor": [],
+    "creator": [],
+    "time_period": [],
+    "start_time": []
+  },
+  {
+    "trend": "bell-bottoms",
+    "qid": "Q1568360",
+    "label": "flares",
+    "inception": [],
+    "country_of_origin": [],
+    "location_of_formation": [],
+    "discoverer_or_inventor": [],
+    "creator": [],
+    "time_period": [],
+    "start_time": []
+  },
+  {
+    "trend": "shoulder-pads",
+    "qid": "Q1411453",
+    "label": "shoulder pad",
+    "inception": [],
+    "country_of_origin": [],
+    "location_of_formation": [],
+    "discoverer_or_inventor": [],
+    "creator": [],
+    "time_period": [],
+    "start_time": []
+  },
+  {
+    "trend": "hip-hop-fashion",
+    "qid": "Q1893985",
+    "label": "hip hop fashion",
+    "inception": [],
+    "country_of_origin": [],
+    "location_of_formation": [],
+    "discoverer_or_inventor": [],
+    "creator": [],
+    "time_period": [],
+    "start_time": []
+  },
+  {
+    "trend": "grunge-fashion",
+    "qid": "Q29828873",
+    "label": "grunge",
+    "inception": [
+      1980
+    ],
+    "country_of_origin": [],
+    "location_of_formation": [],
+    "discoverer_or_inventor": [],
+    "creator": [],
+    "time_period": [],
+    "start_time": []
+  },
+  {
+    "trend": "skinny-jeans",
+    "qid": "Q618998",
+    "label": "skinny jeans",
+    "inception": [],
+    "country_of_origin": [],
+    "location_of_formation": [],
+    "discoverer_or_inventor": [],
+    "creator": [],
+    "time_period": [],
+    "start_time": []
+  },
+  {
+    "trend": "harajuku",
+    "qid": null,
+    "label": null,
+    "inception": [],
+    "country_of_origin": [],
+    "location_of_formation": [],
+    "discoverer_or_inventor": [],
+    "creator": [],
+    "time_period": [],
+    "start_time": []
+  },
+  {
+    "trend": "athleisure",
+    "qid": "Q19872717",
+    "label": "Athleisure",
+    "inception": [],
+    "country_of_origin": [],
+    "location_of_formation": [],
+    "discoverer_or_inventor": [],
+    "creator": [],
+    "time_period": [],
+    "start_time": []
+  }
+]

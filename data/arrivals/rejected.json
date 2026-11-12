@@ -1,0 +1,38 @@
+[
+  {
+    "trend": "miniskirt",
+    "place": "Netherlands",
+    "lang": "ca",
+    "reason": "The 1965 in the quote dates Mary Quant's collection, not the Dutch ban in the next sentence."
+  },
+  {
+    "trend": "miniskirt",
+    "place": "Bergen",
+    "lang": "nb",
+    "reason": "A photo caption of a visiting band in 1968. It shows miniskirts worn there, not when they arrived."
+  },
+  {
+    "trend": "new-look",
+    "place": "Yugoslavia",
+    "lang": "en",
+    "reason": "A visitor's outfits drew stares in 1949, which says the New Look had not arrived."
+  },
+  {
+    "trend": "shoulder-pads",
+    "place": "United States",
+    "lang": "en",
+    "reason": "Dates a designer wanting to remove shoulder pads in 1940, not their arrival."
+  },
+  {
+    "trend": "skinny-jeans",
+    "place": "Saudi Arabia",
+    "lang": "en",
+    "reason": "About tight trousers in general in the 2010s, with no arrival date for skinny jeans."
+  },
+  {
+    "trend": "skinny-jeans",
+    "place": "Saudi Arabia",
+    "lang": "ko",
+    "reason": "Same sentence as the English article: tight trousers in general in the 2010s."
+  }
+]

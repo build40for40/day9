@@ -1,0 +1,1289 @@
+[
+  {
+    "trend": "miniskirt",
+    "corpus": "en-US",
+    "place": "American English books",
+    "terms_tried": [
+      "miniskirt",
+      "mini skirt"
+    ],
+    "rise_year": 1966,
+    "peak_year": 1967,
+    "origin_corpus": "en-GB",
+    "origin_terms": [
+      "miniskirt",
+      "mini skirt"
+    ],
+    "origin_rise_year": 1966,
+    "lag_years": 0
+  },
+  {
+    "trend": "miniskirt",
+    "corpus": "fr",
+    "place": "French-language books",
+    "terms_tried": [
+      "minijupe",
+      "mini-jupe"
+    ],
+    "rise_year": 1966,
+    "peak_year": 1970,
+    "origin_corpus": "en-GB",
+    "origin_terms": [
+      "miniskirt",
+      "mini skirt"
+    ],
+    "origin_rise_year": 1966,
+    "lag_years": 0
+  },
+  {
+    "trend": "miniskirt",
+    "corpus": "de",
+    "place": "German-language books",
+    "terms_tried": [
+      "Minirock"
+    ],
+    "rise_year": 1966,
+    "peak_year": 1967,
+    "origin_corpus": "en-GB",
+    "origin_terms": [
+      "miniskirt",
+      "mini skirt"
+    ],
+    "origin_rise_year": 1966,
+    "lag_years": 0
+  },
+  {
+    "trend": "miniskirt",
+    "corpus": "es",
+    "place": "Spanish-language books",
+    "terms_tried": [
+      "minifalda"
+    ],
+    "rise_year": 1966,
+    "peak_year": 1967,
+    "origin_corpus": "en-GB",
+    "origin_terms": [
+      "miniskirt",
+      "mini skirt"
+    ],
+    "origin_rise_year": 1966,
+    "lag_years": 0
+  },
+  {
+    "trend": "miniskirt",
+    "corpus": "it",
+    "place": "Italian-language books",
+    "terms_tried": [
+      "minigonna"
+    ],
+    "rise_year": 1966,
+    "peak_year": 1967,
+    "origin_corpus": "en-GB",
+    "origin_terms": [
+      "miniskirt",
+      "mini skirt"
+    ],
+    "origin_rise_year": 1966,
+    "lag_years": 0
+  },
+  {
+    "trend": "miniskirt",
+    "corpus": "ru",
+    "place": "Russian-language books",
+    "terms_tried": [
+      "мини-юбка",
+      "мини-юбки"
+    ],
+    "rise_year": 1968,
+    "peak_year": 1970,
+    "origin_corpus": "en-GB",
+    "origin_terms": [
+      "miniskirt",
+      "mini skirt"
+    ],
+    "origin_rise_year": 1966,
+    "lag_years": 2
+  },
+  {
+    "trend": "miniskirt",
+    "corpus": "zh",
+    "place": "Chinese-language books",
+    "terms_tried": [
+      "迷你裙"
+    ],
+    "rise_year": 1967,
+    "peak_year": 1969,
+    "origin_corpus": "en-GB",
+    "origin_terms": [
+      "miniskirt",
+      "mini skirt"
+    ],
+    "origin_rise_year": 1966,
+    "lag_years": 1
+  },
+  {
+    "trend": "miniskirt",
+    "corpus": "iw",
+    "place": "Hebrew-language books",
+    "terms_tried": [
+      "חצאית מיני"
+    ],
+    "rise_year": 1967,
+    "peak_year": 1972,
+    "origin_corpus": "en-GB",
+    "origin_terms": [
+      "miniskirt",
+      "mini skirt"
+    ],
+    "origin_rise_year": 1966,
+    "lag_years": 1
+  },
+  {
+    "trend": "punk-fashion",
+    "corpus": "en-US",
+    "place": "American English books",
+    "terms_tried": [
+      "punk rock",
+      "punk fashion"
+    ],
+    "rise_year": 1976,
+    "peak_year": 1985,
+    "origin_corpus": "en-GB",
+    "origin_terms": [
+      "punk rock",
+      "punk fashion"
+    ],
+    "origin_rise_year": 1976,
+    "lag_years": 0
+  },
+  {
+    "trend": "punk-fashion",
+    "corpus": "fr",
+    "place": "French-language books",
+    "terms_tried": [
+      "punk"
+    ],
+    "rise_year": 1977,
+    "peak_year": 1984,
+    "origin_corpus": "en-GB",
+    "origin_terms": [
+      "punk rock",
+      "punk fashion"
+    ],
+    "origin_rise_year": 1976,
+    "lag_years": 1
+  },
+  {
+    "trend": "punk-fashion",
+    "corpus": "de",
+    "place": "German-language books",
+    "terms_tried": [
+      "Punk"
+    ],
+    "rise_year": 1976,
+    "peak_year": 1983,
+    "origin_corpus": "en-GB",
+    "origin_terms": [
+      "punk rock",
+      "punk fashion"
+    ],
+    "origin_rise_year": 1976,
+    "lag_years": 0
+  },
+  {
+    "trend": "punk-fashion",
+    "corpus": "es",
+    "place": "Spanish-language books",
+    "terms_tried": [
+      "punk"
+    ],
+    "rise_year": 1977,
+    "peak_year": 1985,
+    "origin_corpus": "en-GB",
+    "origin_terms": [
+      "punk rock",
+      "punk fashion"
+    ],
+    "origin_rise_year": 1976,
+    "lag_years": 1
+  },
+  {
+    "trend": "punk-fashion",
+    "corpus": "it",
+    "place": "Italian-language books",
+    "terms_tried": [
+      "punk"
+    ],
+    "rise_year": 1977,
+    "peak_year": 1984,
+    "origin_corpus": "en-GB",
+    "origin_terms": [
+      "punk rock",
+      "punk fashion"
+    ],
+    "origin_rise_year": 1976,
+    "lag_years": 1
+  },
+  {
+    "trend": "punk-fashion",
+    "corpus": "ru",
+    "place": "Russian-language books",
+    "terms_tried": [
+      "панк"
+    ],
+    "rise_year": 1976,
+    "peak_year": 1982,
+    "origin_corpus": "en-GB",
+    "origin_terms": [
+      "punk rock",
+      "punk fashion"
+    ],
+    "origin_rise_year": 1976,
+    "lag_years": 0
+  },
+  {
+    "trend": "punk-fashion",
+    "corpus": "zh",
+    "place": "Chinese-language books",
+    "terms_tried": [
+      "朋克"
+    ],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": "en-GB",
+    "origin_terms": [
+      "punk rock",
+      "punk fashion"
+    ],
+    "origin_rise_year": 1976,
+    "lag_years": null
+  },
+  {
+    "trend": "punk-fashion",
+    "corpus": "iw",
+    "place": "Hebrew-language books",
+    "terms_tried": [
+      "פאנק"
+    ],
+    "rise_year": 1982,
+    "peak_year": 1982,
+    "origin_corpus": "en-GB",
+    "origin_terms": [
+      "punk rock",
+      "punk fashion"
+    ],
+    "origin_rise_year": 1976,
+    "lag_years": 6
+  },
+  {
+    "trend": "new-look",
+    "corpus": "en-GB",
+    "place": "British English books",
+    "terms_tried": [
+      "New Look"
+    ],
+    "rise_year": 1947,
+    "peak_year": 1958,
+    "origin_corpus": "fr",
+    "origin_terms": [
+      "New Look"
+    ],
+    "origin_rise_year": 1948,
+    "lag_years": -1
+  },
+  {
+    "trend": "new-look",
+    "corpus": "en-US",
+    "place": "American English books",
+    "terms_tried": [
+      "New Look"
+    ],
+    "rise_year": 1946,
+    "peak_year": 1948,
+    "origin_corpus": "fr",
+    "origin_terms": [
+      "New Look"
+    ],
+    "origin_rise_year": 1948,
+    "lag_years": -2
+  },
+  {
+    "trend": "new-look",
+    "corpus": "de",
+    "place": "German-language books",
+    "terms_tried": [
+      "New Look"
+    ],
+    "rise_year": 1948,
+    "peak_year": 1954,
+    "origin_corpus": "fr",
+    "origin_terms": [
+      "New Look"
+    ],
+    "origin_rise_year": 1948,
+    "lag_years": 0
+  },
+  {
+    "trend": "new-look",
+    "corpus": "es",
+    "place": "Spanish-language books",
+    "terms_tried": [
+      "New Look"
+    ],
+    "rise_year": 1948,
+    "peak_year": 1954,
+    "origin_corpus": "fr",
+    "origin_terms": [
+      "New Look"
+    ],
+    "origin_rise_year": 1948,
+    "lag_years": 0
+  },
+  {
+    "trend": "new-look",
+    "corpus": "it",
+    "place": "Italian-language books",
+    "terms_tried": [
+      "New Look"
+    ],
+    "rise_year": 1953,
+    "peak_year": 1954,
+    "origin_corpus": "fr",
+    "origin_terms": [
+      "New Look"
+    ],
+    "origin_rise_year": 1948,
+    "lag_years": 5
+  },
+  {
+    "trend": "new-look",
+    "corpus": "ru",
+    "place": "Russian-language books",
+    "terms_tried": [],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": "fr",
+    "origin_terms": [
+      "New Look"
+    ],
+    "origin_rise_year": 1948,
+    "lag_years": null
+  },
+  {
+    "trend": "new-look",
+    "corpus": "zh",
+    "place": "Chinese-language books",
+    "terms_tried": [],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": "fr",
+    "origin_terms": [
+      "New Look"
+    ],
+    "origin_rise_year": 1948,
+    "lag_years": null
+  },
+  {
+    "trend": "new-look",
+    "corpus": "iw",
+    "place": "Hebrew-language books",
+    "terms_tried": [],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": "fr",
+    "origin_terms": [
+      "New Look"
+    ],
+    "origin_rise_year": 1948,
+    "lag_years": null
+  },
+  {
+    "trend": "bell-bottoms",
+    "corpus": "en-GB",
+    "place": "British English books",
+    "terms_tried": [
+      "bell bottoms",
+      "bell-bottoms"
+    ],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "bell bottoms",
+      "bell-bottoms"
+    ],
+    "origin_rise_year": null,
+    "lag_years": null
+  },
+  {
+    "trend": "bell-bottoms",
+    "corpus": "fr",
+    "place": "French-language books",
+    "terms_tried": [
+      "pattes d'éléphant"
+    ],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "bell bottoms",
+      "bell-bottoms"
+    ],
+    "origin_rise_year": null,
+    "lag_years": null
+  },
+  {
+    "trend": "bell-bottoms",
+    "corpus": "de",
+    "place": "German-language books",
+    "terms_tried": [
+      "Schlaghose",
+      "Schlaghosen"
+    ],
+    "rise_year": 1969,
+    "peak_year": 1973,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "bell bottoms",
+      "bell-bottoms"
+    ],
+    "origin_rise_year": null,
+    "lag_years": null
+  },
+  {
+    "trend": "bell-bottoms",
+    "corpus": "es",
+    "place": "Spanish-language books",
+    "terms_tried": [
+      "pantalones acampanados"
+    ],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "bell bottoms",
+      "bell-bottoms"
+    ],
+    "origin_rise_year": null,
+    "lag_years": null
+  },
+  {
+    "trend": "bell-bottoms",
+    "corpus": "it",
+    "place": "Italian-language books",
+    "terms_tried": [
+      "pantaloni a zampa"
+    ],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "bell bottoms",
+      "bell-bottoms"
+    ],
+    "origin_rise_year": null,
+    "lag_years": null
+  },
+  {
+    "trend": "bell-bottoms",
+    "corpus": "ru",
+    "place": "Russian-language books",
+    "terms_tried": [
+      "брюки клёш",
+      "брюки клеш"
+    ],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "bell bottoms",
+      "bell-bottoms"
+    ],
+    "origin_rise_year": null,
+    "lag_years": null
+  },
+  {
+    "trend": "bell-bottoms",
+    "corpus": "zh",
+    "place": "Chinese-language books",
+    "terms_tried": [
+      "喇叭裤"
+    ],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "bell bottoms",
+      "bell-bottoms"
+    ],
+    "origin_rise_year": null,
+    "lag_years": null
+  },
+  {
+    "trend": "bell-bottoms",
+    "corpus": "iw",
+    "place": "Hebrew-language books",
+    "terms_tried": [
+      "מכנסי פעמון"
+    ],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "bell bottoms",
+      "bell-bottoms"
+    ],
+    "origin_rise_year": null,
+    "lag_years": null
+  },
+  {
+    "trend": "shoulder-pads",
+    "corpus": "en-GB",
+    "place": "British English books",
+    "terms_tried": [
+      "shoulder pads"
+    ],
+    "rise_year": 1929,
+    "peak_year": 1932,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "shoulder pads"
+    ],
+    "origin_rise_year": null,
+    "lag_years": null
+  },
+  {
+    "trend": "shoulder-pads",
+    "corpus": "fr",
+    "place": "French-language books",
+    "terms_tried": [],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "shoulder pads"
+    ],
+    "origin_rise_year": null,
+    "lag_years": null
+  },
+  {
+    "trend": "shoulder-pads",
+    "corpus": "de",
+    "place": "German-language books",
+    "terms_tried": [
+      "Schulterpolster"
+    ],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "shoulder pads"
+    ],
+    "origin_rise_year": null,
+    "lag_years": null
+  },
+  {
+    "trend": "shoulder-pads",
+    "corpus": "es",
+    "place": "Spanish-language books",
+    "terms_tried": [],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "shoulder pads"
+    ],
+    "origin_rise_year": null,
+    "lag_years": null
+  },
+  {
+    "trend": "shoulder-pads",
+    "corpus": "it",
+    "place": "Italian-language books",
+    "terms_tried": [],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "shoulder pads"
+    ],
+    "origin_rise_year": null,
+    "lag_years": null
+  },
+  {
+    "trend": "shoulder-pads",
+    "corpus": "ru",
+    "place": "Russian-language books",
+    "terms_tried": [
+      "подплечники"
+    ],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "shoulder pads"
+    ],
+    "origin_rise_year": null,
+    "lag_years": null
+  },
+  {
+    "trend": "shoulder-pads",
+    "corpus": "zh",
+    "place": "Chinese-language books",
+    "terms_tried": [
+      "垫肩"
+    ],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "shoulder pads"
+    ],
+    "origin_rise_year": null,
+    "lag_years": null
+  },
+  {
+    "trend": "shoulder-pads",
+    "corpus": "iw",
+    "place": "Hebrew-language books",
+    "terms_tried": [],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "shoulder pads"
+    ],
+    "origin_rise_year": null,
+    "lag_years": null
+  },
+  {
+    "trend": "hip-hop-fashion",
+    "corpus": "en-GB",
+    "place": "British English books",
+    "terms_tried": [
+      "hip hop"
+    ],
+    "rise_year": 1983,
+    "peak_year": 1990,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "hip hop"
+    ],
+    "origin_rise_year": 1984,
+    "lag_years": -1
+  },
+  {
+    "trend": "hip-hop-fashion",
+    "corpus": "fr",
+    "place": "French-language books",
+    "terms_tried": [
+      "hip hop"
+    ],
+    "rise_year": 1984,
+    "peak_year": 1990,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "hip hop"
+    ],
+    "origin_rise_year": 1984,
+    "lag_years": 0
+  },
+  {
+    "trend": "hip-hop-fashion",
+    "corpus": "de",
+    "place": "German-language books",
+    "terms_tried": [
+      "Hip Hop",
+      "Hiphop"
+    ],
+    "rise_year": 1988,
+    "peak_year": 1990,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "hip hop"
+    ],
+    "origin_rise_year": 1984,
+    "lag_years": 4
+  },
+  {
+    "trend": "hip-hop-fashion",
+    "corpus": "es",
+    "place": "Spanish-language books",
+    "terms_tried": [
+      "hip hop"
+    ],
+    "rise_year": 1985,
+    "peak_year": 1990,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "hip hop"
+    ],
+    "origin_rise_year": 1984,
+    "lag_years": 1
+  },
+  {
+    "trend": "hip-hop-fashion",
+    "corpus": "it",
+    "place": "Italian-language books",
+    "terms_tried": [
+      "hip hop"
+    ],
+    "rise_year": 1983,
+    "peak_year": 1989,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "hip hop"
+    ],
+    "origin_rise_year": 1984,
+    "lag_years": -1
+  },
+  {
+    "trend": "hip-hop-fashion",
+    "corpus": "ru",
+    "place": "Russian-language books",
+    "terms_tried": [
+      "хип-хоп"
+    ],
+    "rise_year": 1987,
+    "peak_year": 1988,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "hip hop"
+    ],
+    "origin_rise_year": 1984,
+    "lag_years": 3
+  },
+  {
+    "trend": "hip-hop-fashion",
+    "corpus": "zh",
+    "place": "Chinese-language books",
+    "terms_tried": [
+      "嘻哈"
+    ],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "hip hop"
+    ],
+    "origin_rise_year": 1984,
+    "lag_years": null
+  },
+  {
+    "trend": "hip-hop-fashion",
+    "corpus": "iw",
+    "place": "Hebrew-language books",
+    "terms_tried": [
+      "היפ הופ"
+    ],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "hip hop"
+    ],
+    "origin_rise_year": 1984,
+    "lag_years": null
+  },
+  {
+    "trend": "grunge-fashion",
+    "corpus": "en-GB",
+    "place": "British English books",
+    "terms_tried": [
+      "grunge"
+    ],
+    "rise_year": 1992,
+    "peak_year": 1999,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "grunge"
+    ],
+    "origin_rise_year": 1989,
+    "lag_years": 3
+  },
+  {
+    "trend": "grunge-fashion",
+    "corpus": "fr",
+    "place": "French-language books",
+    "terms_tried": [
+      "grunge"
+    ],
+    "rise_year": 1993,
+    "peak_year": 1996,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "grunge"
+    ],
+    "origin_rise_year": 1989,
+    "lag_years": 4
+  },
+  {
+    "trend": "grunge-fashion",
+    "corpus": "de",
+    "place": "German-language books",
+    "terms_tried": [
+      "Grunge"
+    ],
+    "rise_year": 1992,
+    "peak_year": 1995,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "grunge"
+    ],
+    "origin_rise_year": 1989,
+    "lag_years": 3
+  },
+  {
+    "trend": "grunge-fashion",
+    "corpus": "es",
+    "place": "Spanish-language books",
+    "terms_tried": [
+      "grunge"
+    ],
+    "rise_year": 1993,
+    "peak_year": 1995,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "grunge"
+    ],
+    "origin_rise_year": 1989,
+    "lag_years": 4
+  },
+  {
+    "trend": "grunge-fashion",
+    "corpus": "it",
+    "place": "Italian-language books",
+    "terms_tried": [
+      "grunge"
+    ],
+    "rise_year": 1992,
+    "peak_year": 1993,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "grunge"
+    ],
+    "origin_rise_year": 1989,
+    "lag_years": 3
+  },
+  {
+    "trend": "grunge-fashion",
+    "corpus": "ru",
+    "place": "Russian-language books",
+    "terms_tried": [
+      "гранж"
+    ],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "grunge"
+    ],
+    "origin_rise_year": 1989,
+    "lag_years": null
+  },
+  {
+    "trend": "grunge-fashion",
+    "corpus": "zh",
+    "place": "Chinese-language books",
+    "terms_tried": [],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "grunge"
+    ],
+    "origin_rise_year": 1989,
+    "lag_years": null
+  },
+  {
+    "trend": "grunge-fashion",
+    "corpus": "iw",
+    "place": "Hebrew-language books",
+    "terms_tried": [],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "grunge"
+    ],
+    "origin_rise_year": 1989,
+    "lag_years": null
+  },
+  {
+    "trend": "skinny-jeans",
+    "corpus": "en-GB",
+    "place": "British English books",
+    "terms_tried": [
+      "skinny jeans"
+    ],
+    "rise_year": 2006,
+    "peak_year": 2010,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "skinny jeans"
+    ],
+    "origin_rise_year": 2006,
+    "lag_years": 0
+  },
+  {
+    "trend": "skinny-jeans",
+    "corpus": "fr",
+    "place": "French-language books",
+    "terms_tried": [
+      "jean slim"
+    ],
+    "rise_year": 2006,
+    "peak_year": 2010,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "skinny jeans"
+    ],
+    "origin_rise_year": 2006,
+    "lag_years": 0
+  },
+  {
+    "trend": "skinny-jeans",
+    "corpus": "de",
+    "place": "German-language books",
+    "terms_tried": [
+      "Röhrenjeans",
+      "Skinny Jeans"
+    ],
+    "rise_year": 2000,
+    "peak_year": 2010,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "skinny jeans"
+    ],
+    "origin_rise_year": 2006,
+    "lag_years": -6
+  },
+  {
+    "trend": "skinny-jeans",
+    "corpus": "es",
+    "place": "Spanish-language books",
+    "terms_tried": [
+      "pantalones pitillo",
+      "skinny jeans"
+    ],
+    "rise_year": 2003,
+    "peak_year": 2010,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "skinny jeans"
+    ],
+    "origin_rise_year": 2006,
+    "lag_years": -3
+  },
+  {
+    "trend": "skinny-jeans",
+    "corpus": "it",
+    "place": "Italian-language books",
+    "terms_tried": [
+      "skinny jeans"
+    ],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "skinny jeans"
+    ],
+    "origin_rise_year": 2006,
+    "lag_years": null
+  },
+  {
+    "trend": "skinny-jeans",
+    "corpus": "ru",
+    "place": "Russian-language books",
+    "terms_tried": [
+      "джинсы скинни",
+      "узкие джинсы"
+    ],
+    "rise_year": 1998,
+    "peak_year": 2010,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "skinny jeans"
+    ],
+    "origin_rise_year": 2006,
+    "lag_years": -8
+  },
+  {
+    "trend": "skinny-jeans",
+    "corpus": "zh",
+    "place": "Chinese-language books",
+    "terms_tried": [
+      "紧身牛仔裤"
+    ],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "skinny jeans"
+    ],
+    "origin_rise_year": 2006,
+    "lag_years": null
+  },
+  {
+    "trend": "skinny-jeans",
+    "corpus": "iw",
+    "place": "Hebrew-language books",
+    "terms_tried": [],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "skinny jeans"
+    ],
+    "origin_rise_year": 2006,
+    "lag_years": null
+  },
+  {
+    "trend": "harajuku",
+    "corpus": "en-GB",
+    "place": "British English books",
+    "terms_tried": [
+      "Harajuku"
+    ],
+    "rise_year": 1988,
+    "peak_year": 1985,
+    "origin_corpus": null,
+    "origin_terms": null,
+    "origin_rise_year": null,
+    "lag_years": null
+  },
+  {
+    "trend": "harajuku",
+    "corpus": "en-US",
+    "place": "American English books",
+    "terms_tried": [
+      "Harajuku"
+    ],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": null,
+    "origin_terms": null,
+    "origin_rise_year": null,
+    "lag_years": null
+  },
+  {
+    "trend": "harajuku",
+    "corpus": "fr",
+    "place": "French-language books",
+    "terms_tried": [
+      "Harajuku"
+    ],
+    "rise_year": 1984,
+    "peak_year": 1990,
+    "origin_corpus": null,
+    "origin_terms": null,
+    "origin_rise_year": null,
+    "lag_years": null
+  },
+  {
+    "trend": "harajuku",
+    "corpus": "de",
+    "place": "German-language books",
+    "terms_tried": [
+      "Harajuku"
+    ],
+    "rise_year": 1983,
+    "peak_year": 1989,
+    "origin_corpus": null,
+    "origin_terms": null,
+    "origin_rise_year": null,
+    "lag_years": null
+  },
+  {
+    "trend": "harajuku",
+    "corpus": "es",
+    "place": "Spanish-language books",
+    "terms_tried": [
+      "Harajuku"
+    ],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": null,
+    "origin_terms": null,
+    "origin_rise_year": null,
+    "lag_years": null
+  },
+  {
+    "trend": "harajuku",
+    "corpus": "it",
+    "place": "Italian-language books",
+    "terms_tried": [
+      "Harajuku"
+    ],
+    "rise_year": 1990,
+    "peak_year": 1985,
+    "origin_corpus": null,
+    "origin_terms": null,
+    "origin_rise_year": null,
+    "lag_years": null
+  },
+  {
+    "trend": "harajuku",
+    "corpus": "ru",
+    "place": "Russian-language books",
+    "terms_tried": [
+      "Харадзюку"
+    ],
+    "rise_year": 1984,
+    "peak_year": 1984,
+    "origin_corpus": null,
+    "origin_terms": null,
+    "origin_rise_year": null,
+    "lag_years": null
+  },
+  {
+    "trend": "harajuku",
+    "corpus": "zh",
+    "place": "Chinese-language books",
+    "terms_tried": [
+      "原宿"
+    ],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": null,
+    "origin_terms": null,
+    "origin_rise_year": null,
+    "lag_years": null
+  },
+  {
+    "trend": "harajuku",
+    "corpus": "iw",
+    "place": "Hebrew-language books",
+    "terms_tried": [],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": null,
+    "origin_terms": null,
+    "origin_rise_year": null,
+    "lag_years": null
+  },
+  {
+    "trend": "athleisure",
+    "corpus": "en-GB",
+    "place": "British English books",
+    "terms_tried": [
+      "athleisure"
+    ],
+    "rise_year": 2017,
+    "peak_year": 2020,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "athleisure"
+    ],
+    "origin_rise_year": null,
+    "lag_years": null
+  },
+  {
+    "trend": "athleisure",
+    "corpus": "fr",
+    "place": "French-language books",
+    "terms_tried": [
+      "athleisure"
+    ],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "athleisure"
+    ],
+    "origin_rise_year": null,
+    "lag_years": null
+  },
+  {
+    "trend": "athleisure",
+    "corpus": "de",
+    "place": "German-language books",
+    "terms_tried": [
+      "Athleisure"
+    ],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "athleisure"
+    ],
+    "origin_rise_year": null,
+    "lag_years": null
+  },
+  {
+    "trend": "athleisure",
+    "corpus": "es",
+    "place": "Spanish-language books",
+    "terms_tried": [
+      "athleisure"
+    ],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "athleisure"
+    ],
+    "origin_rise_year": null,
+    "lag_years": null
+  },
+  {
+    "trend": "athleisure",
+    "corpus": "it",
+    "place": "Italian-language books",
+    "terms_tried": [
+      "athleisure"
+    ],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "athleisure"
+    ],
+    "origin_rise_year": null,
+    "lag_years": null
+  },
+  {
+    "trend": "athleisure",
+    "corpus": "ru",
+    "place": "Russian-language books",
+    "terms_tried": [
+      "атлейжер"
+    ],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "athleisure"
+    ],
+    "origin_rise_year": null,
+    "lag_years": null
+  },
+  {
+    "trend": "athleisure",
+    "corpus": "zh",
+    "place": "Chinese-language books",
+    "terms_tried": [],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "athleisure"
+    ],
+    "origin_rise_year": null,
+    "lag_years": null
+  },
+  {
+    "trend": "athleisure",
+    "corpus": "iw",
+    "place": "Hebrew-language books",
+    "terms_tried": [],
+    "rise_year": null,
+    "peak_year": null,
+    "origin_corpus": "en-US",
+    "origin_terms": [
+      "athleisure"
+    ],
+    "origin_rise_year": null,
+    "lag_years": null
+  }
+]

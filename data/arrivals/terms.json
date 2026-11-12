@@ -1,0 +1,45 @@
+{
+  "_note": "Hand-edited. Local spellings of each pilot trend, by language code, for Ngram (fr de es it ru zh he) and the newspaper archives (nl nb de et, and lu for Luxembourg's French and German papers). They start from the Wikipedia langlink titles and are trimmed to what people actually print. Leave a language out when its word also means something older (French 'épaulettes' are military).",
+  "_broad": ["punk-fashion", "new-look", "shoulder-pads", "hip-hop-fashion", "grunge-fashion", "harajuku"],
+  "_broad_note": "For these the search word covers more than the clothes (a music scene, a district, a common phrase, American football), so dates from counting mentions are capped at medium confidence.",
+  "miniskirt": {
+    "fr": ["minijupe", "mini-jupe"], "de": ["Minirock"], "es": ["minifalda"], "it": ["minigonna"], "ru": ["мини-юбка", "мини-юбки"], "zh": ["迷你裙"], "he": ["חצאית מיני"],
+    "nl": ["minirok", "minirokje", "mini-rok"], "nb": ["miniskjørt"], "et": ["miniseelik"], "lu": ["minijupe", "mini-jupe", "Minirock"]
+  },
+  "punk-fashion": {
+    "fr": ["punk"], "de": ["Punk", "Punkrock"], "es": ["punk"], "it": ["punk"], "ru": ["панк"], "zh": ["朋克"], "he": ["פאנק"],
+    "nl": ["punk"], "nb": ["punkrock", "punk-rock", "punkere"], "et": ["punkar", "punkarid", "punkrokk"], "lu": ["punk"]
+  },
+  "new-look": {
+    "de": ["New Look"], "es": ["New Look"], "it": ["New Look"],
+    "nl": ["new look"], "nb": ["new look"], "lu": ["new look"]
+  },
+  "bell-bottoms": {
+    "fr": ["pattes d'éléphant"], "de": ["Schlaghose", "Schlaghosen"], "es": ["pantalones acampanados"], "it": ["pantaloni a zampa"], "ru": ["брюки клёш", "брюки клеш"], "zh": ["喇叭裤"], "he": ["מכנסי פעמון"],
+    "nl": ["olifantspijpen", "soulbroek"], "nb": ["slengbukser", "slengbukse"], "lu": ["pattes d'éléphant", "Schlaghose", "Schlaghosen"]
+  },
+  "shoulder-pads": {
+    "de": ["Schulterpolster"], "ru": ["подплечники"], "zh": ["垫肩"],
+    "nl": ["schoudervullingen", "schoudervulling"], "nb": ["skulderputer", "skulderpute"], "lu": ["Schulterpolster"]
+  },
+  "hip-hop-fashion": {
+    "fr": ["hip hop"], "de": ["Hip Hop", "Hiphop"], "es": ["hip hop"], "it": ["hip hop"], "ru": ["хип-хоп"], "zh": ["嘻哈"], "he": ["היפ הופ"],
+    "nl": ["hiphop", "hip hop", "hip-hop"], "nb": ["hiphop", "hip hop", "hip-hop"], "et": ["hiphop", "hip-hop"], "lu": ["hip hop", "hip-hop", "hiphop"]
+  },
+  "grunge-fashion": {
+    "fr": ["grunge"], "de": ["Grunge"], "es": ["grunge"], "it": ["grunge"], "ru": ["гранж"],
+    "nl": ["grunge"], "nb": ["grunge"], "et": ["grunge"], "lu": ["grunge"]
+  },
+  "skinny-jeans": {
+    "fr": ["jean slim"], "de": ["Röhrenjeans", "Skinny Jeans"], "es": ["pantalones pitillo", "skinny jeans"], "it": ["skinny jeans"], "ru": ["джинсы скинни", "узкие джинсы"], "zh": ["紧身牛仔裤"],
+    "nl": ["skinny jeans"], "nb": ["skinny jeans"], "et": ["skinny teksad", "liibuvad teksad"], "lu": ["skinny jeans", "Röhrenjeans", "jean slim"]
+  },
+  "harajuku": {
+    "fr": ["Harajuku"], "de": ["Harajuku"], "es": ["Harajuku"], "it": ["Harajuku"], "ru": ["Харадзюку"], "zh": ["原宿"],
+    "nl": ["Harajuku"], "nb": ["Harajuku"], "et": ["Harajuku"], "lu": ["Harajuku"]
+  },
+  "athleisure": {
+    "fr": ["athleisure"], "de": ["Athleisure"], "es": ["athleisure"], "it": ["athleisure"], "ru": ["атлейжер"],
+    "nl": ["athleisure"], "nb": ["athleisure"], "et": ["athleisure"], "lu": ["athleisure"]
+  }
+}
