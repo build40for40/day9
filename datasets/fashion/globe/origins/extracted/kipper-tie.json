@@ -1,0 +1,16 @@
+{
+  "trend_id": "kipper-tie",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "London",
+      "place_type": "city",
+      "year": 1966,
+      "year_precision": "year",
+      "who": "Michael Fish",
+      "hedged": false,
+      "quote": "British fashion designer Michael Fish designed the kipper tie in 1966 in his establishment in Piccadilly.",
+      "note": "Fish designed it in Piccadilly"
+    }
+  ]
+}

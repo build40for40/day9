@@ -1,0 +1,16 @@
+{
+  "trend_id": "fishnets",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "United States",
+      "place_type": "country",
+      "year": 1920,
+      "year_precision": "decade",
+      "who": "showgirls",
+      "hedged": false,
+      "quote": "During the 1920s, fishnets emerged as a more alternative trend in the U.S. and were favored by women like showgirls, in large part due to the fact that fishnets were more revealing than typical regular stockings of the day.",
+      "note": "showgirls favoured fishnets in the US"
+    }
+  ]
+}

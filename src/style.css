@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+/* A gallery after hours, read in bed. */
+@theme {
+  /* As on the site, where this variable was never loaded on this page, so mono text falls back to the body font. */
+  --font-mono: var(--font-jetbrains-mono);
+  --color-nof-night: #0e0d12;
+  --color-nof-panel: #17151d;
+  --color-nof-raised: #211e29;
+  --color-nof-line: #302c3a;
+  --color-nof-text: #f2eee6;
+  --color-nof-sub: #cfc9d6;
+  --color-nof-muted: #a39fae;
+  --color-nof-pink: #ff6fa8;
+  --color-nof-pink-ink: #1f0612;
+  --color-nof-gold: #e8c27a;
+  /* Four trend families, validated for colour blindness on nof-night. */
+  --color-nof-clothes: #5b8ef0;
+  --color-nof-scenes: #e2703a;
+  --color-nof-kit: #1fa583;
+  --color-nof-face: #a970da;
+
+  --font-nof-display: "Bodoni Moda", "Didot", Georgia, serif;
+  --font-nof-body: "Instrument Sans", system-ui, sans-serif;
+}

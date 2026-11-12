@@ -1,0 +1,38 @@
+{
+  "trend_id": "lace",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Milan",
+      "place_type": "city",
+      "year": 1493,
+      "year_precision": "year",
+      "who": "Sforza family",
+      "hedged": true,
+      "quote": "The origin of lace is disputed by historians. An Italian claim is a will of 1493 by the Milanese Sforza family.",
+      "note": "Italian claim, a 1493 will"
+    },
+    {
+      "kind": "rival",
+      "place": "Flanders",
+      "place_type": "region",
+      "year": 1485,
+      "year_precision": "year",
+      "who": null,
+      "hedged": true,
+      "quote": "A Flemish claim is lace on the alb of a worshiping priest in a painting about 1485 by Hans Memling.",
+      "note": "Flemish claim, lace in a 1485 painting"
+    },
+    {
+      "kind": "root",
+      "place": "Venice",
+      "place_type": "city",
+      "year": 1533,
+      "year_precision": "year",
+      "who": "Catherine de Medici",
+      "hedged": false,
+      "quote": "Lace arrived in France when Catherine de Medici, newly married to King Henry II in 1533, brought Venetian lace-makers to her new homeland.",
+      "note": "Venetian lace-makers brought to France"
+    }
+  ]
+}

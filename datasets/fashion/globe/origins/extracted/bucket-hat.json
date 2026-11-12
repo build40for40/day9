@@ -1,0 +1,27 @@
+{
+  "trend_id": "bucket-hat",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Ireland",
+      "place_type": "country",
+      "year": 1900,
+      "year_precision": "year",
+      "who": "Irish farmers and fishermen",
+      "hedged": true,
+      "quote": "The bucket hat is said to have been introduced around 1900. Originally made from wool felt or tweed cloth, these hats were traditionally worn by Irish farmers and fishermen as protection from the rain, because the lanolin from the unwashed (raw) wool made these hats naturally waterproof.",
+      "note": "said to date from around 1900, Irish rain hat"
+    },
+    {
+      "kind": "root",
+      "place": "United States",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "The modern bucket hat is derived from a tropical hat made from olive drab cotton that was issued to the US Army during the Vietnam War.",
+      "note": "modern version from US Army tropical hat"
+    }
+  ]
+}

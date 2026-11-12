@@ -1,0 +1,16 @@
+{
+  "trend_id": "doc-martens",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Seeshaupt",
+      "place_type": "city",
+      "year": 1947,
+      "year_precision": "year",
+      "who": "Klaus Märtens and Herbert Funck",
+      "hedged": false,
+      "quote": "In 1947, Märtens did not have much success selling his shoes until he met up with an old university friend, Herbert Funck, in Munich. Funck was intrigued by the new shoe design, and the two went into business that year in Seeshaupt, Germany, using discarded rubber shaped by moulds.",
+      "note": "air-cushioned shoe business started in Germany"
+    }
+  ]
+}

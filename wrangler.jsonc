@@ -1,0 +1,22 @@
+{
+  "name": "nerds-of-fashion",
+  "account_id": "9b4d3e616e55585a0ae844f424717b43",
+  "main": "worker/index.ts",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./dist",
+    "binding": "ASSETS",
+    "run_worker_first": ["/nerds-of-fashion/api/*"]
+  },
+  "vars": {
+    "PUBLIC_POSTHOG_HOST": "https://eu.i.posthog.com",
+    "TYPESAFE_API_URL": "https://api.typesafe.ai"
+  },
+  // Secrets: ANTHROPIC_API_KEY (Draw your own), TYPESAFE_API_KEY (Jev search) and PUBLIC_POSTHOG_PROJECT_TOKEN.
+  "routes": [
+    { "pattern": "build40for40.com/nerds-of-fashion", "zone_name": "build40for40.com" },
+    { "pattern": "build40for40.com/nerds-of-fashion/*", "zone_name": "build40for40.com" }
+  ],
+  "workers_dev": true,
+  "preview_urls": true
+}

@@ -1,0 +1,27 @@
+{
+  "trend_id": "stetson",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "United States",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": "John Batterson Stetson",
+      "hedged": true,
+      "quote": "John Batterson Stetson is credited for originating the modern-day American cowboy hat.",
+      "note": "Stetson credited with modern cowboy hat"
+    },
+    {
+      "kind": "root",
+      "place": "Mexico",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "Various styles of American cowboy hats evolved from Mexican hats like the sombrero charro, torro hats and sombreros calentanos.",
+      "note": "evolved from Mexican hats"
+    }
+  ]
+}

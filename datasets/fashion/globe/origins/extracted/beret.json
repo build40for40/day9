@@ -1,0 +1,27 @@
+{
+  "trend_id": "beret",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Oloron-Sainte-Marie",
+      "place_type": "city",
+      "year": 1600,
+      "year_precision": "century",
+      "who": null,
+      "hedged": false,
+      "quote": "The commercial production of Basque-style berets began in the 17th century around Oloron-Sainte-Marie in the Béarn province of southern France.",
+      "note": "commercial production began"
+    },
+    {
+      "kind": "root",
+      "place": "Pyrenees",
+      "place_type": "region",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "The Basque-style beret was the traditional headwear of Aragonese and Navarrian shepherds from the Ansó and Roncal valleys of the Pyrenees, a mountain range that divides southern France from northern Spain.",
+      "note": "traditional shepherd headwear"
+    }
+  ]
+}

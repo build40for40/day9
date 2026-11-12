@@ -1,0 +1,27 @@
+{
+  "trend_id": "sequins",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Indus Valley",
+      "place_type": "region",
+      "year": -2500,
+      "year_precision": "year",
+      "who": null,
+      "hedged": false,
+      "quote": "Evidence exists that gold sequins were being used as decoration on clothing or paraphernalia in the Indus Valley as early as 2500 BC, during the Kot Diji phase.",
+      "note": "earliest gold sequins in Indus Valley"
+    },
+    {
+      "kind": "root",
+      "place": "Venice",
+      "place_type": "city",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "The name sequin originates from the Venetian colloquial noun zechin (Venetian: [(d)zeˈkiŋ]), meaning a Venetian ducat coin, rendered into French as sequin (French: [səkɛ̃]).",
+      "note": "name came from the Venetian ducat coin"
+    }
+  ]
+}

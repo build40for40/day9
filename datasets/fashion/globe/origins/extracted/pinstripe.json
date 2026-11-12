@@ -1,0 +1,16 @@
+{
+  "trend_id": "pinstripe",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "London",
+      "place_type": "city",
+      "year": 1800,
+      "year_precision": "century",
+      "who": "banks in London",
+      "hedged": false,
+      "quote": "Pinstripes have been found on suits since the early 19th century. They were used by banks in London to identify their employees.",
+      "note": "suits pinstriped, banks in London used them"
+    }
+  ]
+}

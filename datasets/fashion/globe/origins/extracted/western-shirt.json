@@ -1,0 +1,27 @@
+{
+  "trend_id": "western-shirt",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Denver",
+      "place_type": "city",
+      "year": 1946,
+      "year_precision": "year",
+      "who": "Papa Jack Weil",
+      "hedged": false,
+      "quote": "In 1946, Papa Jack Weil put snap buttons on the front, and pocket flaps on the Western shirt, and established Denver's Rockmount Ranch Wear.",
+      "note": "snap buttons added, Rockmount founded"
+    },
+    {
+      "kind": "root",
+      "place": "Mexico",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "Derived from the elaborate Mexican vaquero costumes like the guayabera, these were worn at rodeos so the cowboy could be easily identifiable.",
+      "note": "dress shirts derived from Mexican vaquero costumes"
+    }
+  ]
+}

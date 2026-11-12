@@ -1,0 +1,16 @@
+{
+  "trend_id": "yoga-pants",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Vancouver",
+      "place_type": "city",
+      "year": 1998,
+      "year_precision": "year",
+      "who": "Lululemon",
+      "hedged": false,
+      "quote": "Yoga pants made of nylon and Lycra appeared on the market in 1998, sold by Lululemon in its first store in Vancouver, Canada as suitable attire for the yoga studio.",
+      "note": "first sold at Lululemon store"
+    }
+  ]
+}

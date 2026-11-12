@@ -1,0 +1,16 @@
+{
+  "trend_id": "ed-hardy",
+  "claims": [
+    {
+      "kind": "root",
+      "place": "Japan",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": "Ed Hardy",
+      "hedged": false,
+      "quote": "Hardy soon became recognized for being the main influence and driver in incorporating Japanese tattoo aesthetics and techniques into American styles of work.",
+      "note": "Japanese tattoo style brought into American work"
+    }
+  ]
+}

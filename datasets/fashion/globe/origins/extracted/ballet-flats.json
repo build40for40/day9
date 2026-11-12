@@ -1,0 +1,16 @@
+{
+  "trend_id": "ballet-flats",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "United States",
+      "place_type": "country",
+      "year": 1953,
+      "year_precision": "year",
+      "who": "Claire McCardell",
+      "hedged": false,
+      "quote": "In the 20th century, American fashion designer Claire McCardell commissioned Salvatore Capezio to make ballet flats with rubber soles in fabrics matching her designs, creating the modern ballet flat. They were displayed at an exhibition of twenty years of McCardell's garments at the Frank Perls Gallery in Beverly Hills in April 1953.",
+      "note": "McCardell made the modern flat, shown 1953"
+    }
+  ]
+}

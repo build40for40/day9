@@ -1,0 +1,16 @@
+{
+  "trend_id": "bermuda-shorts",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Bermuda",
+      "place_type": "country",
+      "year": 1914,
+      "year_precision": "year",
+      "who": "Nathaniel Coxon",
+      "hedged": true,
+      "quote": "The invention of Bermuda shorts is attributed to native Bermudian and tea shop owner Nathaniel Coxon, who in 1914 hemmed the uniform pants of his employees, allowing for more comfort in summer heat.",
+      "note": "tea shop owner hemmed staff trousers"
+    }
+  ]
+}

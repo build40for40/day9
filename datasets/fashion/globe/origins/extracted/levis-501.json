@@ -1,0 +1,16 @@
+{
+  "trend_id": "levis-501",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "United States",
+      "place_type": "country",
+      "year": 1873,
+      "year_precision": "year",
+      "who": "Levi Strauss and Jacob Davis",
+      "hedged": false,
+      "quote": "After Strauss accepted Davis's offer, the two men received U.S. patent 139,121 from the United States Patent and Trademark Office on May 20, 1873.",
+      "note": "riveted jeans patented by Strauss and Davis"
+    }
+  ]
+}

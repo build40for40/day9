@@ -1,0 +1,27 @@
+{
+  "trend_id": "argyle",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Scotland",
+      "place_type": "country",
+      "year": 1920,
+      "year_precision": "decade",
+      "who": "Pringle of Scotland",
+      "hedged": false,
+      "quote": "Pringle of Scotland popularised the design, helped by its identification with the Duke of Windsor. Pringle's website says that \"the iconic Pringle argyle design was developed\" in the 1920s.",
+      "note": "Pringle argyle design developed"
+    },
+    {
+      "kind": "root",
+      "place": "Argyll",
+      "place_type": "region",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "The argyle pattern derives loosely from the tartan of Clan Campbell of Argyll in western Scotland, used for kilts and plaids, and from the patterned socks worn by Scottish Highlanders since at least the 17th century (these were generally known as \"tartan hose\").",
+      "note": "derived from Campbell tartan"
+    }
+  ]
+}

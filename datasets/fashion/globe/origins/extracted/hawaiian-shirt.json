@@ -1,0 +1,38 @@
+{
+  "trend_id": "hawaiian-shirt",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Honolulu",
+      "place_type": "city",
+      "year": 1920,
+      "year_precision": "decade",
+      "who": "Kōichirō Miyamoto of Musa-Shiya the Shirtmaker",
+      "hedged": true,
+      "quote": "According to some sources, the origin of aloha shirts can be traced to the 1920s or the early 1930s, when the Honolulu-based dry goods store \"Musa-Shiya the Shirtmaker\" under the proprietorship of Kōichirō Miyamoto, started making shirts out of colorful Japanese prints (especially kasuri).",
+      "note": "store made shirts from Japanese prints"
+    },
+    {
+      "kind": "rival",
+      "place": "Waikiki",
+      "place_type": "city",
+      "year": 1930,
+      "year_precision": "decade",
+      "who": "Ellery Chun",
+      "hedged": true,
+      "quote": "It has also been contended that the aloha shirt was devised in the early 1930s by Chinese merchant Ellery Chun of \"King-Smith Clothiers and Dry Goods\", a store in Waikiki.",
+      "note": "Chun said to have devised it"
+    },
+    {
+      "kind": "root",
+      "place": "Japan",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "According to some sources, the origin of aloha shirts can be traced to the 1920s or the early 1930s, when the Honolulu-based dry goods store \"Musa-Shiya the Shirtmaker\" under the proprietorship of Kōichirō Miyamoto, started making shirts out of colorful Japanese prints (especially kasuri).",
+      "note": "made from Japanese prints"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "trend_id": "beanie",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Monmouth",
+      "place_type": "city",
+      "year": 1400,
+      "year_precision": "century",
+      "who": null,
+      "hedged": false,
+      "quote": "Dating from the 15th century, the earliest type of knitted wool cap was produced in the Welsh town of Monmouth.",
+      "note": "earliest knitted wool cap made in Monmouth"
+    }
+  ]
+}

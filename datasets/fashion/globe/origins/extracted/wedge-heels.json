@@ -1,0 +1,27 @@
+{
+  "trend_id": "wedge-heels",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Italy",
+      "place_type": "country",
+      "year": 1940,
+      "year_precision": "decade",
+      "who": "Salvatore Ferragamo",
+      "hedged": false,
+      "quote": "In the high fashion world, Ferragamo invented the cork wedge shoe in the 1940s due to the economic sanctions against Italy.",
+      "note": "Ferragamo made cork wedge shoe"
+    },
+    {
+      "kind": "root",
+      "place": "Greece",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "This design dates back to ancient Greece. Greek Actors used to wear these shoes to signify status.",
+      "note": "ancient Greek actors wore similar shoes"
+    }
+  ]
+}

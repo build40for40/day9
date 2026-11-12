@@ -1,0 +1,16 @@
+{
+  "trend_id": "goth",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "United Kingdom",
+      "place_type": "country",
+      "year": 1980,
+      "year_precision": "decade",
+      "who": null,
+      "hedged": false,
+      "quote": "Goth is a music-based subculture that emerged from nightclubs such as the F Club and Batcave in the United Kingdom during the early 1980s, as well as gothic rock, a genre that evolved from British post-punk.",
+      "note": "emerged from UK nightclubs"
+    }
+  ]
+}

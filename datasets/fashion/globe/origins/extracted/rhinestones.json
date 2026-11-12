@@ -1,0 +1,16 @@
+{
+  "trend_id": "rhinestones",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Rhine",
+      "place_type": "region",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "Originally, rhinestones were rock crystals gathered from the river Rhine, hence the name, although some were also found in areas like the Alps (the source of the Rhine).",
+      "note": "named for crystals from the Rhine"
+    }
+  ]
+}

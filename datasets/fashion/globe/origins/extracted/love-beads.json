@@ -1,0 +1,27 @@
+{
+  "trend_id": "love-beads",
+  "claims": [
+    {
+      "kind": "root",
+      "place": "India",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": true,
+      "quote": "The love bead trend probably evolved from the hippie fascination with non-Western cultures, such as those of Africa, India, and Native America, which make common use of similar beads.",
+      "note": "hippies copied non-Western beads"
+    },
+    {
+      "kind": "root",
+      "place": "Native Americans",
+      "place_type": "people",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": true,
+      "quote": "The love bead trend probably evolved from the hippie fascination with non-Western cultures, such as those of Africa, India, and Native America, which make common use of similar beads.",
+      "note": "hippies copied non-Western beads"
+    }
+  ]
+}

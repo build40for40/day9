@@ -1,0 +1,16 @@
+{
+  "trend_id": "sheath-dress",
+  "claims": [
+    {
+      "kind": "root",
+      "place": "Egypt",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "Originating in the ancient world, the sheath dress is commonly seen in Egyptian art.",
+      "note": "sheath shape seen in Egyptian art"
+    }
+  ]
+}

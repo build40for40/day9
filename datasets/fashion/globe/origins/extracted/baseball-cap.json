@@ -1,0 +1,16 @@
+{
+  "trend_id": "baseball-cap",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Brooklyn",
+      "place_type": "city",
+      "year": 1860,
+      "year_precision": "year",
+      "who": "Brooklyn Excelsiors",
+      "hedged": false,
+      "quote": "In 1860, the Brooklyn Excelsiors wore the precursor to the modern rounded-top baseball cap, which featured a long peak and a button on top, and by 1900, the \"Brooklyn-style\" cap had become popular.",
+      "note": "Brooklyn team wore the precursor cap"
+    }
+  ]
+}

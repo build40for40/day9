@@ -1,0 +1,3388 @@
+// Hand extraction of Wikipedia's 1990s to 2020s fashion articles. See build-wiki-1990s-2020s.mjs for the format.
+
+# 1990s-in-fashion
+
+@ unisex 1990-1999 | Fashion in the 1990s was defined by a return to minimalist fashion
+minimalism; subculture
+@ | One notable shift was the mainstream adoption of tattoos
+tattoos; accessory
+body piercings; accessory
+@ 1992-1999 | led to the popularization of the casual chic look
+casual chic; subculture
+t-shirts; garment
+jeans; garment
+hoodies; garment
+sneakers; footwear
+@ 1990-1999 | fashion trends throughout the decade recycled styles from previous decades
+~ 1950s styles; 1950-1959 > 1990-1999
+~ 1960s styles; 1960-1969 > 1990-1999
+~ 1970s styles; 1970-1979 > 1990-1999
+@ | Elements of deconstruction in costume became an important element of commercial fashion
+deconstruction; subculture
+@ women 1990-1999 | Throughout the 1990s, supermodels dominated the fashion industry
+supermodels; subculture
+@ women 1993-1999 | Her waif-like figure set a new fashion standard that became known as "heroin chic"
+heroin chic; silhouette
+@ | This was a pale and ghostly look that called for a stick-thin stature and size zero body
+size zero; silhouette
+
+@ women 1990-1993 US | bold geometric-print clothing in electric blue
+geometric print; pattern
+electric blue; colour
+orange; colour
+fluorescent pink; colour
+purple; colour
+turquoise; colour
+acid green; colour
+exercise wear; garment
+@ US | Typical patterns included triangles
+triangle print; pattern
+zigzag print; pattern
+lightning bolt print; pattern
+diamond print; pattern
+pop art print; pattern
+grid print; pattern
+@ US | Many women wore denim button-down Western shirts
+denim western shirt; garment
+coloured jeans; garment
+metallic spandex leggings; garment
+halterneck crop top; garment
+drainpipe jeans; garment
+coloured tights; garment
+bike shorts; garment
+black leather jacket; garment
+shoulder pads; silhouette
+mom jeans; garment
+pleated trousers; garment
+baby-doll dress; garment
+capri leggings; garment
+skater dress; garment
+@ US | Neon colored tops and leg warmers were popular
+neon colours; colour
+leg warmers; garment
+leopard print; pattern
+satin blouse; garment
+rhinestone jeans; garment
+@ US | In America, popular accessories included court shoes
+court shoes; footwear
+cowboy boots; footwear
+headscarf; accessory
+slouch socks; accessory
+keds; footwear
+ballet flats; footwear
+penny loafers; footwear
+boat shoes; footwear
+preppy; subculture
+@ 1991-1993 UK | From 1991 on, sports bras, hoodies
+sports bra; garment
+shortalls; garment
+leotard; garment
+bodysuit; garment
+sweatshirt; garment
+turtleneck; garment
+@ 1991-1993 UK | A common outfit was to wear a skirt, dress shorts
+minidress; garment
+opaque tights; garment
+dress shorts; garment
+@ UK | It was not uncommon to see mothers dressed right along
+converse all stars; footwear
+reebok hi-tops; footwear
+oversized t-shirt; garment
+sweatpants; garment
+@ UK | A dressed up leggings outfit was leggings
+oversized v-neck sweater; garment
+sperry top-siders; footwear
+bangs; hair
+headband; accessory
+ponytail; hair
+scrunchie; accessory
+@ UK | Leggings and stirrup pants worn over pantyhose
+stirrup pants; garment
+pantyhose; garment
+@ 1991-1999 UK | Leggings and slouch socks with oversized tops and casual sneakers
+leggings; garment
+@ 1990-1999 UK | Gottex swimsuits became popular
+gottex swimsuit; garment
+
+@ women 1992-1994 US | grunge fashion broke into the mainstream for both sexes
+grunge; subculture; unisex
+@ US sub=grunge | it consisted of flannel shirts, ripped jeans
+flannel shirt; garment
+ripped jeans; garment
+hip hugger bell bottoms; garment
+wide leg jeans; garment
+doc martens; footwear
+combat boots; footwear
+band t-shirt; garment
+fitted sweater; garment
+cap sleeve shirt; garment
+long droopy skirt; garment
+ripped tights; garment
+birkenstocks; footwear
+hiking boots; footwear
+recycled textiles; fabric
+organic cotton; fabric
+
+@ women 1994-1996 UK | Young women in the UK and America wore tailored skirt
+skirt suit; garment
+trouser suit; garment
+short skirts; garment
+animal print; pattern
+hot pants; garment
+slim pants; garment
+low waisted bell bottoms; garment
+high heels; footwear
+@ | High-shine fabrics, such as satin, metallics
+satin; fabric
+metallics; fabric
+sequins; fabric
+microfiber; fabric
+vinyl; fabric
+silk; fabric
+@ 1994 | The most common look among young women that year was the short black slip dress
+slip dress; garment
+@ 1994-1996 | Loungewear generally consisted of black Lycra leggings
+lycra leggings; garment
+baggy sweater; garment
+@ 1994-1995 | A very popular look among young women from 1994 to 1995 was the "sexy school girl" look
+sexy school girl; subculture
+@ 1994-1995 sub=sexy_school_girl | This trend consisted of tartan minikilts
+tartan minikilt; garment
+tartan; pattern
+baby doll tee; garment
+knee highs; accessory
+thigh highs; accessory
+mini backpack; accessory
+overalls; garment
+peter pan collar; garment
+chunky shoes; footwear
+mary janes; footwear
+@ 1994-1995 | Hair was down parted in the middle
+middle part; hair
+stacked bob; hair
+@ 1994-1996 US | 1950s ladylike fashions made a comeback in the United States
+1950s ladylike; subculture
+pencil skirt; garment
+cardigan; garment
+girdle; garment
+petticoat; garment
+wonderbra; garment
+fitted suit; garment
+~ 1950s ladylike; 1950-1959 > 1994-1996
+@ US | Popular accessories that went hand-in-hand with this revival included brooches
+brooch; accessory
+white gloves; accessory
+sheer stockings; accessory
+diamonds; accessory
+red lipstick; makeup
+@ US | For more casual occasions, women opted for lean capri pants
+capri pants; garment
+polka dots; pattern
+belted trench coat; garment
+1940s style sandals; footwear
+khakis; garment
+tunic top; garment
+~ 1940s style sandals; 1940-1949 > 1994-1996
+@ | Popular shoes and accessories during the mid-1990s in Europe and North America
+loafers; footwear
+suede sneakers; footwear
+mules; footwear
+clogs; footwear
+knee high boots; footwear
+jelly shoes; footwear
+go-go boots; footwear
+silver jewelry; accessory
+conch shell necklace; accessory
+beret; accessory
+straw hat; accessory
+floppy hat; accessory
+gold jewelry; accessory
+hipster belt; accessory
+@ | Navel piercings had started to gain popularity
+navel piercing; accessory
+@ 1990-1996 | power dressing was the norm for women in the workplace
+power dressing; subculture
+pastel colours; colour
+navy blue; colour
+pussy bow blouse; garment
+silk scarf; accessory
+pointed shoes; footwear
+stretchy miniskirt; garment
+brocade blazer; garment
+metallic open toed shoes; footwear
+@ | Other 1980s fashions such as chunky jewelry
+chunky jewelry; accessory
+gold hoop earrings; accessory
+smoky eye; makeup
+hairspray; hair
+alice band; accessory
+painted nails; makeup
+@ | Shorts suits were also very popular
+shorts suit; garment
+@ | They consisted of a regular suit top and jacket and dress shorts in short or bermuda length
+bermuda shorts; garment
+@ 1996 UK | By 1996, professional women in Britain
+muted colours; colour
+floral print; pattern
+kaftan blouse; garment
+maxi skirt; garment
+knee length dress; garment
+smart jeans; garment
+culottes; garment
+platform shoes; footwear
+@ 1996 | Trouser suits began to replace skirts
+nude pantyhose; garment
+~ black or white tights; 1980-1989 > 1996-1996
+
+@ women 1997-1999 | Beginning in 1997 and continuing into the mid-2000s, Southeast Asian
+indian fashion; subculture; 1997-2005
+@ | designers in India adapted and repurposed the saree
+anarkali; garment; 1990-1999
+~ 1970s fashion; 1970-1979 > 1990-1999
+@ | kurta tunics were turned into short dresses
+kurta dress; garment
+@ UK | British, Asian and American designers also incorporated ethnic chic fabrics
+ethnic chic; subculture
+khadi; fabric
+paisley; pattern
+batik; pattern
+embroidery; pattern
+@ UK | From 1997 onwards, many British and American designers started to take cues from the disco fashion
+disco; subculture
+~ disco; 1975-1979 > 1997-1999
+@ UK | Particularly common were black or dark red pleather pants
+pleather trousers; garment
+halter top; garment
+metallic clothing; fabric
+crop top; garment
+tube top; garment
+maxi coat; garment
+knee boots; footwear
+knee socks; accessory
+boot-cut trousers; garment
+@ 1999-2001 | By 2001, popular mainstream trends included tight shirts
+tight shirts; garment
+bell bottoms; garment
+fleece; fabric
+cropped tank top; garment
+union jack; pattern; UK
+cool britannia; subculture; UK
+military clothing; garment
+flak jacket; garment
+camouflage; pattern
+@ 1997-1999 | bright colors began to make a comeback in mainstream fashion
+bright colours; colour
+@ | Popular colors included plum, chocolate, and navy
+plum; colour
+chocolate; colour
+@ | Other fashion trends popular from 1997 to 1999 included glamour wear
+glamour wear; subculture
+high-waisted miniskirt; garment
+plastic choker; accessory
+tight pants; garment
+turtle-neck sweater; garment
+conservative chic; subculture
+high-waisted trousers; garment
+@ | More formal styles intended for the workplace
+silk blouse; garment
+pantsuit; garment
+collarless coat; garment
+little black dress; garment
+~ 1980s tailoring; 1980-1989 > 1997-1999
+@ unisex 1998-2001 | the unisex casual chic look gained mainstream appeal
+dark stonewash jeans; garment
+spaghetti strap crop top; garment
+tracksuit; garment
+athletic clothing; garment
+@ | Denim's popularity was at an all-time high in Europe
+denim; fabric
+denim jacket; garment
+@ | Other common, more affordable brands included Mudd
+jnco jeans; garment
+evisu jeans; garment
+@ | The most popular trainers were white or black
+white trainers; footwear
+@ | Running shoes with built in air pumps were popular
+pump trainers; footwear
+@ women 1997-1999 US | In the US and Britain, popular accessories included large hoop earrings
+large hoop earrings; accessory
+round toe shoes; footwear
+flip flops; footwear
+rhinestone hip belt; accessory
+embellished slippers; footwear
+beaded wristband; accessory
+lariat; accessory
+pashmina; accessory
+fascinator; accessory
+moccasin loafers; footwear
+jelly bracelets; accessory
+bandana; accessory
+novelty wellington boots; footwear
+zebra print; pattern
+
+@ men 1990-1993 US | many young men in the US, UK and Europe wore tapered and cuffed high waisted jeans
+tapered jeans; garment
+champion sweatshirt; garment
+stone island sweatshirt; garment
+polo shirt; garment
+harrington jacket; garment
+logo sweater; garment
+oversized denim shirt; garment
+windcheater; garment
+hush puppies; footwear
+v neck sweater; garment
+soccer shorts; garment
+tube socks; accessory
+pastel sportcoat; garment
+graphic t-shirt; garment
+tracksuit top; garment
+bomber jacket; garment
+drainpipe jeans; garment
+monkey jacket; garment
+leather jacket with shoulder pads; garment
+wool baseball jacket; garment
+@ | Short shorts were popular in the early years of the decade
+short shorts; garment
+basketball shorts; garment; 1993-1999
+@ 1993-2003 | Teva sandals were popular in 1993
+teva sandals; footwear
+@ 1991-1997 US | flannel shirts became very popular in the US and Australia
+flannel shirt; garment; sub=grunge
+skater; subculture
+@ US sub=grunge | Men also wore acid wash jeans
+acid wash jeans; garment
+patterned wool sweater; garment
+perfecto leather jacket; garment
+sheepskin coat; garment
+anorak; garment
+corduroy sportcoat; garment
+grey sweatpants; garment
+fingerless gloves; accessory
+@ US | In the US, popular accessories included Converse All Stars
+converse all stars; footwear
+hi-top nikes; footwear
+trapper hat; accessory
+bucket hat; accessory
+baseball cap; accessory
+tuque; accessory
+combat boots; footwear
+dr. martens; footwear
+aviator sunglasses; accessory
+@ 1995-1996 UK sub=britpop | Around 1995/1996, 1960s mod clothing and longer hair were popular
+mod; subculture
+long hair; hair
+~ mod; 1960-1969 > 1995-1996
+@ UK sub=britpop | Men wore Aloha shirts
+aloha shirt; garment
+brown leather jacket; garment
+velvet blazer; garment
+paisley shirt; garment
+pullover baseball jersey; garment
+@ | Real fur went out of fashion and fake fur became the norm
+fake fur; fabric
+@ 1996-1999 | The 1970s became a dominant theme for inspiration on men's apparel in 1996
+~ 1970s menswear; 1970-1979 > 1996-1999
+@ | Among these clothing styles were coats with fur- or faux fur-trimmings
+faux fur trim; garment
+bold shoulders; silhouette
+wide lapels; silhouette
+boot-cut slacks; garment
+@ | Casual clothes such as trousers, sweaters, and denim jackets were worn with shirts made of satin
+satin shirt; garment
+pvc; fabric
+terry cloth; fabric
+@ | Both pastel colors and bold patterns were popular
+pastel colours; colour
+bold patterns; pattern
+@ 1994-1996 | Desirable accessories during the mid-1990s included loafers
+desert boots; footwear
+chelsea boots; footwear
+gold jewellery; accessory
+chunky digital watch; accessory
+solid coloured tie; accessory
+shoulder bag; accessory
+high-top sneakers; footwear
+@ 1994-1996 US sub=preppy | Preppy clothing was popular in the US
+preppy; subculture
+khaki slacks; garment
+navy blazer; garment
+@ US sub=preppy | young men abandoned ascots and Oxford shoes
+nantucket reds; garment
+nautical stripes; pattern
+madras; fabric
+gingham; pattern
+@ 1992-1999 | hip-hop fashion went mainstream in 1992
+hip-hop; subculture
+oversized baseball jacket; garment; sub=hip-hop
+baggy jeans; garment; sub=hip-hop
+baja jacket; garment; sub=hip-hop
+@ | industrial and military styles crept into mainstream fashion
+industrial style; subculture
+@ US sub=hip-hop | The eight-ball jacket created by designer Michael Hoban
+eight-ball jacket; garment
+@ US sub=hip-hop | The style is characterized by bright color-blocking
+colour blocking; pattern
+@ US | Southern hip-hop provided a platform for fashion designers
+recycled clothing; garment
+anti fashion; subculture
+@ 1994-1999 | sportswear became acceptable to wear in public throughout the mid- to late 1990s
+sportswear; garment
+new york yankees cap; accessory
+jean shorts; garment
+cargo pants; garment
+chinos; garment
+@ 1995-1999 | From 1995 onwards, men wore overalls
+straight leg jeans; garment
+plaid pants; garment
+flat-front chinos; garment
+camouflage pants; garment
+@ 1997-1999 sub=hip-hop | ski goggles became a popular accessory
+ski goggles; accessory
+@ 1994-1999 | the silk Madiba shirt became popular
+madiba shirt; garment
+@ 1997-1999 US | Variants in green, yellow and black were worn as an alternative
+dashiki suit; garment
+@ 1998 US | models were wearing sheath-like dresses
+sheath dress; garment; women
+fake fur collar; garment
+@ 1997-1999 | there was a revival of interest in streetwear clothing
+streetwear; subculture
+~ streetwear; 1980-1989 > 1997-1999
+@ 1997-1998 | From 1997 to 1998 brighter colors came into style
+plum; colour
+charcoal; colour
+olive; colour
+wine; colour
+hot coral; colour
+whisper pink; colour
+blazing orange; colour
+@ 1997 US | Such apparel included blazers, black or red leather jackets and bowling shirts
+dressy casual; subculture
+blazer; garment
+red leather jacket; garment
+bowling shirt; garment
+khaki chinos; garment
+@ 1997-1999 | Around this time it became fashionable to leave shirts untucked
+untucked shirts; silhouette
+@ 1997-1999 | single-breasted three and four button notch lapel suits
+single-breasted suit; garment
+grey; colour
+@ 1990-1993 | The wide neckties of the early 1990s remained the norm
+wide neckties; accessory
+@ 1997-1999 | Dress shoes (usually in black) included chelsea boots
+square toe shoes; footwear
+wingtips; footwear
+monkstraps; footwear
+@ US | In America, an increasing number of men began to dress smart-casual
+smart casual; subculture
+business casual; subculture
+@ | Another trend was to wear black shirts, black ties, and black suits
+black suit; garment
+black shirt; garment
+@ 1999 | Black leather reefer jackets and trenchcoats were also fashionable
+leather reefer jacket; garment
+trenchcoat; garment
+
+@ unisex 1990-1999 | teenage boys and girls bought and wore very simple clothes
+athletic shorts; garment
+track suit; garment
+high-waisted jeans; garment
+stretch pants; garment
+oversized shirt; garment
+striped tube socks; accessory
+jogger pants; garment
+@ | Popular shoe brands or styles included Keds
+chuck taylors; footwear
+@ | T-shirts and sweaters featuring characters such as Simba
+cartoon character t-shirt; garment
+@ 1980-1992 | The new wave and heavy metal fashion of the 1980s lasted until 1992
+new wave; subculture
+heavy metal; subculture
+@ 1994-1996 UK sub=grunge | By the mid-1990s the grunge style had gone mainstream
+tartan flannel shirt; garment
+stonewashed jeans; garment
+@ 1990-1999 UK | Members of the subculture were nicknamed grebos or moshers
+grebo; subculture
+@ 1990-1999 | Hardcore punk fashion, which began in the 1970s
+hardcore punk; subculture
+~ hardcore punk; 1970-1979 > 1990-1999
+@ | Common items for pop-punk and nu metal fans
+pop-punk; subculture
+nu metal; subculture
+blond tipped spiky hair; hair; sub=pop-punk
+long under sleeves; garment; sub=pop-punk
+black hoodie; garment; sub=pop-punk
+baggy pants; garment; sub=pop-punk
+mint blue; colour; sub=pop-punk
+royal stewart tartan; pattern; sub=pop-punk
+@ 1997-1999 US sub=psychobilly | psychobilly bands Reverend Horton Heat
+psychobilly; subculture; sub=-
+brothel creepers; footwear
+gas station shirt; garment
+dark bowling shirt; garment
+@ 1990-1993 sub=rave | Popular fashion themes of the rave subculture
+rave; subculture; sub=-
+plastic aesthetic; fabric
+fetish fashion; subculture
+pvc miniskirt; garment
+tie dye; pattern
+vintage 1970s clothing; garment
+retro sportswear; garment
+adidas tracksuit; garment
+transparent top; garment
+camouflage trousers; garment
+~ vintage 1970s clothing; 1970-1979 > 1990-1993
+@ 1990-1993 | In the early 1990s the first commercial rave fashion trends developed
+clubwear; subculture
+@ 1990-1999 sub=rave | Common raver fashion styles of the 1990s
+nylon shirt; garment
+quilted nylon vest; garment
+neoprene jacket; garment
+studded belt; accessory
+flokati fur; fabric
+fluffy boots; footwear
+phat pants; garment
+neon colours; colour
+@ sub=rave | Common unisex hairstyles included neon colored spiky hair
+neon spiky hair; hair
+dreadlocks; hair
+undercut; hair
+synthetic hairpieces; hair
+@ sub=rave | Widespread accessories included wristbands and collars
+wristbands; accessory
+whistle; accessory
+pacifier; accessory
+feather boa; accessory
+cyberpunk goggles; accessory
+glow sticks; accessory
+record bag; accessory
+@ 1990-2019 | The sagging trend began in the early 1990s and continued until the 2010s
+sagging; silhouette; sub=hip-hop
+@ 1990-1993 sub=hip-hop | Wide leg jeans, Plaid, Khakis, Locs glasses
+plaid; pattern
+locs glasses; accessory
+backwards snapback; accessory
+gold chain; accessory
+sovereign ring; accessory
+fubu t-shirt; garment
+@ 1997-1999 | By the end of the decade, hip-hop fashion had influenced many global subcultures
+chav; subculture; UK
+sneakerhead; subculture; US
+juggalo; subculture; US
+corpse paint; makeup; US; sub=juggalo
+@ 1994-1996 UK sub=britpop | Britpop bands Blur, Stone Roses, and Oasis resulted in a revival of 1970s fashions
+britpop; subculture; sub=-
+madchester; subculture; sub=-
+mod haircut; hair
+aviator sunglasses; accessory
+green parka; garment
+harrington jacket; garment
+velvet sportcoat; garment
+striped shirt; garment
+ben sherman polo; garment
+raf roundel t-shirt; garment
+union jack dress; garment; women
+~ britpop 1970s fashions; 1970-1979 > 1994-1996
+@ 1994-1999 US sub=goth | gothic fashion peaked in popularity
+goth; subculture; sub=-
+black leather trenchcoat; garment
+poet shirt; garment
+winklepickers; footwear
+long black hair; hair
+fetish clothing; garment
+corset; garment; women
+lace gloves; accessory; women
+demonia boots; footwear; women
+leather skirt; garment; women
+@ 1990-1999 US sub=preppy | The conservative preppy look of the 1980s remained popular
+preppy; subculture; sub=-
+@ US sub=preppy | Typical clothing for preps of the 1990s included khaki chinos
+oxford shirt; garment
+brogues; footwear
+coach jacket; garment
+champion crew neck sweatshirt; garment
+@ US | And from around the mid 90s on slip dresses
+slip dress; garment; women; 1995-1999
+@ women US | Neat, well-groomed hairstyles were popular
+hime cut; hair
+side bunches; hair
+high ponytail; hair
+
+@ women 1990-1993 | Women's hair in the early 1990s continued in the big, curly style of the 1980s
+big curly hair; hair
+@ 1990-1995 | These were worn with a scrunchie until the mid-1990s
+scrunchie; accessory
+@ 1990-1993 | especially the poofy "mall bangs" style
+mall bangs; hair
+@ 1995-1999 US | The pixie cut and Rachel haircut
+pixie cut; hair
+rachel haircut; hair
+@ 1995-1999 | Around the same time red hair also became a desirable color
+red hair; hair
+feathered bangs; hair
+mini hair buns; hair
+@ 1995-2008 | dark-haired women tended to dye their hair a lighter color
+blonde highlights; hair
+@ 1997-1999 UK | the Bob cut was popularized and rejuvenated by Victoria Beckham
+bob cut; hair
+@ 1997-1999 | This late 1990s style bob cut featured a center, side, or zig-zag part
+zig-zag part; hair
+@ 1997-1999 | The Farrah Fawcett hairstyle made a comeback
+farrah fawcett hair; hair
+~ farrah fawcett hair; 1976-1979 > 1997-1999
+@ 1997-1999 US | Other late 1990s haircuts included "Felicity curls"
+felicity curls; hair
+fishtail half-up; hair
+pigtails; hair
+@ men 1990-1996 | For teenage boys, longer hair was popular
+curtained hair; hair
+grunge hair; hair
+surfer hair; hair
+@ 1994-1996 | the much-ridiculed bowl cut became a fad among skaters
+bowl cut; hair; sub=skater
+hi-top fade; hair; sub=hip-hop
+@ 1997-1999 | hair was usually buzzed very short for an athletic look
+buzz cut; hair
+@ women 1997-2019 | straightened hair and variants of the French braid
+straightened hair; hair
+french braid; hair
+@ men 1990-1993 | In the early 1990s, curtained hair, mullets, and ponytails were popular
+mullet; hair
+ponytail; hair
+@ | Other trends included flattops, hi-top fades, and cornrows
+flattop; hair
+@ 1995-1999 US | This style was popularized by George Clooney
+caesar cut; hair
+@ 1994-1996 | More rebellious young men went for longer, unkempt "grunge" hair
+center part; hair
+@ 1994-1996 | Meanwhile, most professional men over 30 had conservative 1950s style bouffant haircuts
+bouffant; hair
+~ bouffant; 1950-1959 > 1994-1996
+@ 1997-1999 | spiky hair, bleached hair, crew cuts, and variants of the quiff became popular
+spiky hair; hair
+bleached hair; hair
+crew cut; hair
+quiff; hair
+@ 1997-2003 | Dark haired men dyed their spikes blonde
+blonde spikes; hair
+@ 1997-2003 US | For African-American men, the cornrows
+cornrows; hair
+
+@ women 1990-1994 | Women's makeup in the early 1990s primarily consisted of dark red lipstick
+dark red lipstick; makeup
+neutral eyes; makeup
+@ 1992-1994 sub=grunge | the look was based on dark red lipstick and smudged eyeliner
+smudged eyeliner; makeup
+@ 1995-1996 | In 1995, nude shades became desirable
+nude makeup; makeup
+@ 1995-1999 | Another makeup trend that emerged was matte lipsticks
+matte lipstick; makeup
+wine lipstick; makeup
+@ 1995-2003 | Blue-frosted eye shadow became fashionable
+blue frosted eyeshadow; makeup
+@ 1995-1999 sub=goth | Gothic makeup had broken into the mainstream
+gothic makeup; makeup
+black lipstick; makeup
+vamp lipstick; makeup
+pale foundation; makeup
+purple eyeshadow; makeup
+@ 1999-2003 | This was called "Y2K makeup"
+y2k makeup; makeup
+facial glitter; makeup
+lip gloss; makeup
+@ 1999 | Pale, shiny lips became desirable
+pale shiny lips; makeup
+
+# 2000s-in-fashion
+
+@ unisex 2000-2009 | Fashion in the 2000s was characterized by a combination of vintage styles
+vintage styles; subculture
+@ 2000-2009 | Hip-hop fashion was widely adopted by young people
+hip-hop; subculture
+indie; subculture; 2005-2009
+@ | The decade also saw increased attention to environmentally friendly
+ethical fashion; subculture
+secondhand fashion; subculture
+@ 2000-2002 | Many trends from the mid and late 1990s continued into the early 2000s
+~ mid and late 1990s styles; 1994-1999 > 2000-2002
+@ 2007-2009 | Later in the decade, fashion increasingly incorporated styles inspired by the 1960s
+~ 1960s styles; 1960-1969 > 2007-2009
+~ 1970s styles; 1970-1979 > 2007-2009
+~ 1980s styles; 1980-1989 > 2007-2009
+@ 2000-2006 | The early to mid-2000s saw an increase in the popularity of fast fashion
+fast fashion; subculture
+@ 2000-2009 | Logo-covered purses were worn by celebrities
+logo purse; accessory; women
+designer logos; pattern
+@ 2000-2009 | Vintage and secondhand clothing also became more popular in the Untied Kingdom
+vintage clothing; garment; UK
+
+@ women 2000-2002 | Y2K fashion featured futuristic designs
+y2k fashion; subculture; unisex
+metallic fabrics; fabric
+black and grey; colour
+straps; accessory
+buckles; accessory
+@ 2001-2002 | its white earbuds became recognizable accessories
+white earbuds; accessory; unisex
+@ | Tracksuits, low-rise jeans, and oversized sunglasses were among the popular clothing
+tracksuit; garment
+low-rise jeans; garment
+oversized sunglasses; accessory
+@ 2000 US | the green dress worn by Jennifer Lopez at the 2000 Grammy Awards
+plunging green dress; garment
+@ sub=y2k_fashion | Other Y2K fashion trends included mesh tops
+mesh top; garment
+wraparound sunglasses; accessory
+rectangular wire-frame glasses; accessory
+box-pleated skirt; garment
+metallic handkerchief top; garment
+@ sub=y2k_fashion | Satin and leather skirts, concert T-shirts
+satin skirt; garment
+leather skirt; garment
+concert t-shirt; garment
+rhinestone-embellished clothing; garment
+decorative shoes; footwear
+@ | Sequined pants and embroidered or embellished tops
+sequined pants; garment
+embellished top; garment
+@ | Another notable design was a black dress with a pearl print
+pearl print; pattern
+@ 2000 | In 2000, popular casual clothing and accessories for woman and girls
+small shoulder bag; accessory
+aviator sunglasses; accessory
+large hoop earrings; accessory
+@ 2000 | Jeans were worn in several styles, including mid-rise and boot-cut designs
+mid-rise jeans; garment
+boot-cut jeans; garment
+lace-up jeans; garment
+tie-dye; pattern
+@ 2000 | Other trends included wedge flip flops
+wedge flip flops; footwear
+hot pants; garment
+denim jacket; garment
+chunky sweater; garment
+pashmina scarf; accessory
+skechers; footwear
+crop top; garment
+tube top; garment
+@ 2000-2002 | The popularity of teen pop artists such asBritney Spears
+military-inspired clothing; garment
+@ 2001-2002 | From 2001 onward, popular women's clothing including bell-sleeved shirts
+bell-sleeved shirt; garment
+cowl-neck top; garment
+hoodie; garment
+flared jeans; garment
+hip-hugger pants; garment
+low rise trousers; garment
+white jeans; garment
+@ 2001-2002 | Other trends included whale tails
+whale tail; silhouette
+cargo pants; garment
+sweatpants; garment
+denim shorts; garment
+brightly coloured tights; garment
+@ 2001-2009 US | Denim became increasingly common in a wider range of settings
+denim; fabric
+@ 2001-2008 US | Distressed denim became popular in the United States between 2001 to 2008
+distressed denim; fabric
+embroidered jeans; garment
+@ 2000-2002 UK | In the United Kingdom, women's fashion included skirts worn over trousers
+skirt over trousers; silhouette
+floral shift dress; garment
+black; colour
+purple; colour
+pink; colour
+@ UK | Chunky footwear and sandals with wedge heels
+chunky footwear; footwear
+wedge sandals; footwear
+@ 1997-2002 | The revival of 1980s fashion began in the late 1990s
+~ 1980s fashion; 1980-1983 > 1997-2002
+denim miniskirt; garment
+distressed jeans; garment
+trench coat; garment
+puffy jacket; garment
+popped collar polo shirt; garment
+@ 2000-2002 | Women and girls in Europe and the United States wore low-top sneakers
+low-top sneakers; footwear
+heelys; footwear
+pointed knee-high boots; footwear
+@ | Accessories included white belts
+white belt; accessory
+trucker hat; accessory
+hoop earrings; accessory
+block heeled mary janes; footwear
+leg warmers; garment
+ugg boots; footwear
+flip-flops; footwear
+jelly shoes; footwear
+lace-up sandals; footwear
+newsboy cap; accessory
+poncho; garment
+jelly bracelets; accessory
+@ 2000-2004 US | The character Carrie Bradshaw was particularly associated with the popularity of Manolo Blahnik shoes
+manolo blahniks; footwear
+@ 2000-2004 US | Other trends connected to the show included high-heeled shoes
+high heels; footwear
+designer handbag; accessory
+fabric flower; accessory
+beret; accessory
+
+@ women 2000-2006 | Certain designer produces became highlight sought after
+it items; subculture
+designer wallet; accessory
+prada sneakers; footwear
+saddle bag; accessory
+designer jeans; garment
+velour tracksuit; garment
+von dutch trucker hat; accessory
+@ 2003-2006 | Women's fashion during the middle of the decade included embroidered low-rise jeans
+yoga pants; garment
+jean shorts; garment
+@ 2003-2006 | Other popular clothing included cargo pants
+capri pants; garment
+leggings; garment
+tunic; garment
+wide belt; accessory
+@ 2003-2006 | Vintage-inspired clothing also became popular
+hippie; subculture
+bohemian; subculture
+paisley; pattern
+@ 2006 | Crocs became a popular footwear trend during the summer of 2006
+crocs; footwear; unisex
+minidress; garment
+@ 2005-2009 | Skinny jeans, introduced in 2005, gained popularity in 2006
+skinny jeans; garment; unisex
+@ 2003-2006 | Ballet flats, Sperry Top-Siders, Converse Chuck Taylor All Stars, and Keds
+ballet flats; footwear
+sperry top-siders; footwear
+chuck taylors; footwear
+keds; footwear
+@ 2003-2006 | Popular accessories included trucker hats, aviator sunglasses, small drop earrings
+drop earrings; accessory
+knee-high boots; footwear
+platform boots; footwear
+mary janes; footwear
+studded belt; accessory
+black nail polish; makeup
+large belt buckle; accessory
+small leather handbag; accessory
+scarf; accessory
+@ | Jewelry made from materials such as hemp
+hemp jewelry; accessory
+shell jewelry; accessory
+@ 2000-2009 | Beaded jewelry and accessories influenced by African
+beaded jewelry; accessory
+@ 2005-2009 UK | military-inspired clothing became a popular trend for both mean and women in Britain
+military-inspired clothing; garment; unisex
+~ 1980s military details; 1980-1989 > 2005-2009
+@ UK | Among younger women, popular items included cavalier boots
+cavalier boots; footwear
+greek fisherman's cap; accessory
+anchor jewelry; accessory
+leather-look trousers; garment
+satin shirt; garment
+sash; accessory
+harem pants; garment
+braided jacket; garment
+@ UK | Some designs featured epaulets
+epaulets; garment; unisex
+@ 2003-2009 | Women's clothing in Africa during the middle and late 2000s
+kente cloth; fabric
+mudcloth; fabric
+
+@ women 2007-2008 | Continuing trends included denim miniskirts
+tank top; garment
+cropped jacket; garment
+bohemian clothing; garment
+@ 2007-2009 | fashion in Europe and the United States saw another revival of styles from the 1980s and early 1990s
+~ 1980s and early 1990s styles; 1980-1993 > 2007-2009
+@ 2007-2009 | Popular trends included gladiator sandals
+gladiator sandals; footwear
+boat shoes; footwear
+patterned headband; accessory
+sweater dress; garment
+geometric print; pattern
+@ 2007-2009 | Other styles included jean skirts worn with tights
+jean skirt; garment
+jeggings; garment
+oversized shirt; garment
+@ 2007-2009 | Ripped acid wash skinny jeans, riding boots
+acid wash skinny jeans; garment
+riding boots; footwear
+neon leg warmers; garment
+@ 2007-2009 US | In the United States, longer camisole tops
+camisole; garment
+boat neck blouse; garment
+mid rise trousers; garment
+@ US | Shorter crop tops and miniskirts were joined by longer styles
+babydoll dress; garment
+bubble skirt; garment
+skater dress; garment
+@ US | Empire-waist shirts were also worn with belts
+empire waist; silhouette
+@ US | Fur coats returned to fashion
+fur coat; garment
+~ fur coat; 1980-1989 > 2007-2009
+
+@ men 2000-2002 UK | Men's Y2K fashion frequently featured black, silver, gray, and white clothing
+silver; colour
+grey; colour
+white; colour
+@ UK | Popular items included tracksuits, Rockport boots
+rockport boots; footwear
+camp shirt; garment
+metallic pattern jacket; garment
+@ UK | Other styles included leather coats and trousers
+leather coat; garment
+leather trousers; garment
+puffy vest; garment
+ribbed sweater; garment
+chunky dress shoes; footwear
+@ 1997-2022 | Y2K fashion remained popular from the late 1990s until approximately 2022
+y2k fashion; subculture
+@ 2001-2002 US | Distressed denim became popular, including jeans with sandblasted finishes
+sandblasted jeans; garment
+whiskering; pattern
+@ 2001-2002 US | Lower-rise jeans also became more common
+low-rise jeans; garment
+@ 2000-2005 | Newer styles included sportswear and military-inspired clothing
+sportswear; garment
+@ 2000-2005 | Popular items included tracksuits, light-colored polo shirts
+polo shirt; garment
+khaki chinos; garment
+corduroy trousers; garment
+rugby shirt; garment
+@ 2000-2005 | Winter clothing included hiking jackets
+hiking jacket; garment
+fleece; fabric
+puffer jacket; garment
+padded flannel shirt; garment
+turtleneck sweater; garment
+@ 2000-2005 | Sport coats in navy, gray, beige, and natural linen
+linen sport coat; garment
+beige; colour
+@ 2000-2002 | Men's accessories included white belts
+oxford shoes; footwear
+argyle socks; accessory
+@ | Rockport boots and sneakers from brands such as Nike
+sneakers; footwear
+@ | Baseball caps featuring the logos of professional football
+team logo baseball cap; accessory
+@ 2003-2006 | retro fashion influenced by British indie pop
+mod; subculture
+garage rock revival; subculture
+~ mod; 1960-1969 > 2003-2006
+@ 2003-2006 | Between 2003 to 2006, common men's clothing in the United States and Europe
+light-wash bootcut jeans; garment
+wide-leg trousers; garment
+cargo shorts; garment
+patterned camp shirt; garment
+@ | Other styles included vintage Classic rock T-shirts
+classic rock t-shirt; garment
+throwback sports uniform; garment
+military surplus; garment
+paisley shirt; garment
+velvet sport coat; garment
+parka; garment
+windbreaker; garment
+harris tweed jacket; garment
+@ US | Fitted Western-style shirts inspired by 1970s fashion
+western shirt; garment
+~ western shirt; 1970-1979 > 2003-2006
+@ 2003 US | Movies such Top Gun, Bullitt, and Midnight Cowboy
+~ retro movie styles; 1960-1989 > 2003-2003
+@ 2003 US | These included Henley shirts, muscle shirts
+henley shirt; garment
+muscle shirt; garment
+american football shirt; garment
+aviator jacket; garment
+cable-knit sweater; garment
+seersucker suit; garment
+pea coat; garment
+@ 2003-2006 | Popular men's accessories during the middle of the decade included black brogue shoes
+brogues; footwear
+square-toed ankle boots; footwear
+adidas sneakers; footwear
+loafers; footwear
+@ | Other accessories included chokers, puka shell necklaces
+choker; accessory
+puka shell necklace; accessory
+shell bracelet; accessory
+charity bracelet; accessory
+earrings; accessory
+@ 2003-2006 UK | three-button pinstripe suits
+pinstripe suit; garment
+pinstripe; pattern
+@ 2003-2006 UK | Nehru suits and mandarin collar shirts also became popular alternatives
+nehru suit; garment
+mandarin collar shirt; garment
+@ 2003-2006 US | In the United States, men increasingly wore smart-casual clothing
+smart casual; subculture
+striped dress shirt; garment
+charcoal chinos; garment
+beige cardigan; garment
+argyle sweater; garment
+leather blazer; garment
+houndstooth sport coat; garment
+@ 2007-2009 | men's fashion incorporated styles inspired by the 1950s and 1980s
+~ 1950s menswear; 1950-1959 > 2007-2009
+~ 1980s menswear; 1980-1989 > 2007-2009
+letterman jacket; garment
+black leather jacket; garment
+dashiki; garment
+hawaiian shirt; garment
+ski jacket; garment
+slim-fit jeans; garment
+straight-leg jeans; garment
+wool topcoat; garment
+@ | Other trends, included low-neckline graphic T-shorts
+low-neck graphic t-shirt; garment
+cardigan; garment
+v-neck sweater; garment
+@ | Common accessories included wristwatches
+luxury wristwatch; accessory
+g-shock; accessory
+wayfarers; accessory
+@ | Horn-rimmed glasses were also associated with the geek-chic trend
+horn-rimmed glasses; accessory
+geek chic; subculture
+@ | Popular footwear in Europe and America included Sperry Top-Siders
+motorcycle boots; footwear
+air jordans; footwear
+checkerboard vans; footwear
+@ 2007-2009 US | clothing featuring tatto-inspired designs became popular
+tattoo print; pattern
+oversized belt buckle; accessory
+gold chain; accessory
+dark slim-fit jeans; garment
+@ 2007-2009 UK | V-neck T-shirts and graphic-print hoodies also became popular among younger British men
+v-neck t-shirt; garment
+graphic hoodie; garment
+@ 2008-2015 | Ed Hardy T-shirts, which often featured tattoo-inspired artwork
+ed hardy; garment
+@ 2007-2009 | The three-buttoned jackets common in the 1990s were increasingly replaced by two-buttoned suits
+two-button suit; garment
+~ two-button suit; 1950-1959 > 2007-2009
+@ 2007-2009 US | In the United States, the power suit also returned to popularity
+power suit; garment
+~ power suit; 1980-1989 > 2007-2009
+@ 2007-2009 | Some European single-breasted suits featured contrasting piping
+contrast piping; garment
+slim tie; accessory
+waistcoat; garment
+~ edwardian piping; 1901-1910 > 2007-2009
+
+@ unisex 2000-2009 | These included emo, indie, scene, psychobilly
+emo; subculture; 2005-2009
+scene; subculture; 2008-2009
+skater; subculture
+nu metal; subculture; 2000-2003
+@ | Regional styles included the British chav subculture
+chav; subculture; UK
+gangsta rap; subculture; US
+cholo; subculture; US
+@ US sub=hip-hop | Popular items of clothing included wide leg jeans
+wide leg jeans; garment
+baseball jacket; garment
+bucket hat; accessory
+stunna shades; accessory
+fur-lined puffer jacket; garment
+flat-brim cap; accessory
+@ 2000-2002 US sub=hip-hop | many wealthy white jocks and preppies imitated the gangsta lifestyle
+bling; accessory
+dark jeans; garment
+@ US sub=cholo | Another common American subculture were the cholos and chicanos
+baggy khaki slacks; garment
+white t-shirt; garment
+slicked back hair; hair
+shaved head; hair
+@ 2000-2009 sub=hip-hop | Artists such as Nigo, the originator of A Bathing Ape
+bape; garment
+skate culture; subculture; sub=-
+@ | Baggy clothes gained popularity
+baggy clothes; silhouette
+@ 2005-2009 US sub=hip-hop | such as shutter sunglasses and pink polo shirts
+shutter shades; accessory
+pink polo shirt; garment; men
+@ 2000-2002 UK sub=chav | Chavs favored cheap sportswear and fake designer clothing
+burberry cap; accessory
+white trainers; footwear
+kappa; garment
+@ UK sub=chav | Common haircuts included the french crop
+french crop; hair; men
+croydon facelift; hair; women
+@ 2000-2002 UK sub=skater | The skaters (nicknamed grebos or moshers)
+mosher; subculture; sub=-
+dreadlocks; hair
+padded flannel overshirt; garment
+baggy pants; garment
+@ UK sub=skater | Popular clothing included No Fear T-shirts
+no fear t-shirt; garment
+webbing belt; accessory
+patrol cap; accessory
+band t-shirt; garment
+dog tags; accessory
+shark tooth necklace; accessory
+camouflage cargo pants; garment
+carpenter jeans; garment
+tuque; accessory
+fingerless gloves; accessory
+olive drab; colour
+burgundy; colour
+@ 2001-2008 UK sub=skater | brands favoured by British skaters
+skate brands; garment
+vans; footwear
+@ 2000-2002 US | the nu metal fans and goths who wore black leather duster coats
+goth; subculture
+duster coat; garment
+tripp pants; garment
+@ 2000-2009 sub=rave | In the rave subculture, fashion trends that had developed in the 1990s persisted
+rave; subculture; sub=-
+spiky hair; hair
+phat pants; garment
+@ sub=cybergoth | members of the cybergoth and rivethead subcultures
+cybergoth; subculture; sub=-
+rivethead; subculture; sub=-
+synthetic neon dreadlocks; hair
+tight leather pants; garment
+chains; accessory
+stretched piercings; accessory
+sleeve tattoo; accessory
+goggles; accessory
+corset; garment
+pvc skirt; garment
+studded trenchcoat; garment
+@ 2000-2006 | black leather jackets, cowboy boots and Levi's jeans were popular in Scandinavia
+psychobilly; subculture
+rockabilly; subculture
+cowboy boots; footwear; sub=rockabilly
+levi's jeans; garment; sub=rockabilly
+@ sub=rockabilly | Common hairstyles included the quiff, pompadour
+quiff; hair
+pompadour; hair
+psychobilly mohican; hair
+@ women 2007-2009 sub=pin-up | it was popular for women to dress like 1950s pin-up girls
+pin-up; subculture; sub=-
+polka dot dress; garment
+pencil skirt; garment
+sheath dress; garment
+platform heels; footwear
+garter belt; garment
+stockings; garment
+petticoat; garment
+old school tattoos; accessory
+~ pin-up; 1950-1959 > 2007-2009
+@ unisex 2007-2012 | gave rise to the popularity among all sexes of Ed Hardy clothing
+ed hardy; garment
+@ 2005-2009 | indie pop fashions went mainstream in Europe and North America
+indie pop; subculture
+british invasion; subculture
+thrift store clothing; garment
+keffiyeh; accessory
+~ mod and british invasion; 1960-1969 > 2005-2009
+@ 2007-2012 US | The closely related hipster subculture
+hipster; subculture
+@ | like the Harajuku and Lolita fashion popularized by Gwen Stefani
+harajuku; subculture
+lolita; subculture
+@ 2005-2009 sub=emo | The other notable youth group of the mid-late 2000s were the emo kids
+black hoodie; garment
+purple hoodie; garment
+band t-shirt; garment
+@ sub=emo | Lowrise skinny jeans, snakebites
+low-rise skinny jeans; garment
+snakebite piercings; accessory
+silver jewellery; accessory
+checkerboard vans; footwear
+@ sub=emo | Hair was thin, flat and straight
+emo fringe; hair
+black dyed hair; hair
+@ 2008-2009 sub=scene | By early 2009 the most conspicuous subculture
+scene; subculture; sub=-
+@ sub=scene | The style, originally comprising tripp pants
+tripp pants; garment
+stripes; pattern
+tartan; pattern
+chucks; footwear
+trucker hat; accessory
+flat straight hair; hair
+brightly dyed hair; hair
+tight jeans; garment
+cartoon print hoodie; garment
+shutter shades; accessory
+promise ring; accessory
+checked shirt; garment
+bright colours; colour
+@ women 2007-2009 US sub=preppy | Items seen in the late 2000s for American preppy girls
+preppy; subculture; sub=-
+uggs; footwear
+riding boots; footwear
+knee socks; accessory
+pleated skirt; garment
+footless tights; garment
+shirt dress; garment
+@ US sub=preppy | Other desirable items included American apparel
+argyle; pattern
+headband; accessory
+coloured jeans; garment
+tartan shirt; garment
+cropped sweater; garment
+neon socks; accessory
+headwrap; accessory
+@ men US sub=preppy | Preppy guys wore polo shirts
+layered polo shirt; garment
+cardigan sweater; garment
+madras plaid; pattern
+sweater vest; garment
+oxford shirt; garment
+hunter rain boots; footwear
+
+@ women 2000-2002 | In the early 2000s, women's hair was often long and straight
+long straight hair; hair
+@ | The early 2000s featured "zig-zag partings"
+zig-zag parting; hair
+@ 1995-2008 | From 1995 until 2008 highlights and lowlights
+highlights; hair
+lowlights; hair
+@ 2002-2006 | In 2002 bold and unblended highlights called "chunky highlights"
+chunky highlights; hair
+@ 2000-2002 | The early 2000s also continued the Farrah Fawcett hairstyle revival
+farrah fawcett hair; hair
+~ farrah fawcett hair; 1976-1979 > 1997-2002
+@ 2000-2006 | Crimped hair was popular in the early and mid-2000s
+crimped hair; hair
+@ 2000-2007 | For black women, cornrows, dreadlocks and curly weaves
+cornrows; hair
+curly weave; hair
+@ 2007-2009 | when toned-down versions of the Afro, Jheri curl and short pixie cuts
+afro; hair
+jheri curl; hair
+pixie cut; hair
+@ 2000-2009 | Another popular hairstyle throughout the decade was the braid
+braids; hair
+@ 2003-2006 | many women favored the bob haircut
+bob cut; hair
+lob; hair
+@ 2007-2009 | the side-swept Bangs of the 1980s made a comeback
+side-swept bangs; hair
+~ side-swept bangs; 1980-1989 > 2007-2009
+@ 2007-2009 | dark haired women (and even light-haired ones) favored the jet black hair
+jet black hair; hair
+beehive; hair
+@ 2007-2009 | Textured hair with volume, natural wavy hair
+textured hair; hair
+wavy hair; hair
+@ 2007-2009 | Other popular late 2000s trends included Headbands
+side ponytail; hair
+side braid; hair
+scrunchie; accessory
+@ men 2000-2002 | For European men aged 25–40
+quiff; hair
+spiked hair; hair
+fauxhawk; hair
+@ 2000-2007 UK | Dark-haired young British men often had dyed-blonde weaves and streaks
+blonde streaks; hair
+@ 1997-2008 US | A common haircut among American men and boys was the frosted spiky hair
+frosted tips; hair
+@ 2003-2006 UK | Long, shaggy Mod or surfer hair became popular
+shaggy mod hair; hair
+surfer hair; hair
+@ 2007-2009 UK | many young British men opted for a clean-cut 1950s inspired hairstyle
+pomade; hair
+~ 1950s clean-cut hair; 1950-1959 > 2007-2009
+@ 2007-2009 | Shaved and bald hairstyles along with beards
+beard; hair
+moustache; hair
+stubble; hair
+sideburns; hair
+goatee; hair
+@ 2000-2006 | in reaction to the effeminate early and mid-2000s metrosexual look
+metrosexual; subculture
+@ unisex 2000-2006 | For boys, short haircuts such as the quiff
+buzzcut; hair; men
+curtains; hair; men
+crew cut; hair; men
+caesar cut; hair; men
+@ women 2000-2006 | Girls favored straight hair extensions
+hair extensions; hair
+@ 2002-2005 | It also became fashionable to sport curly hair
+curly hair; hair
+@ 1997-2002 | butterfly hair clips and crimped hair
+butterfly clips; accessory
+@ men 2003-2006 UK | including the wings haircut
+wings haircut; hair
+~ wings haircut; 1960-1969 > 2003-2006
+@ unisex 2009 | the androgynous Harajuku inspired scene hairstyles
+scene hair; hair; sub=scene
+eyeliner; makeup; sub=scene
+@ women 2009 US | many teenage girls in the US and Australasia opted for a preppy hairstyle
+side part; hair
+@ women 2009 | Many girls wore headbands, headwraps and 80s inspired scrunchies
+~ scrunchie; 1980-1989 > 2009-2009
+french braid; hair
+@ men 2006-2008 | acquired the high and tight haircut
+high and tight; hair
+
+@ women 2000 | The year 2000, was based on the glittery Y2K inspired makeup
+y2k makeup; makeup; 1999-2003
+bronze specks; makeup
+@ 2000 | Lip gloss was more popular than lipstick
+lip gloss; makeup
+@ 2001-2009 | By the spring/summer season of 2001
+natural makeup; makeup
+@ 2002-2009 | In 2002, mineral makeup broke into the mainstream
+mineral makeup; makeup
+@ 2005-2006 | retro-styled makeup from the 1940s had made a comeback
+bright red lips; makeup
+cat eye; makeup
+~ 1940s makeup; 1940-1949 > 2005-2006
+@ 2005-2009 | In the mid and late 2000s, lip gloss remained popular, and the "Smoky Eye" emerged
+smoky eye; makeup
+@ 2005-2009 | with illuminators and shimmer products becoming must-have items
+illuminator; makeup
+@ 2007-2009 | there was a craze for fake eyelashes
+fake eyelashes; makeup
+lash extensions; makeup
+@ unisex 2001-2008 | the sunless tanning trend broke into the mainstream
+fake tan; makeup
+@ 2001 | Cosmetic contacts also became more widespread
+cosmetic contacts; makeup
+@ 2009 | fake tanning had gone out of style in favor a pale complexion
+pale complexion; makeup
+@ men 2000-2006 | male waxing became ubiquitous
+male waxing; hair
+@ | it was popular to have a completely clean-shaven face
+clean-shaven; hair
+@ unisex 2000-2006 | Commonplace tattoos in Europe, Australasia
+tramp stamp; accessory; women
+tribal tattoo; accessory
+sanskrit tattoo; accessory; 2007-2010
+@ 2008-2009 | these made a comeback in 2008
+old school tattoos; accessory
+~ old school tattoos; 1950-1959 > 2008-2009
+@ 2003-2009 | Getting a mustache tattoo on a finger
+fingerstache; accessory
+@ 2000-2002 | navel piercings reached their peak, as did tongue rings
+navel piercing; accessory; women
+tongue ring; accessory
+@ 2000-2009 | Other popular piercings throughout the decade
+labret piercing; accessory
+nostril piercing; accessory
+eyebrow piercing; accessory
+
+# 2010s-in-fashion
+
+@ unisex 2010-2019 | Overarching trends of the decade included hipster fashion
+hipster; subculture
+normcore; subculture
+minimalism; subculture
+grunge; subculture
+~ 1990s grunge; 1990-1999 > 2010-2019
+@ 2010-2019 | Throughout the decade, retro revivals persisted
+neon streetwear; garment
+fit-and-flare; silhouette
+~ 1980s neon streetwear; 1980-1989 > 2010-2019
+~ mid-century silhouettes; 1950-1969 > 2010-2019
+@ 2010-2013 | youth-led trends, such as scene, swag, indie
+scene; subculture
+swag; subculture
+indie; subculture
+east asian streetwear; subculture
+bright colours; colour
+layered accessories; accessory
+skinny jeans; garment
+@ 2014-2019 | By the mid-2010s, athleisure emerged internationally
+athleisure; subculture
+
+@ women 2010-2013 | Low-rise skinny jeans, often in acid wash
+low-rise skinny jeans; garment
+acid wash; fabric
+graphic t-shirt; garment
+zip-up hoodie; garment
+rhinestone tank top; garment
+@ | Visual motifs such as tattoo designs, rhinestones
+tattoo print; pattern
+rhinestones; accessory
+ed hardy; garment
+juicy couture; garment
+von dutch; accessory
+@ | Casual-wear often emphasized a layered look
+layered look; silhouette
+camisole; garment
+sweatshirt dress; garment
+romper; garment
+miniskirt; garment
+capri pants; garment
+@ | Blouses and dresses were often cut in the empire or babydoll line
+empire line; silhouette
+babydoll dress; garment
+wide belt; accessory
+@ | Skirt silhouettes ranged from tight-fitting bandage skirts
+bandage skirt; garment
+skater skirt; garment
+@ | Outerwear trends included motorcycle jackets
+motorcycle jacket; garment
+studded perfecto; garment
+logo hoodie; garment; US
+@ | Popular accessories of the period included studded belts
+studded belt; accessory
+large sunglasses; accessory
+logo handbag; accessory
+@ | The early 2010's also saw eclectic revivals of earlier decades
+~ 1950s styles; 1950-1959 > 2010-2013 | replicating elements from the 1950s
+~ 1980s styles; 1980-1989 > 2010-2013 | replicating elements from the 1950s
+@ | Neon colors, especially pink, teal, and orange
+neon colours; colour
+neon pink; colour
+teal; colour
+orange; colour
+stripes; pattern
+chevron; pattern
+zebra print; pattern
+leopard print; pattern
+@ | Metallics, sequins, and lace were also prominent
+metallics; fabric
+sequins; fabric
+lace; fabric
+@ | Mustache motifs referencing curly 19th century styles
+moustache print; pattern
+@ | Peplum tops and dresses
+peplum; silhouette
+@ | Often paired with pencil skirts or skinny jeans, the peplum echoed
+pencil skirt; garment
+~ peplum; 1940-1959 > 2010-2013
+@ | Fitted blazers, often in bright colors such as teal or coral
+fitted blazer; garment
+coral; colour
+~ 1980s power dressing; 1980-1989 > 2010-2013
+@ | Headbands were worn across the forehead in imitation of 1920s styles
+forehead headband; accessory
+~ forehead headband; 1920-1929 > 2010-2013
+~ mod headband; 1960-1969 > 2010-2013
+@ | Chunky jewelry, especially pendants, rings, and necklaces in turquoise
+chunky jewelry; accessory
+turquoise; colour
+@ | contributing to the overall look of retro maximalism
+retro maximalism; subculture
+~ costume jewelry; 1950-1959 > 2010-2013
+@ 2012-2013 | including skull prints, cross motifs, and studs
+skull print; pattern
+cross motif; pattern
+studs; accessory
+@ 2012-2015 | Associated with the indie sleaze and emerging soft grunge aesthetic
+soft grunge; subculture
+indie sleaze; subculture
+~ soft grunge; 1990-1999 > 2012-2015
+@ 2012-2015 sub=soft_grunge | Staple pieces included oversized or distressed sweaters
+oversized sweater; garment
+distressed sweater; garment
+oversized flannel shirt; garment
+flannel tied around waist; silhouette
+muscle tank; garment
+high-waisted shorts; garment
+combat boots; footwear
+lita boots; footwear
+@ sub=soft_grunge | Ripped, lace, or patterned tights
+ripped tights; garment
+lace tights; garment
+infinity scarf; accessory
+layered jewelry; accessory
+@ sub=soft_grunge | The aesthetic was amplified by platforms like Tumblr
+inverted cross; pattern
+ribcage print; pattern
+@ 2011-2013 | galaxy prints, space-themed patterns, and geometric graphics
+galaxy print; pattern
+geometric print; pattern
+@ 2012-2013 | the low-rise silhouette of the early decade began to give way to high-waisted bottoms
+high-waisted bottoms; silhouette
+@ 2010-2019 US | Festival fashion, popularized by events such as Coachella
+festival fashion; subculture
+@ US sub=festival_fashion | Drawing loosely from hippie counterculture
+boho; subculture
+~ boho; 1965-1975 > 2010-2019
+@ US sub=festival_fashion | Common articles included feather earrings
+feather earrings; accessory
+flower crown; accessory
+beaded bracelet; accessory
+moccasin sneakers; footwear
+poncho; garment
+mexican blanket stripe; pattern
+@ US sub=festival_fashion | Festival fashion also frequently incorporated Southwestern
+aztec print; pattern
+@ 2010-2013 UK | Popular looks included colorful floral hijabs
+modestwear; subculture
+floral hijab; accessory
+shawl collar overcoat; garment
+black satin dress; garment
+structured handbag; accessory
+@ 2010-2013 | There was a visible decline in older trends such as large hoop earrings
+minimalist gold jewelry; accessory
+@ 2010-2013 | Canvas sneakers like Vans, Converse, and Keds
+canvas sneakers; footwear
+@ | Ballet flats and flat sandals offered simple
+ballet flats; footwear
+flat sandals; footwear
+toms; footwear
+boat shoes; footwear
+@ | Uggs, moccasins, Lita boots, and knee-high riding boots were popular
+uggs; footwear
+moccasins; footwear
+riding boots; footwear
+@ | There was a brief vogue for boots with studs
+studded boots; footwear
+
+@ 2014-2016 | Color palettes instead favored earth tones and muted pastels
+earth tones; colour
+muted pastels; colour
+blush pink; colour
+camel; colour
+olive; colour
+mauve; colour
+grey; colour
+@ | Clean lines and minimalist silhouettes rose in popularity
+clean lines; silhouette
+@ | Boxy outerwear, striped culottes
+boxy outerwear; silhouette
+culottes; garment
+lace-up top; garment
+cold-shoulder top; garment
+@ | Monochrome dressing, especially black-and-white ensembles
+monochrome; colour
+@ | Polka dots, grid prints, florals, and simple geometric patterns
+polka dots; pattern
+grid print; pattern
+florals; pattern
+@ | Other monochromatic trends during this period included Edwardian-style high-necked blouses
+high-necked blouse; garment
+lace maxi dress; garment
+tuxedo jacket; garment
+vest; garment
+duster coat; garment
+~ edwardian silhouettes; 1901-1914 > 2014-2016
+@ 2014-2016 | Both the festival fashion and soft grunge aesthetics of the early decade peaked
+boho chic; subculture
+@ | Boho styles incorporated influences from 1970s fashion
+bardot top; garment
+gypsy blouse; garment
+palazzo pants; garment
+~ 1970s boho; 1970-1979 > 2014-2016
+@ | Statement jewelry, which dominated earlier in the decade
+statement jewelry; accessory; 2010-2013
+delicate necklace; accessory
+choker; accessory
+pendant charm; accessory
+@ | 1990s nostalgia appeared in unisex cuts and velvet or lace chokers
+velvet choker; accessory
+~ choker; 1990-1999 > 2014-2016
+@ | Small bucket bags and Herschel zip-up backpacks
+bucket bag; accessory
+backpack; accessory
+@ 2014-2016 | Athleisure emerged as a dominant trend
+athleisure; subculture
+@ | Garments such as leggings, joggers, yoga pants
+leggings; garment
+joggers; garment
+yoga pants; garment
+jeggings; garment
+@ | creating a high-low effect that blended activewear and fashion
+high-low; subculture
+@ | A fad of the mid-2010s high-low look was the unisex onesie suit
+onesie; garment
+@ | White sneakers and slip-ons became everyday staples
+white sneakers; footwear
+slip-ons; footwear
+wedge boots; footwear
+@ | Designers such as Azzedine Alaia popularized lace-up styles
+lace-up shoes; footwear
+espadrilles; footwear
+gladiator sandals; footwear
+@ 2016 | Statement footwear remained prominent, including Perspex heels
+perspex heels; footwear
+
+@ 2017-2019 | For most of the late 2010s, minimalism remained the prevailing force
+neutral colours; colour
+structured silhouette; silhouette
+@ | One of the most notable shifts of the period was the decline of the skinny jean silhouette
+straight-leg jeans; garment
+cropped jeans; garment
+oversized outerwear; silhouette
+button-down shirt; garment
+@ | Footwear leaned toward white sneakers, block-heeled boots
+block-heeled boots; footwear
+minimalist flats; footwear
+@ | Linked to the prevailing normcore trend, this look favored trench coats
+trench coat; garment
+plaid skirt; garment
+tailored trousers; garment
+low heels; footwear
+powder blue; colour
+@ 2018-2019 | By 2018, a 1970s revival began to replace
+~ 1970s fashion; 1970-1979 > 2018-2019
+@ | This trend reintroduced bold prints, tactile fabrics
+bold prints; pattern
+saturated colours; colour
+@ | Flared trousers, corduroy suits, velvet dresses
+flared trousers; garment
+corduroy suit; garment
+velvet dress; garment
+floral maxi dress; garment
+brocade outerwear; garment
+tinted sunglasses; accessory
+faux fur; fabric
+platform heels; footwear
+@ | Trendy design details included ruffles, paisley prints
+ruffles; silhouette
+paisley; pattern
+embroidered denim; fabric
+nehru jacket; garment
+mustard; colour
+forest green; colour
+rust; colour
+cobalt; colour
+tangerine; colour
+@ | Wide-legged jeans with appliqués or rose embroidery
+wide-leg jeans; garment
+fur trim mules; footwear
+gold accessories; accessory
+@ 2019 UK | by 2019 these began to be replaced in the UK by oversized Revere collars
+revere collar; garment
+~ revere collar; 1975-1979 > 2019-2019
+@ 2017-2019 US | a second retro trend emerged in the form of blue-collar Americana
+americana; subculture
+@ US sub=americana | Key elements included Western shirts
+western shirt; garment
+mom jeans; garment
+suede fringe jacket; garment
+stacked denim; garment
+bandana; accessory
+plaid flannel; garment
+@ US sub=americana | This trend extended to footwear, with cowboy boots
+cowboy boots; footwear
+@ 2019 | a more camp-inflected sensibility gained traction in the final year
+camp; subculture
+@ 2019 | Influenced by an early 2000s "Y2K" revival
+~ y2k; 2000-2002 > 2019-2019
+bodysuit; garment
+vinyl outerwear; garment
+sheer fabric; fabric
+iridescent fabric; fabric
+@ 2019 US | Plastic mule heels, Barbie-pink footwear
+plastic mules; footwear
+barbie pink; colour
+rhinestone accessories; accessory
+mesh top; garment
+branded spandex; garment
+@ 2017-2019 | Loafers and flat mules in neutral shades
+loafers; footwear
+flat mules; footwear
+@ 2017-2019 | Brands such as Fila, Nike, and Balenciaga released oversized trainers
+ugly sneakers; footwear
+chunky trainers; footwear
+
+@ men 2010-2013 | The early 2010s introduced increasingly brighter, neon colors
+neon colours; colour
+slim silhouette; silhouette
+~ 1980s; 1980-1989 > 2010-2013
+@ | Slim-fitting shirts, T-shirts, and hoodies were popular
+slim-fit shirt; garment
+v-neck; garment
+@ | Cartoon or tattoo-inspired graphics were ubiquitous
+cartoon graphics; pattern
+@ | skinny and extremely skinny jeans saw rising popularity
+skinny jeans; garment
+@ | Denim jackets, neon-colored windbreakers
+denim jacket; garment
+neon windbreaker; garment
+@ | Other trending outerwear included fitted leather jackets
+perfecto jacket; garment
+@ | Popular accessories and details included emo-inspired studded belts
+studded belt; accessory
+rubber bracelet; accessory
+keffiyeh; accessory
+novelty socks; accessory
+nerd glasses; accessory
+@ | Elements of indie fashion such as flannel shirts and western shirts
+flannel shirt; garment
+western shirt; garment
+preppy; subculture
+@ 2011-2015 | In the summer of 2011, 1980s and 1990s inspired fashion made a comeback
+~ 1980s and 1990s menswear; 1980-1999 > 2011-2015
+short shorts; garment
+acid wash jean shorts; garment
+aztec print; pattern
+camouflage print; pattern
+animal print; pattern
+high top sneakers; footwear
+snapback; accessory
+gaudy wristwatch; accessory
+@ 2011-2015 | The Grunge look had made a comeback
+~ grunge; 1990-1999 > 2011-2015
+@ sub=grunge | upper items of clothing include bomber jackets
+bomber jacket; garment
+black leather jacket; garment
+crombie overcoat; garment
+padded tartan overshirt; garment
+crewneck sweatshirt; garment
+throwback jersey; garment
+nantucket reds; garment
+@ | Other popular accessories of the early to mid 2010s included Doc Martens
+doc martens; footwear
+timberlands; footwear
+converse all stars; footwear
+sperry top-siders; footwear
+nike elite socks; accessory
+brown oxford shoes; footwear
+@ 2010-2013 | The business casual look of the 1990s and early 2000s remained common
+business casual; subculture
+@ 2010-2013 UK | more formal Mad Men-inspired business clothing
+slim grey suit; garment
+~ mad men suit; 1960-1969 > 2010-2013
+@ UK | tweed cloth sportcoats became acceptable town wear
+tweed sportcoat; garment
+broad shouldered suit; silhouette
+lapel piping; garment
+~ 1920s suit; 1920-1929 > 2010-2013
+
+@ 2013-2015 | Bright colors, studded belts and retro styled graphic prints
+black; colour
+white; colour
+beige; colour
+taupe; colour
+marl; colour
+burgundy; colour
+dark green; colour
+@ 2013-2015 | Common clothing items in the Americas, Britain and Russia
+marl sweatpants; garment
+jersey shirt; garment
+chunky hiking boots; footwear
+cyrillic lettering hoodie; garment
+constructivist print; pattern
+fake fur; fabric
+tracksuit; garment
+oversized anorak; garment
+unstructured blazer; garment
+double-breasted sportcoat; garment
+5 inch inseam shorts; garment
+drop crotch pants; garment
+slim jogger pants; garment
+high tops; footwear
+@ 2013-2014 | Sales in floral print clothing designs for men more than doubled
+floral print; pattern
+@ 2013-2016 UK | workwear became a significant trend in Britain
+workwear; subculture
+@ UK sub=workwear | Besides the cardigan sweaters, knit caps
+cardigan; garment
+knit cap; accessory
+flat cap; accessory
+dark denim jacket; garment
+waxed jacket; garment
+fisherman's mac; garment
+grenson brogues; footwear
+red wing boots; footwear
+grandfather collar shirt; garment
+@ | In China and Europe, retro feiyue martial arts sneakers
+feiyue sneakers; footwear
+@ 2014-2016 | Common accessories include Ray-Ban wayfarer sunglasses
+wayfarers; accessory
+paisley scarf; accessory
+teashade glasses; accessory
+tortoiseshell glasses; accessory
+plaited leather belt; accessory
+newsboy cap; accessory
+bum bag; accessory
+trilby; accessory
+pork pie hat; accessory
+@ 2014-2016 UK | many professional men wear grey mohair or houndstooth office suits
+mohair suit; garment
+houndstooth; pattern
+narrow lapels; silhouette
+@ 2010-2016 | the waistcoat made a comeback as part of the three piece suit
+three piece suit; garment
+~ waistcoat; 1980-1989 > 2010-2016
+@ 2014-2016 | by 2014 these were joined by air force blue
+air force blue; colour
+navy blue; colour
+midnight blue; colour
+sky blue; colour
+@ 2014-2016 UK | the suits of the mid-2010s often featured checks
+glen plaid; pattern
+prince of wales check; pattern
+windowpane; pattern
+narrow pinstripe; pattern
+@ 2016 | Popular footwear of spring 2016 included round toed Oxford shoes
+oxford shoes; footwear
+chelsea boots; footwear
+@ 2014-2016 | Thin ties remained the norm
+thin tie; accessory
+shawl collar; garment
+peak lapels; garment
+@ 2016 | By 2016, the black and silver digital wristwatches
+analog wristwatch; accessory
+@ 2014-2016 | some aspects of traditional attire such as wooden jewelry or the Dashiki
+dashiki; garment
+@ 2014-2016 | Dandies known as sapeurs and swenkas
+sapeur; subculture
+fedora; accessory
+spats; footwear
+bowtie; accessory
+
+@ 2018-2019 US | Brown replaced black as the most popular color for leather jackets
+brown leather jacket; garment
+orange hoodie; garment
+track pants; garment
+patched jeans; garment
+leather hi-tops; footwear
+coach jacket; garment
+dark flannel sportcoat; garment
+shacket; garment
+camouflage jacket; garment
+alpine sweater; garment
+white adidas sneakers; footwear
+@ 2018-2020 | baggy cargo pants with external pockets were reintroduced
+baggy cargo pants; garment
+long tweed coat; garment
+@ 2017-2019 US | In the American workplace, brown suits made a comeback
+brown suit; garment
+unstructured suit; garment; UK
+@ 2017-2019 | Wide neckties (frequently in patterned paisley silk
+wide necktie; accessory
+turtleneck; garment
+@ 2017-2019 | Beginning in March 2017, clothing inspired by 1990s Britpop
+britpop; subculture
+mod revival; subculture
+~ britpop; 1994-1997 > 2017-2019
+~ 1970s menswear; 1970-1979 > 2017-2019
+cream; colour
+sand; colour
+ecru; colour
+pistachio; colour
+@ 2017-2019 sub=britpop | Desirable items included suede cowboy boots
+suede cowboy boots; footwear
+winklepickers; footwear
+velvet shawl collar suit; garment
+sailor t-shirt; garment
+tropical print shirt; garment
+track jacket; garment
+trenchcoat; garment
+corduroy sportcoat; garment
+herringbone overcoat; garment
+suede chukka boots; footwear
+sunflower print shirt; pattern
+dip dye swimshorts; garment
+military parka; garment
+straw trilby; accessory
+short sleeved cardigan; garment
+red doc martens; footwear
+souvenir jacket; garment
+aloha shirt; garment
+flying jacket; garment
+corduroy pants; garment
+cuban collar; garment
+henley shirt; garment
+velvet tuxedo jacket; garment
+psychedelic floral shirt; garment
+~ teddy boy collar; 1950-1959 > 2017-2019 | stone grey suits with Teddy Boy inspired velvet shawl collars
+
+@ unisex 2010-2013 | Fads such as shutter shades, snapback hats, and Silly Bandz
+shutter shades; accessory
+snapback; accessory
+silly bandz; accessory
+@ 2010-2013 | indie clothing had moved away from the bright colors
+earth tones; colour
+@ | Tweed jackets, skinny chino trousers, dress boots
+tweed jacket; garment
+skinny chinos; garment
+dress boots; footwear
+horn-rimmed glasses; accessory
+wool socks; accessory
+worker boots; footwear
+beanie; accessory
+@ | Drop crotch pants, designed by the Danish brand Humör
+drop crotch pants; garment
+@ 2016-2019 US | American Apparel made normcore a prominent aspect of hipster culture
+normcore; subculture
+geek chic; subculture
+~ geek chic; 1980-1989 > 2016-2019
+@ US sub=normcore | Popular accessories include horn rimmed glasses
+pleated khaki chinos; garment
+dad hat; accessory
+polar fleece; garment
+socks with sandals; footwear
+white tennis shoes; footwear
+pocket protector; accessory
+mom jeans; garment; women
+@ 2018-2019 | The fanny pack accessory made a late comeback in 2018
+fanny pack; accessory
+~ fanny pack; 1980-1989 > 2018-2019
+@ men 2010-2013 US sub=preppy | American preppy guys moved away from the hip-hop
+ivy league; subculture
+~ ivy league; 1950-1959 > 2010-2013
+aran sweater; garment
+cricket pullover; garment
+wingtips; footwear
+stripy polo shirt; garment
+vineyard vines; garment
+coloured jeans; garment
+khaki shorts; garment
+@ 2014-2019 | From the mid-2010s on, khaki shorts with shorter 7, 6, and 5 inch inseams
+tapered chinos; garment
+@ 2012-2016 US | seersucker blazers and pants made a comeback
+seersucker; fabric
+~ 1920s gatsby; 1920-1929 > 2012-2016
+@ women 2010-2019 US sub=preppy | Throughout the 2010s, Preppy girls wore flip flops
+flat ankle boots; footwear
+layered shirts; garment
+cold shoulder top; garment
+footless tights; garment
+skater dress; garment
+romper dress; garment
+hunter boots; footwear
+leg warmers; garment
+high-waisted jeans; garment
+shortalls; garment
+railroad stripe blouse; garment
+knee socks; accessory
+bike shorts; garment
+nike tempo shorts; garment
+@ UK | The British equivalent of preppies, known as Sloane rangers
+sloane ranger; subculture
+jodhpurs; garment
+barbour jacket; garment
+pearls; accessory
+pvc skirt; garment
+cropped cardigan; garment
+
+@ unisex 2010-2014 | the androgynous scene subculture remained common
+scene; subculture
+@ sub=scene | Typical outfits featured brightly colored skinny jeans
+trucker hat; accessory
+pyramid belt; accessory
+skate shoes; footwear
+@ sub=scene | Accessories often included large hair bows
+hair bow; accessory
+tiara; accessory
+plastic jewelry; accessory
+cartoon backpack; accessory
+@ sub=scene | Hairstyles were a defining feature
+teased hair; hair
+side-swept bangs; hair
+coloured extensions; hair
+raccoon stripes; hair
+@ 2013 sub=scene | many scene kids had abandoned the cartoon print hoodies
+a-shirt; garment
+stretched earlobes; accessory
+@ 2012-2015 sub=skater | many skaters wore designer streetwear
+skater; subculture; sub=-
+backwards baseball cap; accessory
+plaid shirt; garment
+ripped jeans; garment
+@ 2012-2015 sub=skater | Common brands from 2012 to 2015 included Diamond Supply Co.
+obey; garment
+foliage print; pattern
+santa cruz t-shirt; garment
+@ 2014-2016 sub=sneakerhead | known as "sneakerheads", dress similarly
+sneakerhead; subculture; sub=-
+@ 2014-2016 sub=sneakerhead | Common mid-2010s sneakerhead apparel includes Nike Air Jordans
+air jordans; footwear
+yeezys; footwear
+skullcandy headphones; accessory
+waffle plaid shirt; garment
+basketball singlet; garment
+cosmic print; pattern
+@ 2016 sub=sneakerhead | As of 2016, the most desirable colors for sneakers
+black red and white; colour
+@ 2012-2016 sub=seapunk | Seapunk, a fusion of scene
+seapunk; subculture; sub=-
+@ sub=seapunk | Seapunks often combined brightly dyed androgynous hairstyles
+nautical motifs; pattern
+dyed beard; hair
+yin-yang t-shirt; garment
+transparent plastic jacket; garment
+aquamarine; colour
+smiley motif; pattern
+@ 2011-2015 sub=steampunk | From 2011 to 2015, members of this subculture
+steampunk; subculture; sub=-
+top hat; accessory
+pocket watch; accessory
+leather waistcoat; garment
+brass gear jewelry; accessory
+flying goggles; accessory
+~ neo-victorian; 1837-1901 > 2011-2015
+@ 2010-2019 sub=hip-hop | Hip hop fans wear tactical pants
+hip-hop; subculture; sub=-
+tactical pants; garment
+strapback cap; accessory
+goggle jacket; garment
+@ sub=hip-hop | Retro retro 1990s fashions like snapbacks
+~ 1990s hip-hop; 1990-1999 > 2010-2019
+bucket hat; accessory
+varsity jacket; garment
+nylon tracksuit; garment
+gold chain; accessory
+@ US sub=hip-hop | Timberlands are particularly popular in New York
+timberlands; footwear
+@ men sub=hip-hop | Such designers inspire a "darker" aesthetic
+extra-long shirt; garment
+asymmetrical hem; silhouette
+stacked jeans; silhouette
+@ sub=hip-hop | Black boots, leather jackets, denim vests
+denim vest; garment
+waxed jeans; garment
+tapered sweatpants; garment
+shorts over leggings; silhouette
+@ unisex 2014-2016 | dashikis became trendy in hip hop and afro-punk fashion
+afro-punk; subculture
+@ 2010-2019 sub=hip-hop | Models of shoes from Vans
+vans; footwear
+@ 2010-2019 sub=hip-hop | Brands such as Supreme, Obey
+supreme; garment
+@ 2017-2019 | "sad boy" culture became prominent
+sad boy; subculture
+@ sub=sad_boy | It typically consists of teen guys, wearing bucket hats
+japanese lettering; pattern
+@ 2010-2013 US | many members of the cholo, chicano and lowrider subcultures
+cholo; subculture
+charro jacket; garment
+stetson; accessory
+pointy boots; footwear
+@ 2015 US | Pachuco style Zoot suits, fedoras and panama hats made a comeback
+zoot suit; garment
+panama hat; accessory
+rockabilly; subculture
+~ pachuco; 1940-1959 > 2015-2015
+@ 2010-2019 | These included skull, floral or honeycomb prints
+k-pop; subculture
+honeycomb print; pattern
+sequined jacket; garment
+leather cap; accessory
+@ 2010-2013 | a new youth subculture called Jejemon arose in the Philippines
+jejemon; subculture
+@ 2018-2019 US | VSCO girls wore either no makeup
+vsco girl; subculture; women
+@ women US sub=vsco_girl | Clothing and accessories associated with the VSCO aesthetic included scrunchies
+scrunchie; accessory
+t-shirt dress; garment
+baggy jeans; garment
+fjallraven backpack; accessory
+puka shell necklace; accessory
+@ women US sub=vsco_girl | Footwear included dirty white sneakers
+checkered vans; footwear
+birkenstocks; footwear
+crocs; footwear
+@ unisex 2018-2019 US | E-kids' fashion is described as being inspired by skater culture
+e-kids; subculture
+@ US sub=e-kids | The E-kids aesthetic emphasized intricate makeup design
+pink blush; makeup
+fake freckles; makeup
+winged eyeliner; makeup
+hearts under eyes; makeup
+@ US sub=e-kids | Key clothing and accessories choices included mesh T-shirts
+mesh t-shirt; garment
+hair clips; accessory
+striped mock neck; garment
+checkered print; pattern
+silver chain; accessory
+o-ring collar; accessory
+mini plaid skirt; garment
+high-waisted cargo pants; garment
+layered tees; garment
+@ US sub=e-kids | Footwear included chunky heels
+chunky heels; footwear
+
+@ women 2010-2013 | In the early 2010s, many women, particularly in Europe and East Asia
+flat-ironed hair; hair
+@ | Hair extensions remained common
+hair extensions; hair; US
+@ | Styles were typically worn side-parted
+side fringe; hair
+@ | Blunt-cut bangs also saw renewed popularity
+blunt bangs; hair
+@ | The most iconic was the “pouf” or “bump”
+pouf; hair; US
+@ | Other high-volume styles included sock buns
+sock bun; hair
+top knot; hair
+high ponytail; hair
+@ US | Crimped and curled textures had a brief resurgence
+crimped hair; hair
+@ 2013 | shorter haircuts like the bob, pixie, crop, and undercut
+bob; hair
+pixie cut; hair
+undercut; hair
+@ 2010-2015 | ombré dyeing surged in popularity
+ombre; hair
+@ 2014-2016 | Loose, tousled beach waves became the defining Western hairstyle
+beach waves; hair
+@ 2014-2016 | intricate braid styles hit their peak
+crown braid; hair
+fishtail braid; hair
+halo braid; hair
+dutch braid; hair
+@ | Messy top knots and high buns also remained fashionable
+messy bun; hair
+@ 2012-2016 | The natural hair movement gained widespread momentum
+natural hair; hair
+@ | through twist-outs, afros, and dreadlocks
+twist-out; hair
+afro; hair
+dreadlocks; hair
+@ | Box braids, Fulani braids, and cornrows surged
+box braids; hair
+fulani braids; hair
+cornrows; hair
+@ 2017-2019 UK | sleek, bone-straight hair regained dominance
+bone-straight hair; hair
+center part; hair
+@ 2019 | By 2019, curtain bangs began to trend
+curtain bangs; hair
+~ curtain bangs; 1990-1999 > 2019-2019
+@ 2019 | This two-tone look was sometimes referred to as "e-girl streaks"
+e-girl streaks; hair
+@ men 2010-2013 UK | men's 1930s, 1940s, and 1950s haircuts underwent a revival
+side parting; hair
+quiff; hair
+slicked back hair; hair
+~ 1930s-50s haircuts; 1930-1959 > 2010-2013
+@ 2010-2016 | The undercut has been a particularly ubiquitous trend
+undercut; hair
+@ 2010-2015 | mohawk variants of the Afro, The 360 Waves
+360 waves; hair
+taper; hair
+@ 2010-2015 US | The High Top Fade, often with a bleached blonde streak
+high top fade; hair
+~ high top fade; 1987-1995 > 2010-2015
+@ 2014-2019 | variants of tapered Dreadlocks and Hair twists
+hair twists; hair
+@ 2014-2019 | wore their hair in a type of topknot or "man bun"
+man bun; hair
+@ 2017-2019 UK | British hipsters frequently left their undercut unstyled
+~ beatles haircut; 1962-1965 > 2017-2019
+@ women 2010-2019 | the bangs and thin headband combination remained popular
+thin headband; accessory
+@ 2014-2019 | Dutch braids, twin French braids, side ponytails
+french braids; hair
+side ponytail; hair
+side braid; hair
+@ 2019 | in 2019 ponytails with scrunchies were increasingly popular
+scrunchie; accessory
+@ | The chin length bob cut, long hair with choppy side bangs
+chin length bob; hair
+@ men 2010-2013 UK | a type of short mullet haircut with buzzed sides
+mullet; hair
+@ unisex 2013 US | a long undercut or mohawk-like haircut
+side shave; hair
+@ women 2015-2016 | the balayage
+balayage; hair
+lob; hair
+blunt haircut; hair
+@ men 2014-2016 | the layered short hair style
+blowout; hair
+~ 1980s and 1990s hair; 1980-1999 > 2014-2016
+
+@ women 2010-2016 UK | the smoky eye look of the late 2000s carried on
+smoky eye; makeup
+@ 2010-2016 UK | women sought to imitate the fake tan and thick "Scouse brow"
+fake tan; makeup
+scouse brow; makeup
+@ 2014-2019 | contouring (a technique
+contouring; makeup
+@ 2015-2016 | such as strobing in 2015 and 2016
+strobing; makeup
+@ 2010-2013 | The early decade's "erased-mouth" and pale pink lipsticks
+pale pink lipstick; makeup; 2010-2011
+matte red lipstick; makeup; 2012-2013
+@ 2015-2016 | mauve and brown shades of lipstick make a comeback from the 1990s
+mauve lipstick; makeup
+brown lipstick; makeup
+~ brown lipstick; 1990-1999 > 2015-2016
+@ 2014-2019 | Dark mascara, false eyelashes, dyed hair and cheek blush
+false eyelashes; makeup
+blush; makeup
+@ 2016-2019 US | In late 2016, minimalist, makeup looks and "dewy" natural skin
+dewy skin; makeup
+@ 2018-2019 | this was called egirl makeup
+egirl makeup; makeup
+@ unisex 2010-2019 | Traditional, Old school tattoo, and retro revival or pinup girl style tattoos
+old school tattoos; accessory
+~ old school tattoos; 1940-1959 > 2010-2019
+@ | Lip piercings, tongue piercings, and stretched earlobes
+lip piercing; accessory
+stretched earlobes; accessory
+@ | More extreme body modifications, including facial tattoos
+face tattoo; accessory
+@ men 2010-2019 | Facial hair was a major trend throughout the decade
+full beard; hair
+heavy stubble; hair
+@ | These were influenced by the hipster look and its associated lumbersexual trend
+lumbersexual; subculture
+
+// The 2020s are still running: "throughout the decade" ends at 2026, the year this was extracted.
+# 2020s-in-fashion
+
+@ unisex 2020-2026 | It has been largely inspired by styles of the late 1970s to late 1980s
+~ late 1970s to late 1980s styles; 1977-1989 > 2020-2026
+~ late 1990s to mid-2000s styles; 1997-2006 > 2020-2026
+~ 1940s styles; 1940-1949 > 2020-2026
+~ 1950s styles; 1950-1959 > 2020-2026
+~ 1960s styles; 1960-1969 > 2020-2026
+modern medieval; subculture
+boho-chic; subculture
+indie sleaze; subculture
+@ 2020-2026 | The early and mid 2020s were driven by microtrends
+microtrends; subculture
+@ 2020-2026 | Thrifting also exploded in popularity
+thrifting; subculture
+@ 2020-2021 | People began wearing masks in different fabrics, colors, and patterns
+face mask; accessory
+@ 2020-2023 | a resurgence of 1980s-inspired styles such as scrunchies
+~ 1980s styles; 1980-1989 > 2020-2023
+scrunchie; accessory
+80s hairstyles; hair
+@ 2020-2023 US | students in both K-12 schools and higher education increasingly favored comfortable clothing
+pajamas; garment
+crew socks; accessory
+athleisure; subculture
+@ 2020-2023 US | including pajama-style pants and loungewear
+pajama pants; garment
+loungewear; garment
+@ 2020-2026 | This sparked the rise of the "anti-fashion" trend
+anti-fashion; subculture
+@ 2020-2026 | Athletic wear such as sweat-suits, and sneakers remained staples
+sweatsuit; garment
+sneakers; footwear
+@ | Yoga Pants and sports bras  remained popular
+yoga pants; garment; women
+sports bra; garment; women
+5-inch inseam shorts; garment; men
+hoodie; garment; men
+@ 2020-2026 | Gen Z professionals are increasingly adopting activewear
+activewear; garment
+@ 2020-2026 | maximalist fashion resurfaced on the runway
+maximalism; subculture
+@ 2020-2026 | streetwear maintained the go-to choice
+streetwear; subculture
+@ 2020-2023 | From 2020-2023 there was a widespread rejection of the form-fitting 2010s fashion
+loose-fitting; silhouette
+@ 2020-2023 | the slim-fitting business suits of the previous decade went out of style
+loose suits; garment; men; 2021-2023
+@ 2020-2023 | Gen Z opted for crew socks
+crew socks; accessory
+@ | The term cheugy describes "tacky millennial fashion."
+cheugy; subculture
+@ 2020-2023 | microtrends like the Y2K revival and early 2010s nostalgia
+~ y2k; 1997-2004 > 2020-2023
+~ early 2010s; 2010-2013 > 2020-2023
+@ 2022-2025 | From 2022 to 2025, clothing with bold logos began to lose popularity
+quiet luxury; subculture
+@ 2022-2025 | This trend was also connected to the rise of the “old-money” aesthetic
+old money; subculture
+
+@ women 2020-2023 | Y2K women's fashion from the late 1990s and 2000s became a major influence
+y2k fashion; subculture
+~ y2k fashion; 1997-2009 > 2020-2023
+@ 2020-2023 sub=y2k_fashion | Popular shirts, coats, and dresses from this time included puffer jackets
+puffer jacket; garment
+deadstock fabric; fabric
+sweatshirt; garment
+high-waisted pants; garment
+tucked-in sweater; garment
+camisole; garment
+crop top; garment
+low-rise miniskirt; garment
+brocade topcoat; garment
+midriff-baring top; garment
+ribbed turtleneck; garment
+ed hardy t-shirt; garment
+off-the-shoulder top; garment
+metallic jacket; garment
+shift dress; garment
+pantywaist top; garment
+cashmere cardigan; garment
+dogtooth check jacket; garment
+dogtooth; pattern
+~ dogtooth check jacket; 1980-1989 > 2020-2023
+@ 2020-2023 | Popular shoes and accessories included Crocs
+crocs; footwear
+platform sandals; footwear
+knee-high boots; footwear
+ballet flats; footwear
+white sneakers; footwear
+air force 1s; footwear
+fringed handbag; accessory
+recycled plastic earrings; accessory
+white bralette; garment
+cable knit scarf; accessory
+chelsea boots; footwear
+doc martens; footwear
+@ 2020-2023 | Some women also shifted to vintage and cruelty-free clothing
+vintage clothing; garment
+cruelty-free; fabric
+@ UK | In the UK, a number of women rejected nylon
+tencel; fabric
+linen; fabric
+organic cotton; fabric
+recycled polyester; fabric
+@ 2020-2023 | Generation Z girls in India, Pakistan and Sri Lanka repurposed the sari
+repurposed sari; garment
+@ 2021-2024 | The spring of 2021 saw a revival of psychedelic mid-to-late 1960s fashion
+psychedelic; subculture
+~ psychedelic; 1965-1969 > 2021-2024
+@ 2021-2024 | Clothing such as miniskirts, slim-fit capri pants
+miniskirt; garment
+capri pants; garment
+flared trousers; garment
+patched jeans; garment
+gingham shorts; garment
+cropped slim jeans; garment
+@ 2021-2024 | Bridgerton inspired and popularized empire-line
+empire line; silhouette
+milkmaid dress; garment
+maxi dress; garment
+@ | Shoes included ballet flats or hippie-styled sandals
+hippie sandals; footwear
+boho skirt; garment
+@ | Gingham vests and thigh skimming jackets were popular outerwear
+gingham vest; garment
+gingham; pattern
+thigh skimming jacket; garment
+@ | Copenhagen laced blouses with a Danish influence
+copenhagen blouse; garment
+@ 2020-2022 | From 2020 to 2022, many subtrends emerged from this so-called comfortcore movement
+comfortcore; subculture
+@ 2020-2022 | A nostalgia-driven sub-trend was cottagecore
+cottagecore; subculture
+grandmacore; subculture
+fairycore; subculture
+farmcore; subculture
+goblincore; subculture
+@ 2020-2022 sub=cottagecore | The cottagecore style is defined by pastel colors
+pastel colours; colour
+@ 2020-2022 sub=cottagecore | Typical clothing includes prairie dresses
+prairie dress; garment
+gingham mini-dress; garment
+gypsy top; garment
+floral embroidery; pattern
+hippie maxi dress; garment
+~ hippie maxi dress; 1966-1969 > 2020-2022
+@ 2020-2025 UK | An urban cottagecore trend known as "allotment chic"
+allotment chic; subculture
+@ UK sub=allotment_chic | Key garments included oversized linen gilets
+linen gilet; garment
+twill maxi skirt; garment
+pinafore dress; garment
+cropped dungarees; garment
+chunky cardigan; garment
+earth tones; colour
+sage green; colour
+marigold yellow; colour
+ecru; colour
+@ 2020-2023 US | "Retirement-wear" was a subtrend
+retirement-wear; subculture
+@ 2022 US | The 2022 trend "coastal grandmother"
+coastal grandmother; subculture
+@ 2022 US sub=coastal_grandmother | It combined elements of cottagecore with spring and fall beachwear
+white jeans; garment
+cashmere turtleneck; garment
+pink flip-flops; footwear
+woven tote bag; accessory
+straw sun hat; accessory
+
+@ women 2023-2026 | This "dopamine dressing" movement featured long skirts
+dopamine dressing; subculture
+long skirt; garment
+belted maxi dress; garment
+thigh split; silhouette
+gold jewelry; accessory
+pearl jewelry; accessory
+neon blue tights; garment
+~ 1980s colour; 1980-1989 > 2023-2026 | vibrant clothing made a striking comeback
+@ 2023-2026 sub=dopamine_dressing | Oversized striped cardigans, multicolored silk skirts
+oversized striped cardigan; garment
+silk skirt; garment
+seashell print; pattern
+strappy sandals; footwear
+@ 2023-2026 sub=dopamine_dressing | The style included contrasting stripe pants
+stripe pants; garment
+ugg boots; footwear
+floral maxi skirt; garment
+platform shoes; footwear
+red rain boots; footwear
+@ 2023-2026 sub=dopamine_dressing | Shimmery jumpsuits, knitted dresses
+jumpsuit; garment
+knitted dress; garment
+leather pilot jacket; garment
+faux fur collar; garment
+vertical stripes; pattern
+bootcut trouser suit; garment
+glitter jeans; garment
+@ 2023-2026 | known as "Italian garden party core"
+italian garden party core; subculture
+pink mary janes; footwear
+fruit print; pattern
+straw hat; accessory
+peplum dress; garment
+gladiator sandals; footwear
+@ 2023-2026 | Big, oversized garments were often made from translucent materials
+oversized; silhouette
+translucent fabric; fabric
+cutouts; silhouette
+@ | such as low-cut waists on the pants or tops with strappy necklines
+low-cut waist; silhouette
+strappy neckline; garment
+@ 2023-2025 UK | luxury fashions often with shiny or metallic detailing became popular evening wear
+glamour wear; subculture
+metallic; fabric
+@ 2023-2025 sub=glamour_wear | Dresses were usually either short or asymmetrical
+asymmetrical dress; garment
+metallic colours; colour
+sequins; fabric
+@ 2023-2025 sub=glamour_wear | Sometimes dresses would be decorated with ribbons
+ribbons; accessory
+feathers; accessory
+polka dots; pattern
+@ 2023-2025 sub=glamour_wear | Other popular options included knitted dresses featuring Nordic patterns
+nordic pattern; pattern
+gothic midi dress; garment
+@ 2023-2025 sub=glamour_wear | Popular tops were satin blouses
+satin blouse; garment
+tuxedo suit; garment
+@ 2023-2025 sub=glamour_wear | Trousers were often flared or silver
+silver trousers; garment
+@ 2023-2025 sub=glamour_wear | Alternatively, some went for an opposite feel with sequined tuxedo jackets
+sequined tuxedo jacket; garment
+western shirt; garment
+fringe jacket; garment
+@ 2023-2025 sub=glamour_wear | Footwear would often include rhinestone cowboy boots
+rhinestone cowboy boots; footwear
+mary janes; footwear
+pointy court shoes; footwear
+block heel knee-high boots; footwear
+@ 2023-2025 sub=glamour_wear | Popular accessories included silver or enamel jewelry
+silver jewelry; accessory
+enamel jewelry; accessory
+small leather handbag; accessory
+baguette bag; accessory
+@ 2024-2026 | Ballerina-inspired fashion in the mid-2020s
+balletcore; subculture
+@ 2024-2026 sub=balletcore | This trend featured soft tulle
+tulle; fabric
+lace; fabric
+wrap top; garment
+ballerina skirt; garment
+bow ballet flats; footwear
+@ 2024-2026 sub=balletcore | It highlighted a feminine and romantic look
+flowy skirt; garment
+bike shorts; garment
+@ 2024-2026 sub=balletcore | Capped-sleeve bodysuits and off-the-shoulder tops
+capped-sleeve bodysuit; garment
+@ 2024-2026 sub=balletcore | The trend also influenced hairstyles like soft buns
+soft bun; hair
+loose waves; hair
+ribbon choker; accessory
+@ 2025 | Modern African clothing featured prominent stripes and diamond motifs
+african fashion; subculture
+diamond motif; pattern
+@ 2025 | Satin blouses, kaftans repurposed as dresses
+kaftan dress; garment
+beaded sandals; footwear
+fish leather handbag; accessory
+@ 2025-2026 US | neo-medieval, gothic and folk costume inspired outfits
+neo-medieval; subculture
+@ 2025-2026 US sub=neo-medieval | Sometimes known as bardcore or castle-core
+bardcore; subculture; sub=-
+velvet; fabric
+jacquard; fabric
+brocade; fabric
+fur; fabric
+~ neo-medieval; 1100-1500 > 2025-2026
+@ 2025-2026 US sub=neo-medieval | Popular items included ankle-length skirts
+ankle-length skirt; garment
+long shift dress; garment
+corset; garment
+fur lined cloak; garment
+studded leather jacket; garment
+manuscript tattoo; accessory
+wooden beads; accessory
+heraldry motif; pattern
+oversized buckle belt; accessory
+pointed boots; footwear
+chain mail jewelry; accessory
+
+@ men 2020-2023 | bringing back Y2K men's fashion from the late 1990s and 2000s
+~ y2k menswear; 1997-2009 > 2020-2023
+@ | Popular trends across the world included crew neck shirts
+crew neck shirt; garment
+woodland camo cap; accessory
+straight leg jeans; garment
+multicolour motif shirt; garment
+tracksuit; garment
+jogger pants; garment
+trench coat; garment
+leather reefer jacket; garment
+messenger bag; accessory
+clubwear; garment
+@ 2022 UK | During the 2022 FIFA World Cup, Welsh fans brought back various 2000s fashion trends
+~ 2000s menswear; 2000-2009 > 2022-2022
+@ 2022 UK | These included hip-hop-inspired track jackets
+track jacket; garment
+athletic tank top; garment
+wide-leg jeans; garment
+turtleneck sweater; garment
+burberry check; pattern
+neon socks; accessory
+cargo pants; garment
+bomber jacket; garment
+@ 2020-2023 | Common footwear included classic Air Jordan sneakers
+air jordans; footwear
+creeper sole loafers; footwear
+desert boots; footwear
+vans; footwear
+timberlands; footwear
+gucci loafers; footwear
+duck boots; footwear
+beatle boots; footwear
+hiking sandals; footwear
+converse high tops; footwear
+air max; footwear
+worker boots; footwear
+army surplus combat boots; footwear
+@ 2020-2023 UK | Employees returning to the office frequently combined 1990s fashion–inspired business casual
+business casual; subculture
+~ 1990s business casual; 1990-1999 > 2020-2023
+monotone sneakers; footwear
+dark grey sweatpants; garment
+@ 2020-2023 | digital smart watches with timers replaced analog wristwatches
+smart watch; accessory
+@ 2020-2023 UK | keffiyehs were used in an attempt to block viruses
+keffiyeh; accessory
+@ 2020-2026 | 1970s and 1980s styles maintained a steady presence
+~ 1970s and 1980s menswear; 1970-1989 > 2020-2026
+@ 2020-2026 | Clothing such as pinstripes, textured knits
+pinstripe; pattern
+vertical stripe knit; garment
+leather waistcoat; garment
+corduroy; fabric
+power suit; garment
+shoulder pads; silhouette
+pleated trousers; garment
+@ 2020-2026 | Shirts with large and pointed collars became trendy again
+pointed collar; garment
+~ pointed collar; 1970-1979 > 2020-2026
+@ 2020-2024 UK | popular clothing styles in the UK and the US included sports-logo
+sports logo clothing; garment
+colour block; pattern
+harrington jacket; garment
+brothel creepers; footwear
+@ 2020-2024 UK | Miami Vice-inspired suits were also trendy
+miami vice suit; garment
+~ miami vice suit; 1984-1989 > 2020-2024
+@ 2020-2024 | Other favored items were baseball jackets
+baseball jacket; garment
+stonewashed denim jacket; garment
+sheepskin trucker jacket; garment
+@ 2020-2024 | Aviator sunglasses, brown shearling flight jackets
+aviator sunglasses; accessory
+shearling flight jacket; garment
+plaid suit; garment
+striped cardigan; garment
+white converse; footwear
+@ 2020-2024 | Tan gabardine trench coats, preppy Aran and Fair Isle cardigans
+gabardine trench coat; garment
+aran cardigan; garment
+fair isle; pattern
+safari suit; garment
+@ | Double-breasted blazers inspired by 1940s styles
+double-breasted blazer; garment
+~ double-breasted blazer; 1940-1949 > 2020-2024
+@ 2020-2024 | Camp collar shirts with bold prints
+camp collar shirt; garment
+corduroy sports coat; garment
+wool scarf; accessory
+tricolour socks; accessory
+vintage graphic t-shirt; garment
+@ 2021-2024 | Other desired articles of clothing included stylized representations of palm trees
+palm tree print; pattern
+1980s movie poster t-shirt; garment
+@ 2020-2023 US | 5-inch inseam shorts became popular in the U.S.
+5-inch inseam shorts; garment
+@ | these shorts earned nicknames like
+hoochie daddy shorts; garment
+@ 2020-2026 US | Workwear has evolved from being popular among blue-collar Americans
+workwear; subculture
+@ US sub=workwear | which include work boots, crewneck shirts, and overalls
+work boots; footwear
+overalls; garment
+@ 2021-2026 | Genderless fashion has gained popularity
+genderless fashion; subculture
+@ 2021-2026 US sub=genderless_fashion | Influences include 1980s fashion, anime, and K-pop
+dyed hair; hair
+makeup for men; makeup
+short shorts; garment
+knee socks; accessory
+@ 2021-2026 sub=genderless_fashion | Men on the red carpet are wearing more accessories
+feather boa; accessory
+pearl necklace; accessory
+kimono shirt; garment
+lace blouse; garment
+tunic; garment
+@ 2021-2026 sub=genderless_fashion | Footwear includes boots with stacked Cuban heels
+cuban heel boots; footwear
+crop top; garment
+ugg boots; footwear
+kilt; garment
+@ 2021-2026 sub=genderless_fashion | Some are seen in mint green safari jackets
+safari jacket; garment
+nudie suit embroidery; pattern
+puffy sleeves; silhouette
+flared trousers; garment
+@ 2021-2026 sub=genderless_fashion | Additionally, transparent shirts and shawl lapel sports coats
+transparent shirt; garment
+shawl lapel; garment
+@ 2021-2026 sub=genderless_fashion | Oversized silk shirts are fashionable
+oversized silk shirt; garment
+gold lame suit; garment
+fuchsia; colour
+@ 2021-2026 | drag queen-inspired outfits went mainstream
+drag; subculture
+@ 2023-2024 UK | red, white, and blue were the main colors
+red white and blue; colour
+@ 2023-2024 UK | Western shirts with pearl snaps returned to fashion
+pearl snap western shirt; garment
+~ pearl snap western shirt; 1970-1979 > 2023-2024
+madras; pattern
+@ 2023-2024 | Popular clothing included moccasins
+moccasins; footwear
+fringed denim waistcoat; garment
+navy suit; garment
+wrangler jeans; garment
+levi's jeans; garment
+@ 2023-2024 | Suede fringe jackets became trendy
+suede fringe jacket; garment
+@ 2023-2024 | Straight leg jeans replaced skinny jeans
+straight leg jeans; garment
+@ 2023-2024 | Other fashion items included stetsons
+stetson; accessory
+pinstripe baseball jersey; garment
+striped necktie; accessory
+@ 2023-2024 | Baggy white pants, Union Jack motifs
+baggy white pants; garment
+union jack; pattern
+western yoke sport coat; garment
+@ 2023-2024 | Barrel jeans, duster coats like those seen in the Yellowstone TV series
+barrel jeans; garment
+duster coat; garment
+college sweater; garment
+striped football shirt; garment
+@ 2023-2024 | Chelsea boots with cowboy boot styling
+western chelsea boots; footwear
+boating stripe blazer; garment
+sweater vest; garment
+@ 2023-2024 UK | Howler Brothers gilets, shirts, and suits worn open to show the chest
+gilet; garment
+open shirt; silhouette
+boxy leather reefer jacket; garment
+@ 2024 UK | The "grandpacore" fashion trend of 2024
+grandpacore; subculture
+~ grandpacore; 1947-1963 > 2024-2024
+@ 2024 UK sub=grandpacore | It draws inspiration from the fashion sensibilities of grandfathers
+knit polo shirt; garment
+braces; accessory
+loafers; footwear
+dress socks; accessory
+wide pleated pants; garment
+tweed; fabric
+flat cap; accessory
+@ 2024 sub=grandpacore | In the summer, grandpacore style takes on a relaxed
+linen camp collar shirt; garment
+pleated shorts; garment
+boat shoes; footwear
+striped polo shirt; garment
+@ | Beaded jewelry is often added
+beaded jewelry; accessory
+@ 2024-2026 | aquatic-themed fashion also began to grow in popularity
+aquatic fashion; subculture
+shell details; accessory
+@ 2025 UK | The "mid-century modern" inspired formal wear trend of fall 2025
+mid-century modern; subculture
+double-breasted sport coat; garment
+high-waisted pants; garment
+~ mid-century modern; 1950-1963 > 2025-2025
+@ 2025 UK | Black and checked suits declined in popularity in favor of charcoal
+charcoal; colour
+navy pinstripe; pattern
+beige; colour
+@ 2025 UK | Common accessories included cashmere wool scarfs
+cashmere scarf; accessory
+flat cap; accessory
+chelsea boots; footwear
+~ peaky blinders flat cap; 1919-1929 > 2025-2025
+@ 2020-2023 US | At black tie events in America the colorful velvet tuxedos
+velvet tuxedo; garment
+
+@ unisex 2020-2023 | alternative fashion drew on past subcultures like emo
+alternative fashion; subculture
+~ emo; 2005-2009 > 2020-2023
+~ pop punk; 1997-2006 > 2020-2023
+~ scene; 2008-2014 > 2020-2023
+@ 2020-2023 UK sub=alternative_fashion | Alternative music fans from the UK and the US often wore graphic t-shirts
+graphic t-shirt; garment
+platform boots; footwear
+fishnet tights; garment
+bdsm collar; accessory
+bold eye makeup; makeup
+neon accents; colour
+hi-top sneakers; footwear
+@ sub=alternative_fashion | Layered clothing, such as oversized t-shirts or jackets
+layering; silhouette
+studded belt; accessory
+tripp pants; garment
+skull jewelry; accessory
+@ 2020-2023 | Brands like Ed Hardy, Hot Topic, and Affliction
+ed hardy; garment
+~ ed hardy; 2007-2010 > 2020-2023
+@ 2020-2023 | The pop-punk revival of early 2020s
+pop-punk; subculture
+e-boy; subculture
+@ 2020-2023 | Hairstyles were frequently androgynous and colorful
+colourful hair; hair
+kemonomimi; accessory
+@ 2020-2026 sub=hip-hop | Throughout the 2020s, streetwear fashion was a continued presence
+hip-hop; subculture; sub=-
+~ 2000s streetwear; 2000-2009 > 2020-2026 | It drew inspiration from 2000s fashion
+@ sub=hip-hop | The style often featured comfortable items like hoodies
+hoodie; garment
+sweatpants; garment
+graphic tee; garment
+@ 2020-2026 UK sub=hip-hop | Popular items include slogan T-shirts
+slogan t-shirt; garment
+black leather jacket; garment
+black bandana; accessory
+dark glasses; accessory
+skull mask; accessory
+morale patches; accessory
+tactical vest; garment
+camouflage; pattern
+@ 2022-2026 US | The Opium aesthetic emerged as a subculture
+opium; subculture
+@ sub=opium | The aesthetic was characterized by luxury items
+oversized leather jacket; garment
+black and silver jewelry; accessory
+@ sub=opium | BDSM-inspired details, such as chains and harnesses
+chains; accessory
+harness; accessory
+@ 2020-2023 US | American indie kids adopted a youthful aesthetic
+kidcore; subculture
+indie; subculture
+@ 2020-2023 US sub=kidcore | turning to thrift stores like Goodwill
+tennis skirt; garment
+sweater vest; garment
+cow print; pattern
+mom jeans; garment
+oversized hoodie; garment
+cardigan; garment
+doc martens; footwear
+shortalls; garment
+bucket hat; accessory
+shoestring belt; accessory
+fuzzy bag; accessory
+@ 2022-2023 | the soft grunge fashion style of the early to mid–2010s began to experience a resurgence
+soft grunge; subculture
+~ soft grunge; 2012-2015 > 2022-2023
+@ 2020-2022 | as a reaction against the clean girl aesthetic
+clean girl; subculture
+@ 2022-2026 | The indie sleaze revival of the 2020s
+indie sleaze; subculture
+electroclash; subculture
+~ indie sleaze; 2006-2012 > 2022-2026
+@ 2022-2026 sub=indie_sleaze | It features skin-baring late 2000s style clothing
+miniskirt; garment
+smudged eyeliner; makeup
+lime green; colour
+slip dress; garment
+high-waisted shorts; garment
+@ 2022-2026 sub=indie_sleaze | The look embraces rebellious aesthetics
+chunky boots; footwear
+leather jacket; garment
+dark makeup; makeup
+@ 2024 | Charli XCX also plays a role in the resurgence
+brat; subculture; sub=indie_sleaze
+@ 2020-2023 UK | British indie pop fans favored a darker
+indie rock revival; subculture
+~ british invasion; 1964-1966 > 2020-2023 | Critics have compared the early 2020s indie rock revival
+@ 2020-2023 UK sub=indie_rock_revival | Artists such as Sam Fender, Wet Leg
+velvet tuxedo jacket; garment
+paisley tuxedo jacket; garment
+dark-wash slim-fit jeans; garment
+striped polo shirt; garment
+white t-shirt; garment
+~ 1960s mod; 1960-1969 > 2020-2023 | new clothes made in retro 1960s styles by brands like Madcap England
+@ 2020-2023 UK sub=indie_rock_revival | Common accessories included bucket hats
+plaid miniskirt; garment
+polka dot dress; garment
+football shirt; garment
+@ 2020-2023 UK sub=indie_rock_revival | Other items included blouses, Argyle golfing sweaters
+argyle sweater; garment
+prince of wales check; pattern
+@ 2020-2023 UK sub=indie_rock_revival | Their outfits often featured checked western shirts
+checked western shirt; garment
+ripped jeans; garment
+red doc martens; footwear
+pointed beatle boots; footwear
+bowling shoes; footwear
+parka; garment
+@ 2020-2025 | The dark academia or old money aesthetic of the early to mid 2020s
+dark academia; subculture
+~ dark academia; 1930-1949 > 2020-2025
+@ sub=dark_academia | Oversized cardigan sweaters, oxford blue rowing blazers
+oversized cardigan; garment
+rowing blazer; garment
+plaid skirt; garment; women
+dark turtleneck; garment
+tights; garment; women
+oxford shoes; footwear
+leather satchel; accessory
+twill jogger pants; garment
+houndstooth; pattern
+tweed sport coat; garment
+@ sub=dark_academia | The typical color palette consisted primarily of black
+brown; colour
+dark green; colour
+@ 2020-2025 US | A closely related style, known as "light academia"
+light academia; subculture
+dusty colours; colour
+argyle; pattern
+~ light academia preppy; 1980-1983 > 2020-2025
+@ women 2020-2025 | Preppy girls appropriated the VSCO style
+preppy; subculture
+lululemon; garment
+@ unisex 2020-2023 | Key items include oversized sweaters
+oversized sweater; garment; sub=goblincore
+long skirt; garment; sub=goblincore
+floral dress; garment; sub=goblincore
+@ women 2020-2023 | Fairy grunge combined the aesthetics of fairycore
+fairy grunge; subculture
+coquette; subculture
+@ | Fairy grunge can be seen as a natural extension of the kinderwhore style
+kinderwhore; subculture
+~ kinderwhore; 1990-1995 > 2020-2023
+@ sub=fairy_grunge | Fairy grunge often included oversized t-shirts
+nightgown; garment
+mittens; accessory
+skull pattern; pattern
+mesh tights; garment
+leg warmers; garment
+demonia shoes; footwear
+fairy wings; accessory
+elf ears; accessory
+@ 2020-2026 sub=coquette | Heart-shaped sunglasses, pastel colors
+heart-shaped sunglasses; accessory
+cherry print; pattern
+hair bow; accessory
+pigtails; hair
+lace dress; garment
+@ 2022-2023 | It became popular in 2022 and 2023, especially following the release of the Barbie movie
+barbiecore; subculture
+@ 2022-2023 sub=barbiecore | The aesthetic featured a color palette with bright pinks
+hot pink; colour
+@ 2022-2023 sub=barbiecore | The fashion included fitted dresses
+fitted dress; garment
+satin; fabric
+glitter; fabric
+@ 2022-2023 sub=barbiecore | Accessories like oversized sunglasses
+oversized sunglasses; accessory
+platform shoes; footwear
+bold jewelry; accessory
+@ 2022-2023 | McBling, a similar aesthetic
+mcbling; subculture
+@ 2023 sub=mcbling | Millennial pink as worn by Margot Robbie
+millennial pink; colour
+rhinestones; accessory
+small handbag; accessory
+@ unisex 2017-2026 | Gorpcore is a style that emerged in the late 2010s
+gorpcore; subculture
+@ 2017-2026 sub=gorpcore | A significant part of this style category is defined by the earthy and muted tones
+olive green; colour
+khaki; colour
+horizon blue; colour
+@ 2017-2026 sub=gorpcore | Apparel pieces that make up the trend include down jackets
+down jacket; garment
+body warmer; garment
+anorak; garment
+rucksack; accessory
+utility pants; garment
+trekking shirt; garment
+knit cap; accessory
+big headphones; accessory
+racer glasses; accessory
+@ 2020-2023 | Jirai Kei, literally means "landmine type"
+jirai kei; subculture
+@ sub=jirai_kei | Jirai Meiku (meaning "mine makeup")
+jirai meiku; makeup
+
+@ women 2020-2023 | Popular styles included curtain bangs, 1980s, 1990s and early 2000s-inspired bangs
+curtain bangs; hair
+hair extensions; hair
+ponytail; hair
+twin pigtails; hair
+french braid; hair
+wolf cut; hair
+natural hair; hair; US
+@ 2020-2023 UK | 1960s-inspired beehive hairdos were popularized
+beehive; hair
+~ beehive; 1960-1966 > 2020-2023
+@ 2021-2022 | Early 2000s fashion-inspired straightened and brightly dyed hair
+brightly dyed hair; hair
+~ brightly dyed hair; 2000-2004 > 2021-2022
+@ 2020-2026 | common hair accessories included pearl and sequin hair clips
+hair clips; accessory
+headband; accessory
+bandana; accessory
+@ 2020-2021 | some women in the UK, the US, and Asia experimented with DIY hairstyles
+bob cut; hair
+crop; hair
+partially shaved head; hair
+pixie cut; hair
+@ 2023-2026 UK | a longer straightened version of the bob cut
+long bob; hair
+@ 2024 | In 2024, ultra-long hairstyles made a comeback
+ultra-long hair; hair
+@ men 2020-2026 | In Western countries, beards were generally kept short
+short beard; hair
+@ 2020-2023 | Popular styles included curtain bangs, permed hair
+curtain bangs; hair
+broccoli haircut; hair
+wet mop; hair
+mullet; hair; US
+edgar cut; hair
+shaggy hair; hair
+@ 2021-2026 US | Many younger Black American men opted for natural hair
+skin fade; hair
+textured caesar cut; hair
+afro; hair
+dreadlocks; hair
+@ 2020-2021 UK | many balding men in the UK, the US, and Ireland continued to get buzzcuts
+buzzcut; hair
+@ 2022 | Young males began growing mustaches
+moustache; hair
+@ 2025 UK | By 2025 the mod haircut and large sideburns had made a comeback
+mod haircut; hair
+sideburns; hair
+~ mod haircut; 1994-1997 > 2025-2025
+@ 2025 | At the same time, quiffs, buzzcuts, the caesar cut
+quiff; hair
+tiktok hair; hair
+
+@ unisex 2020-2026 | One of the most talked-about trends in skincare was "slugging,"
+slugging; makeup
+@ | Another popular trend was gua sha
+gua sha; makeup
+@ women 2020-2023 US | the "clean girl" look became popular
+clean girl; makeup
+@ 2020-2023 sub=clean_girl | The style featured slicked-back hair
+slicked-back hair; hair
+nude eyeshadow; makeup
+fluffy brows; makeup
+dewy skin; makeup
+bleached eyebrows; makeup
+liquid blush; makeup
+glossy lips; makeup
+@ 2022 UK | The maximalist graphic eyeliner trend of 2022
+graphic eyeliner; makeup
+@ 2025 US | "Republican makeup"
+republican makeup; makeup
+@ unisex 2021-2026 | From 2021 onwards, new tattoo styles emerged
+japanese tattoo; accessory
+tramp stamp; accessory
+fine line tattoo; accessory
+dot work tattoo; accessory
+~ tramp stamp; 2000-2006 > 2021-2026
+@ 2020-2026 | Another widespread trend of the early and mid 2020s was "Turkey teeth"
+turkey teeth; makeup
+@ 2020-2026 US | the return of many retro stylings of eyewear
+cat eye glasses; accessory
+aviator sunglasses; accessory
+rimless glasses; accessory
+round glasses; accessory
+@ 2020-2026 | 1960s fashion inspired glasses with clear and transparent frames
+clear frame glasses; accessory
+~ clear frame glasses; 1960-1969 > 2020-2026
+
+# grunge-fashion
+
+@ unisex 1986-1996 US | This subculture emerged in mid-1980s Seattle
+grunge; subculture
+@ US sub=grunge | Grunge fashion is characterized by durable or hardy thrift store clothing
+thrift store clothing; garment
+loose fit; silhouette
+androgynous; silhouette
+@ 1990-1996 US sub=grunge | Flannel shirts and Doc Martens boots were worn as an anti-fashion statement
+flannel shirt; garment
+doc martens; footwear
+anti-fashion; subculture
+@ 1990-1994 US sub=grunge | his Seattle thrift-store look ran the gamut
+lumberjack workwear; garment; men
+feminine dresses; garment
+~ 40s-by-way-of-70s dresses; 1940-1979 > 1990-1994
+@ women 1990-1995 US sub=kinderwhore | Courtney Love, was mostly known for her "kinderwhore" sense of style
+kinderwhore; subculture; sub=grunge
+@ women 1990-1995 US sub=kinderwhore | The look consisted of barrettes
+barrettes; accessory
+tiara; accessory
+ripped tights; garment
+mary janes; footwear
+slip; garment
+peter pan collar dress; garment
+@ unisex 1990-1996 US sub=grunge | made their mark on the grunge fashion scene with flannel shirts
+leather jacket; garment
+corduroy jacket; garment
+kilt; garment
+shorts over leggings; silhouette
+ripped jeans; garment
+snapback; accessory
+@ men 1990-1996 sub=grunge | Men wear second-hand or shabby T-shirts with slogans
+slogan t-shirt; garment
+band t-shirt; garment
+@ men sub=grunge | A tartan shirt might accompany the T-shirt
+tartan shirt; garment
+faded jeans; garment
+@ men sub=grunge | Black combat-style boots, such as Doc Martens
+combat boots; footwear
+@ women 1990-1999 sub=grunge | In the 1990s, less was more and dressing-down was an acceptable norm
+dressing down; subculture
+@ women 1990-1999 sub=grunge | For shoes, women started wearing clunky combat boots
+clunky combat boots; footwear
+@ sub=grunge | They typically wore slip dresses with flannels
+slip dress; garment
+tartan; pattern
+layering; silhouette
+@ sub=grunge | Low-rise and ripped, wide-legged jeans were popular
+low-rise jeans; garment
+wide-leg jeans; garment
+@ sub=grunge | The clothing was paired with simple jewelry such as chokers
+choker; accessory
+hoop earrings; accessory
+dark lipstick; makeup
+@ 1992-1994 sub=grunge | Bell-bottom jeans from the 1970s were popular again by 1992
+bell-bottom jeans; garment
+baby-doll t-shirt; garment
+~ bell-bottom jeans; 1970-1979 > 1992-1994
+@ 1993 US sub=grunge | The collection included some iconic grunge items
+printed granny dress; garment
+knitted skullcap; accessory
+@ 1993 US | Jacobs as the creative director of women's design at Perry Ellis
+designer grunge; subculture
+@ unisex 2013 US | the 1990s made a comeback after New York Fashion Week
+~ 1990s grunge; 1990-1994 > 2013-2013
+@ 2013 FR | Yves Saint Laurent and Dries van Noten successfully attempted to re-introduce grunge to the runway
+~ grunge; 1990-1994 > 2013-2013
+@ 2022 | In 2022, Nylon magazine wrote that 1990s Grunge
+~ grunge; 1990-1999 > 2022-2022
+@ 2025 | In June 2025, GQ wrote that grunge style was trending again
+~ grunge; 1990-1999 > 2025-2025
+
+# britpop
+
+@ unisex 1993-1997 UK | The period of Britpop's popularity is generally considered to have lasted from 1993 to 1997
+britpop; subculture
+@ 1993-1997 UK sub=britpop | Britpop bands show elements from the British pop music of the 1960s
+~ 1960s british pop; 1960-1969 > 1993-1997
+~ 1970s glam rock and punk; 1970-1979 > 1993-1997
+~ 1980s indie pop; 1980-1989 > 1993-1997
+@ 1993-1997 UK sub=britpop | The Union Jack became a prominent symbol of the movement
+union jack; pattern
+~ union jack; 1964-1969 > 1993-1997
+@ 1992-1994 US | loud, long-haired Americans have just found themselves condemned
+long hair; hair; men; sub=grunge
+@ 2001-2006 UK | British groups in this vein, including the Libertines
+post-britpop; subculture
+
+# rave
+
+@ unisex 1988-1999 UK | At early rave parties, often costume-like clothes
+rave; subculture
+@ 1988-1993 UK sub=rave | At early rave parties, often costume-like clothes
+protective suit; garment
+safety vest; garment
+gas mask; accessory
+cyberpunk goggles; accessory
+signal colours; colour
+@ 1987-1993 UK sub=rave | Clothing with slogans such as "Peace, Love, Unity" and smiley-face T-shirts
+acid house; subculture; sub=-
+slogan t-shirt; garment
+smiley t-shirt; garment
+smiley; pattern
+@ 1988-1993 UK sub=rave | Further popular themes of the early rave scene were plastic aesthetics
+plastic; fabric
+fetish styles; subculture
+diy; subculture
+retro sportswear; garment
+adidas tracksuit; garment
+transparent top; garment
+crop top; garment
+combat boots; footwear
+camouflage trousers; garment
+~ 1970s; 1970-1979 > 1988-1993
+@ 1990-1999 sub=rave | Common fashion styles of the 1990s include tight-fitting nylon shirts
+nylon shirt; garment
+quilted nylon vest; garment
+bell-bottoms; garment
+neoprene jacket; garment
+studded belt; accessory
+platform shoes; footwear
+flokati fur; fabric
+fluffy boots; footwear
+phat pants; garment
+neon colours; colour
+@ 1990-1999 sub=rave | Also gaudy coloured hair, dreadlocks, tattoos and piercings came into fashion with ravers
+coloured hair; hair
+dreadlocks; hair
+tattoos; accessory
+piercings; accessory
+@ 1990-1999 sub=rave | Widespread accessories included wristbands and collars
+wristbands; accessory
+collar; accessory
+whistle; accessory
+pacifier; accessory
+white gloves; accessory
+glow sticks; accessory
+feather boa; accessory
+oversized sunglasses; accessory
+record bag; accessory
+@ 1990-1993 | In the early 1990s the first commercial rave fashion trends developed from this
+clubwear; subculture
+@ 1990-1999 | For example, the typical gabber or psytrance raver dressed significantly different
+gabber; subculture
+psytrance; subculture
+@ 2000-2026 US sub=rave | Particularly in North America, rave fashion continues to be characterised
+colourful clothing; colour
+kandi; accessory
+@ 2000-2026 sub=rave | This style of attire was again taken up by the fashion industry
+festival fashion; subculture; sub=-
+@ 2000-2026 sub=techno | a strictly black style, partly borrowed from the dark scene
+techno; subculture; sub=-
+all black; colour
+@ 2000-2026 | Certain rave events such as Sensation also have a strict minimalistic dress policy
+all white; colour
+@ 1997-2001 UK | Clubs like Gatecrasher and Cream rose to prominence with dress codes
+superclub; subculture
+@ 1990-1999 US sub=rave | The fairy and pixie craze, with ravers getting fairy tattoos
+fairy wings; accessory
+fairy tattoo; accessory
+@ 1996-1999 US | Candy Raver style, friendship and culture became popular
+candy raver; subculture
+
+# y2k-aesthetic
+
+@ unisex 1997-2004 | Y2K is an internet aesthetic based around products, styles, and fashion
+y2k; subculture
+@ 1997-2004 sub=y2k | The Y2K aesthetic can include synthetic or metallic materials
+synthetic materials; fabric
+metallic materials; fabric
+@ 2020-2026 | As the Y2K term gained more mainstream usage in the 2020s
+~ y2k; 1997-2009 > 2020-2026
+cybercore; subculture
+@ 1997-2004 sub=y2k | characterized by metallic materials (also called chromecore)
+chromecore; fabric
+reflective clothing; fabric
+@ 2020-2026 | Scholar Xiaochun Yang notes that the aesthetics' resurgence correlates with the COVID-19 pandemic
+~ y2k; 1997-2004 > 2020-2026
+@ 2020-2026 | Japan's popular "Y3K" fashion trend
+y3k; subculture
+@ 1997-2004 sub=y2k | Y2K is a retrofuturistic aesthetic, taking notable influence from design trends of the 1970s
+retrofuturism; subculture; sub=-
+~ 1970s design; 1970-1979 > 1997-2004
+@ 1997-2004 sub=y2k | Bright colors such as lime, orange, and hot pink
+lime; colour
+orange; colour
+hot pink; colour
+white; colour
+chrome; colour
+@ 1997-2004 sub=y2k | Animal prints and psychedelic patterns are a holdover from the 1990s
+animal print; pattern
+psychedelic print; pattern
+@ 1997-2004 sub=y2k | Fashion features much more overt sci-fi influence
+pvc; fabric
+futuristic sunglasses; accessory
+tracksuit; garment
+platform shoes; footwear
+wearable technology; accessory
+@ | Y2K may also borrow elements from McBling aesthetic
+mcbling; subculture
+@ 2021-2026 | the term "New Nostalgia", described as "a trend wistful of the Y2K era"
+new nostalgia; subculture
+
+# indie-sleaze
+
+@ unisex 2006-2012 US | Indie sleaze is a fashion style that was popular in the United States and United Kingdom
+indie sleaze; subculture
+~ 1970s vintage; 1970-1979 > 2006-2012 | Characterised by an affordable, messy and lethargic take on vintage fashion styles
+@ 2006-2012 US | the style was particularly popular amongst the hipster subculture and indie rock bands
+hipster; subculture
+@ 1998-2005 US | Originating in the late 1990s and early 2000s amongst New York City's post-punk revival scene
+post-punk revival; subculture
+~ 1960s and 1970s rock; 1960-1979 > 1998-2005 | the style began as a way for bands to visually reference the 1960s and 1970s artists
+@ 2006-2012 UK | In the following years, the style was adopted by English musicians
+~ 1980s and 1990s fashion; 1980-1999 > 2006-2012
+@ 2006-2012 UK | it was embraced by the British landfill indie movement
+landfill indie; subculture
+bloghouse; subculture
+@ 2006-2012 | Vice Media labeled the style an "umbrella aesthetic"
+twee; subculture
+electro-pop; subculture
+@ 2020-2026 | In the early 2020s, indie sleaze experienced cultural resurgence
+~ indie sleaze; 2006-2012 > 2020-2026
+@ 2006-2012 sub=indie_sleaze | Indie sleaze fashion was characterized by traits of 1970s and 1980s fashion
+~ 1970s and 1980s fashion; 1970-1989 > 2006-2012
+~ grunge; 1990-1995 > 2006-2012
+@ 2006-2012 sub=indie_sleaze | Clothes including metallic bodysuits
+metallic bodysuit; garment
+lita boots; footwear
+lame leggings; garment
+shutter shades; accessory
+ballet flats; footwear
+chunky gold jewelry; accessory
+ironic slogan t-shirt; garment
+cropped leather jacket; garment
+striped shirt; garment
+lensless glasses; accessory
+sheer top; garment
+big belt; accessory
+plaid pants; garment
+tennis skirt; garment
+high-top converse; footwear
+layered necklaces; accessory
+fedora; accessory
+motorcycle bag; accessory
+stockings with shorts; garment
+wired headphones; accessory
+band t-shirt; garment
+skinny jeans; garment
+@ 2006-2012 sub=indie_sleaze | Other elements such as galaxy prints, "Aztec" prints, side-swept bangs
+galaxy print; pattern
+aztec print; pattern
+side-swept bangs; hair
+waif-thin; silhouette
+grown-out bleached roots; hair
+smudged eyeliner; makeup
+@ 2006-2012 sub=indie_sleaze | Oftentimes, clothes were bought from American Apparel
+american apparel; garment
+@ 2022-2026 | Isabel Marant wedge sneakers are making a comeback
+wedge sneakers; footwear
+~ wedge sneakers; 2011-2013 > 2022-2026
+@ 2006-2012 UK sub=indie_sleaze | The fashion was commonly known as: hole-filled T-shirts
+holey t-shirt; garment
+ripped tights; garment
+messy hair; hair
+messy makeup; makeup
+@ 1998-2005 US | many of these bands adopted fashion styles reminiscent of 1960s and 1970s rock acts
+~ 1960s and 1970s rock acts; 1960-1979 > 1998-2005
+glam rock; subculture
+@ 2006-2012 UK | combined it with elements of 1980s high fashion and 1990s grunge fashion
+~ 1980s high fashion; 1980-1989 > 2006-2012
+@ 2006-2009 UK | This led to its adoption by electroclash, new rave
+electroclash; subculture
+new rave; subculture
+@ 2008-2012 | the soft grunge fashion style and Internet aesthetic evolved directly from the indie sleaze trend
+soft grunge; subculture
+fishnets; garment; sub=soft_grunge
+choker; accessory; sub=soft_grunge
+combat boots; footwear; sub=soft_grunge
+@ 2021-2026 | Beginning in 2021, the style gained a revived interest
+~ indie sleaze; 2006-2012 > 2021-2026
+@ 2024-2026 | the Brat style which emerged following the 2024 release of Brat by Charli XCX
+brat; subculture
+
+# normcore
+
+@ unisex 2013-2016 | Normcore is a  unisex fashion trend characterized by unpretentious
+normcore; subculture
+jeans; garment; sub=normcore
+t-shirt; garment; sub=normcore
+sweats; garment; sub=normcore
+button-down shirt; garment; sub=normcore
+sneakers; footwear; sub=normcore
+@ 2014 US | In 2014, an article in New York magazine by author Fiona Duncan conflated normcore
+acting basic; subculture
+@ 2013-2016 sub=normcore | Normcore clothes are unisex and are usually casual items
+hoodie; garment
+polo shirt; garment
+short-sleeved button shirt; garment
+sweatpants; garment
+chinos; garment
+shorts; garment
+@ 2013-2016 sub=normcore | The characters featured on the sitcom Seinfeld
+~ seinfeld; 1989-1998 > 2013-2016
+@ women 2013-2016 US | A variation on this concept for women has been called "menocore"
+menocore; subculture
+@ women 2013-2016 US sub=menocore | It is loose and comfortable clothing, usually in light or neutral colors
+loose clothing; silhouette
+neutral colours; colour
+
+# athleisure
+
+@ unisex 2014-2026 | Athleisure is a hybrid style of athletic clothing typically worn as everyday wear
+athleisure; subculture
+@ 2014-2026 sub=athleisure | Athleisure outfits can include tracksuits
+tracksuit; garment
+sports jacket; garment
+hoodie; garment
+yoga pants; garment; women
+tights; garment
+sneakers; footwear
+flats; footwear
+birkenstocks; footwear
+uggs; footwear
+leggings; garment
+shorts; garment
+@ women 2005-2009 | from the popularity of yoga pants that emerged throughout the mid to late 2000s
+yoga pants; garment
+@ unisex 2014-2026 | enabled by scientific development and growth of advanced and cutting-edge textile materials
+technical fabrics; fabric
+@ unisex 1963-1979 | introducing sport-to-street tracksuits in 1963
+tracksuit; garment
+@ 1970-1989 US | By the 1970s, athletic fashion was ubiquitous throughout North American street culture
+athletic fashion; garment
+@ 2020-2026 | By 2020, a so-called "next-gen athleisure" category had emerged
+next-gen athleisure; subculture
+@ 2020-2022 | Some fashion brands that had previously made streetwear or suits pivoted to items like hoodies and jogging trousers
+jogging trousers; garment
+@ 2014-2026 | A type of athleisure sometimes called "technical wear"
+technical wear; garment
+
+# cottagecore
+
+@ women 2018-2026 | Cottagecore was first named on Tumblr in 2018
+cottagecore; subculture
+@ 2018-2026 sub=cottagecore | Hipster fashion of the 2000s and 2010s prefigured many of the aesthetics of cottagecore
+~ hipster vintage; 2005-2015 > 2018-2026
+@ 2018-2026 sub=cottagecore | Prairie clothing, pioneer clothing, homesteader clothing
+prairie clothing; garment
+pioneer clothing; garment
+homesteader clothing; garment
+victorian silhouette; silhouette
+wool; fabric
+calico; fabric
+muslin; fabric
+button-down; garment
+worn leather; fabric
+~ victorian silhouette; 1837-1901 > 2018-2026
+@ 2018-2026 sub=cottagecore | besides floral prints and stripes
+floral print; pattern
+stripes; pattern
+milkmaid neckline; garment
+puff sleeves; silhouette
+ruffles; silhouette
+prairie midi dress; garment
+@ 2018-2026 sub=cottagecore | Marketing commentators noted that the trend fits with already available 1970s-inspired dresses
+lace trim; fabric
+denim; fabric
+slow fashion; subculture
+~ 1970s dresses; 1970-1979 > 2018-2026
+@ 2018-2026 sub=cottagecore | became popular for their frilly, whimsical flowy dresses
+flowy dress; garment
+@ 2018-2026 | is related to similar internet aesthetics including goblincore and dark academia
+goblincore; subculture
+dark academia; subculture
+@ 2020-2026 | The aesthetic gained traction in many online spheres
+~ cottagecore; 2018-2019 > 2020-2026

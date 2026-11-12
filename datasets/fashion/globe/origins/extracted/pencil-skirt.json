@@ -1,0 +1,16 @@
+{
+  "trend_id": "pencil-skirt",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "France",
+      "place_type": "country",
+      "year": 1954,
+      "year_precision": "year",
+      "who": "Christian Dior",
+      "hedged": false,
+      "quote": "The French designer Christian Dior introduced the classic modern pencil skirt in his 1954 Autumn Winter collection.",
+      "note": "Dior introduced it in 1954 collection"
+    }
+  ]
+}

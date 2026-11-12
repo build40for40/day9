@@ -1,0 +1,27 @@
+{
+  "trend_id": "punk",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "United Kingdom",
+      "place_type": "country",
+      "year": 1975,
+      "year_precision": "decade",
+      "who": "Vivienne Westwood and Malcolm McLaren",
+      "hedged": false,
+      "quote": "The early, pre-fame work of designer Vivienne Westwood helped pioneer the look of early British punk with her scene-establishing clothing shops Sex and Seditionaries in the mid-1970s, co-run with Malcolm McLaren who managed the Sex Pistols.",
+      "note": "Westwood shops pioneered British punk look"
+    },
+    {
+      "kind": "rival",
+      "place": "New York City",
+      "place_type": "city",
+      "year": null,
+      "year_precision": null,
+      "who": "Richard Hell",
+      "hedged": true,
+      "quote": "McLaren has credited this style to his first impressions of Richard Hell, while McLaren was in New York City working with New York Dolls. Hell is credited as one of the first to help popularize the stereotypical 'punk' look, spiking his hair and wearing t-shirts that were held together with safety pins.",
+      "note": "McLaren credits Richard Hell in New York"
+    }
+  ]
+}

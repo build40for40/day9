@@ -1,0 +1,16 @@
+{
+  "trend_id": "pillbox-hat",
+  "claims": [
+    {
+      "kind": "root",
+      "place": "Roman Empire",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": "Roman soldiers",
+      "hedged": false,
+      "quote": "During the late Roman Empire, the pileus pannonicus or \"Pannonian cap\", a type of headgear similar to the modern pillbox, was worn by Roman soldiers.",
+      "note": "similar cap worn by Roman soldiers"
+    }
+  ]
+}

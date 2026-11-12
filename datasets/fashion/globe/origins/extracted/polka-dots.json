@@ -1,0 +1,27 @@
+{
+  "trend_id": "polka-dots",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "United States",
+      "place_type": "country",
+      "year": 1800,
+      "year_precision": "century",
+      "who": "Polka club members",
+      "hedged": false,
+      "quote": "In the 19th century, European immigrants brought the Polka dance to the United States, where it exploded in popularity between 1840 and 1890. Polka clubs formed in towns across America, and their members—especially women—began wearing dotted garments as a form of identification.",
+      "note": "polka club members wore dotted garments"
+    },
+    {
+      "kind": "root",
+      "place": "Central Europe",
+      "place_type": "region",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": true,
+      "quote": "It was also at this time, the name “polka dots\" is believed to be connected to an Central European dance called the polka, though the reasons behind this association are varied and mostly discredited.",
+      "note": "name linked to Central European polka dance"
+    }
+  ]
+}

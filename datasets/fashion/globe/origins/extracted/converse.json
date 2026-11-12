@@ -1,0 +1,16 @@
+{
+  "trend_id": "converse",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Malden",
+      "place_type": "city",
+      "year": 1917,
+      "year_precision": "year",
+      "who": "Converse Rubber Shoe Company",
+      "hedged": false,
+      "quote": "Marquis Mills Converse founded the Converse Rubber Shoe Company in 1908 in Malden, Massachusetts. In 1917 the company designed the forerunner of the modern All Star shoe that it marketed under the name of \"Non-Skids\".",
+      "note": "company designed All Star forerunner"
+    }
+  ]
+}

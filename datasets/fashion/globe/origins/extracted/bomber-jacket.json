@@ -1,0 +1,16 @@
+{
+  "trend_id": "bomber-jacket",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "United States",
+      "place_type": "country",
+      "year": 1917,
+      "year_precision": "year",
+      "who": "U.S. Army",
+      "hedged": false,
+      "quote": "The U.S. Army officially established the Aviation Clothing Board in September 1917 and began distributing heavy-duty leather flight jackets; with high wraparound collars, zipper closures with wind flaps, snug cuffs and waists, and some fringed and lined with fur.",
+      "note": "US Army issued leather flight jackets"
+    }
+  ]
+}

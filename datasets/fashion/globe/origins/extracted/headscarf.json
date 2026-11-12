@@ -1,0 +1,16 @@
+{
+  "trend_id": "headscarf",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Mesopotamia",
+      "place_type": "region",
+      "year": -2350,
+      "year_precision": "year",
+      "who": null,
+      "hedged": false,
+      "quote": "The earliest depiction of a turban can be found on a Mesopotamian sculpture dating back to 2350 BCE.",
+      "note": "earliest turban on a sculpture"
+    }
+  ]
+}

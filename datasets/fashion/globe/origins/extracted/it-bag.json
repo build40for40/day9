@@ -1,0 +1,16 @@
+{
+  "trend_id": "it-bag",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Venice",
+      "place_type": "city",
+      "year": 1945,
+      "year_precision": "year",
+      "who": "Giuliana Camerino",
+      "hedged": true,
+      "quote": "One of the first designers credited with creating the concept of the easily identifiable \"status bag\" was Giuliana Camerino, founder in 1945 of the Venetian fashion house Roberta di Camerino.",
+      "note": "early status bag credited to Camerino"
+    }
+  ]
+}

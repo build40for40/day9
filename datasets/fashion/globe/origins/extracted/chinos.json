@@ -1,0 +1,27 @@
+{
+  "trend_id": "chinos",
+  "claims": [
+    {
+      "kind": "root",
+      "place": "India",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "First designed to be used in the military, chino fabric was originally made to be simple, durable and comfortable for soldiers to wear and based on the khaki found in India; the use of natural earth-tone colors also began the move towards camouflage, instead of the brightly colored Tunics used prior.",
+      "note": "based on khaki found in India"
+    },
+    {
+      "kind": "root",
+      "place": "Philippines",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": "Spanish–American War veterans",
+      "hedged": false,
+      "quote": "Trousers of such a fabric gained popularity in the U.S. when Spanish–American War veterans returned from the Philippines with their twill military trousers.",
+      "note": "veterans brought twill trousers home"
+    }
+  ]
+}

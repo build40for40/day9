@@ -1,0 +1,38 @@
+{
+  "trend_id": "paisley",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Paisley",
+      "place_type": "city",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "The English name for the patterns comes from the town of Paisley, in the west of Scotland, a centre for textiles where paisley designs were reproduced using Jacquard looms.",
+      "note": "named after Paisley, Scotland"
+    },
+    {
+      "kind": "root",
+      "place": "Persia",
+      "place_type": "country",
+      "year": 1700,
+      "year_precision": "century",
+      "who": null,
+      "hedged": false,
+      "quote": "Of Iranian/Persian origin, paisley designs became popular in the West in the 18th and 19th centuries, following imports of post-Mughal Empire versions of the design from India, especially in the form of Kashmir shawls, and were then replicated locally.",
+      "note": "Persian motif reached West via India"
+    },
+    {
+      "kind": "root",
+      "place": "Kashmir",
+      "place_type": "region",
+      "year": 1700,
+      "year_precision": "century",
+      "who": "British East India Company",
+      "hedged": false,
+      "quote": "In the 18th and 19th centuries, the British East India Company introduced Kashmir shawls from India to England and Scotland, where they were extremely fashionable and soon duplicated.",
+      "note": "Kashmir shawls imported and copied"
+    }
+  ]
+}

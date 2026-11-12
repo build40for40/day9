@@ -1,0 +1,16 @@
+{
+  "trend_id": "drape-jacket",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "United Kingdom",
+      "place_type": "country",
+      "year": 1930,
+      "year_precision": "decade",
+      "who": null,
+      "hedged": false,
+      "quote": "Drape suits are a British variation of the three-piece suit introduced in the 1930s, in which the cut is full and \"drapes\".",
+      "note": "British drape cut introduced"
+    }
+  ]
+}

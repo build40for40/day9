@@ -1,0 +1,16 @@
+{
+  "trend_id": "prairie-dress",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Western United States",
+      "place_type": "region",
+      "year": 1850,
+      "year_precision": "century",
+      "who": null,
+      "hedged": false,
+      "quote": "Prairie skirts are so-called after their resemblance to the home-sewn skirts worn by pioneer women in the mid-19th century, which in turn are a simplified version of the flared, ruffled skirts characteristic of high-fashion dresses of the 1820s. The style originated as an adaptation of high fashion to the practicalities of rural life in the Western United States.",
+      "note": "pioneer adaptation of high fashion"
+    }
+  ]
+}

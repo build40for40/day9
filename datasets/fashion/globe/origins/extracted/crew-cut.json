@@ -1,0 +1,16 @@
+{
+  "trend_id": "crew-cut",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "United States",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": "university crew teams",
+      "hedged": true,
+      "quote": "The term \"crew haircut\" was most likely coined to describe the hairstyles worn by members of Harvard, Yale, Princeton, Cornell and other university crew teams, which were short to keep the hair from being blown into the face of the rower",
+      "note": "named for rowing teams' short hair"
+    }
+  ]
+}

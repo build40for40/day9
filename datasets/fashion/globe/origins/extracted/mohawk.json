@@ -1,0 +1,27 @@
+{
+  "trend_id": "mohawk",
+  "claims": [
+    {
+      "kind": "root",
+      "place": "Mohawk",
+      "place_type": "people",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": true,
+      "quote": "The mohawk is also sometimes referred to as an iro in reference to the Iroquois, who include the Mohawk people from whom the hairstyle is supposedly derived, though historically the hair was plucked out, rather than shaved.",
+      "note": "said to derive from the Mohawk people"
+    },
+    {
+      "kind": "root",
+      "place": "Pawnee",
+      "place_type": "people",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "Additionally, hairstyles bearing these names more closely resemble those worn by the Pawnee, rather than the Mohawk, Mohicans, Mohegan, or other groups whose names are phonetically similar.",
+      "note": "closer to Pawnee hairstyle"
+    }
+  ]
+}

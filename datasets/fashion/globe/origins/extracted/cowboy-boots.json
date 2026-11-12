@@ -1,0 +1,38 @@
+{
+  "trend_id": "cowboy-boots",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Texas",
+      "place_type": "region",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "The original boot called “cowboy boot” was specifically from Texas and was seldom seen east of the Mississippi.",
+      "note": "original cowboy boot from Texas"
+    },
+    {
+      "kind": "root",
+      "place": "Mexico",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "The boots worn by Mexican vaqueros influenced cowboy boots, although the exact origin of the modern cowboy boot as we know it today is unclear.",
+      "note": "vaquero boots influenced cowboy boots"
+    },
+    {
+      "kind": "root",
+      "place": "Spain",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "Early cowboy boot designs, along with other cowboy accoutrements, were also heavily influenced by the vaquero tradition that developed from a tradition that originated in Spain to the Americas, dating back to the early 16th century.",
+      "note": "vaquero tradition from Spain"
+    }
+  ]
+}

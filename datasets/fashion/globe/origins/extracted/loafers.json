@@ -1,0 +1,27 @@
+{
+  "trend_id": "loafers",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "London",
+      "place_type": "city",
+      "year": null,
+      "year_precision": null,
+      "who": "Wildsmith Shoes",
+      "hedged": false,
+      "quote": "One of the first designs was introduced in London by Wildsmith Shoes, called the Wildsmith Loafer.",
+      "note": "Wildsmith Loafer introduced in London"
+    },
+    {
+      "kind": "rival",
+      "place": "Aurland",
+      "place_type": "city",
+      "year": 1908,
+      "year_precision": "year",
+      "who": "Nils Gregoriusson Tveranger",
+      "hedged": false,
+      "quote": "Shoemaker Nils Gregoriusson Tveranger (1874–1953) in Aurland Municipality, Norway, introduced his first design around 1908.",
+      "note": "Norwegian slip-on shoe design"
+    }
+  ]
+}

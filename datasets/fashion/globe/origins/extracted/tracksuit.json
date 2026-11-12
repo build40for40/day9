@@ -1,0 +1,16 @@
+{
+  "trend_id": "tracksuit",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "France",
+      "place_type": "country",
+      "year": 1920,
+      "year_precision": "year",
+      "who": "Le Coq Sportif",
+      "hedged": false,
+      "quote": "Sweatpants were first invented by French sportswear manufacturer Le Coq Sportif in 1920 to provide athletes with comfort and ease of mobility. As sweatpants became more common, Le Coq Sportif designed the \"Sunday suit\" as a combination of sweatpants and a matching top, for use in home relaxation or daily exercise.",
+      "note": "French firm made sweatpants, then matching suit"
+    }
+  ]
+}

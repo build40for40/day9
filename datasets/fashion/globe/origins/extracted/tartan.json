@@ -1,0 +1,27 @@
+{
+  "trend_id": "tartan",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Falkirk",
+      "place_type": "city",
+      "year": 200,
+      "year_precision": "century",
+      "who": null,
+      "hedged": false,
+      "quote": "The earliest documented tartan-like cloth in Britain, known as the \"Falkirk tartan\", dates from the 3rd century AD. It was uncovered at Falkirk in Stirlingshire, Scotland, near the Antonine Wall.",
+      "note": "earliest documented tartan-like cloth in Britain"
+    },
+    {
+      "kind": "rival",
+      "place": "Xinjiang",
+      "place_type": "region",
+      "year": -2100,
+      "year_precision": "year",
+      "who": null,
+      "hedged": false,
+      "quote": "Today, tartan is mostly associated with Scotland; however, the oldest tartan-patterned twill cloth ever discovered dates to a heterogenous culture of the Tarim Basin, c. 2100 BC through the first centuries AD in what today is Xinjiang, China, southeast of Kazakhstan.",
+      "note": "oldest tartan twill found in Tarim Basin"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "trend_id": "wrap-dress",
+  "claims": [
+    {
+      "kind": "root",
+      "place": "China",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "Wrap-style garments which were tied with sash have very ancient origins in China and were later introduced in Japan influencing the design of the kimono.",
+      "note": "wrap garments with sash began in China"
+    },
+    {
+      "kind": "root",
+      "place": "Japan",
+      "place_type": "country",
+      "year": 1974,
+      "year_precision": "year",
+      "who": null,
+      "hedged": false,
+      "quote": "The wrap dress that she designed in 1974 was a design re-interpretation of the Kimono.",
+      "note": "1974 wrap dress reinterpreted the kimono"
+    }
+  ]
+}

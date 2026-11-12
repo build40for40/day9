@@ -1,0 +1,16 @@
+{
+  "trend_id": "aviator-sunglasses",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Rochester",
+      "place_type": "city",
+      "year": 1929,
+      "year_precision": "year",
+      "who": "Bausch & Lomb with John A. Macready",
+      "hedged": false,
+      "quote": "In 1929, US Army Air Corps Colonel John A. Macready worked with Bausch & Lomb, a Rochester, New York-based medical equipment manufacturer, to create aviation sunglasses that would reduce the distraction for pilots caused by the intense blue and white hues of the sky.",
+      "note": "Macready and Bausch & Lomb created aviation sunglasses"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "trend_id": "bell-bottoms",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "London",
+      "place_type": "city",
+      "year": 1960,
+      "year_precision": "decade",
+      "who": null,
+      "hedged": false,
+      "quote": "In the 1960s, bell-bottoms became fashionable for both men and women in London and expanded into Europe and North America.",
+      "note": "became fashionable in London"
+    },
+    {
+      "kind": "root",
+      "place": "sailors",
+      "place_type": "people",
+      "year": 1800,
+      "year_precision": "century",
+      "who": null,
+      "hedged": false,
+      "quote": "In the early 19th century, when standardised uniforms for British ratings in the Royal Navy or enlisted men in the U.S. Navy did not as yet exist, some sailors adopted a style of wide trousers ending in bell-shaped cuffs.",
+      "note": "sailors wore bell-cuffed trousers"
+    }
+  ]
+}

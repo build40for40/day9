@@ -1,0 +1,27 @@
+{
+  "trend_id": "hoodie",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Rochester",
+      "place_type": "city",
+      "year": 1930,
+      "year_precision": "decade",
+      "who": "Champion",
+      "hedged": false,
+      "quote": "The hooded pullover is a utilitarian garment that originated in the 1930s in the US for workers in cold New York warehouses. The earliest clothing style was first produced by Champion in the 1930s in Rochester and marketed to laborers working in freezing temperatures in upstate New York.",
+      "note": "first made by Champion for cold workers"
+    },
+    {
+      "kind": "root",
+      "place": "Normandy",
+      "place_type": "region",
+      "year": 1100,
+      "year_precision": "century",
+      "who": null,
+      "hedged": true,
+      "quote": "Its appearance was known in England as early as the 12th century, possibly an import with the Norman conquest of England, as the capa was \"a short hooded cloak which was common in Normandy.\"",
+      "note": "hooded cloak possibly imported from Normandy"
+    }
+  ]
+}

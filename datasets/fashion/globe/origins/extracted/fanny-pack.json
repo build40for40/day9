@@ -1,0 +1,27 @@
+{
+  "trend_id": "fanny-pack",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Australia",
+      "place_type": "country",
+      "year": 1962,
+      "year_precision": "year",
+      "who": "Melba Stone",
+      "hedged": true,
+      "quote": "In 1962, reportedly, Melba Stone, an Australian widow, inspired by a kangaroo, is sometimes credited with making a fanny pack.",
+      "note": "Australian widow credited with first fanny pack"
+    },
+    {
+      "kind": "root",
+      "place": "Native Americans",
+      "place_type": "people",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "One origin was the Native American buffalo pouch which was used instead of sewing pockets into clothing.",
+      "note": "descended from buffalo pouch"
+    }
+  ]
+}

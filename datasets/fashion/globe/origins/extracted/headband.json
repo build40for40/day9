@@ -1,0 +1,16 @@
+{
+  "trend_id": "headband",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Ancient Greece",
+      "place_type": "country",
+      "year": -475,
+      "year_precision": "year",
+      "who": "ancient Greeks",
+      "hedged": true,
+      "quote": "The beginning of headbands was no later than around 475 BC to 330 BC, with the ancient Greeks, who wore hair wreaths.",
+      "note": "Greeks wore hair wreaths"
+    }
+  ]
+}

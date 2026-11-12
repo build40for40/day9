@@ -1,0 +1,16 @@
+{
+  "trend_id": "fedora",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "United States",
+      "place_type": "country",
+      "year": 1889,
+      "year_precision": "year",
+      "who": "Victorien Sardou",
+      "hedged": false,
+      "quote": "The word fedora comes from the title of an 1882 play by dramatist Victorien Sardou, Fédora, which was written for Sarah Bernhardt. The play was first performed in the United States in 1889.",
+      "note": "named after a play first staged in the US"
+    }
+  ]
+}

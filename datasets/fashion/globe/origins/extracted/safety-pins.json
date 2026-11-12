@@ -1,0 +1,16 @@
+{
+  "trend_id": "safety-pins",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "United Kingdom",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": "British punk fans",
+      "hedged": false,
+      "quote": "British punk fans, after seeing the clothing worn by such punk forerunners, then incorporated safety pins into their own wardrobe as clothing decoration or as piercings, thus shifting the purpose of the pins from practicality to fashion.",
+      "note": "British punks made pins fashion"
+    }
+  ]
+}

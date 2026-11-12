@@ -1,0 +1,27 @@
+{
+  "trend_id": "parka",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "United States",
+      "place_type": "country",
+      "year": 1950,
+      "year_precision": "year",
+      "who": "United States Army",
+      "hedged": false,
+      "quote": "The fishtail parka was first used by the United States Army in 1950 during the Korean War.",
+      "note": "fishtail parka first used by army"
+    },
+    {
+      "kind": "root",
+      "place": "Inuit",
+      "place_type": "people",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "Parkas and anoraks are staples of Inuit clothing, traditionally made from caribou or seal skin, for hunting and kayaking in the frigid Arctic.",
+      "note": "traditional Inuit clothing"
+    }
+  ]
+}

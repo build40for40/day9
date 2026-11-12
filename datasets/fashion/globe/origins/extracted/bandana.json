@@ -1,0 +1,16 @@
+{
+  "trend_id": "bandana",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "India",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "Bandanas originated in India as brightly colored handkerchiefs of silk and cotton, with white spots on colored grounds, chiefly red and blue, known as Bandhani.",
+      "note": "began as Indian handkerchiefs"
+    }
+  ]
+}

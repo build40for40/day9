@@ -1,0 +1,16 @@
+{
+  "trend_id": "moccasins",
+  "claims": [
+    {
+      "kind": "root",
+      "place": "Native Americans",
+      "place_type": "people",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "Historically, it is the footwear of many Indigenous people in North America; moreover, hunters, traders, and European settlers wore them.",
+      "note": "footwear of Indigenous North Americans"
+    }
+  ]
+}

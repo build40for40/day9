@@ -1,0 +1,16 @@
+{
+  "trend_id": "chelsea-boots",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "London",
+      "place_type": "city",
+      "year": 1950,
+      "year_precision": "decade",
+      "who": null,
+      "hedged": false,
+      "quote": "In the 1950s and 1960s, Chelsea boots enjoyed a resurgence in the UK – and their association with trendy King's Road (a street in Chelsea and Fulham in inner western London) social set of Swinging London – worn by everyone from the Rolling Stones to Jean Shrimpton – is when Chelsea became contemporary name of the boot.",
+      "note": "name came from King's Road set"
+    }
+  ]
+}

@@ -1,0 +1,448 @@
+{
+  "about": [
+    "Which museum objects and runway tags count as evidence of each trend. Edit by hand, then rerun scripts/assemble.mjs.",
+    "Keys are trend ids from parts/trends.json. Trends with no entry get no counts or examples.",
+    "met: Met object names, lowercased, as in parts/met.json countsByTypeYear.",
+    "runway: Vogue Runway tags, lowercased, as in parts/runway.json shareByTagYear. A trend with several tags takes the largest share in each year, since looks can carry more than one tag.",
+    "vam: a list of rules over V&A objects in parts/vam.json. A plain string matches the object type exactly. An object rule matches when every field it has matches: type (list of exact types), material (list, any of the object's materials), colour (list, any of the object's colours), title and designer (case-insensitive regular expressions), from and to (object year, inclusive).",
+    "Be conservative: only map a type when it clearly is the trend. A Met evening dress is not a trend by itself."
+  ],
+  "trends": {
+    "tea-gown": {
+      "vam": ["tea gown"],
+      "met": ["tea gown"]
+    },
+    "slip-dress": {
+      "vam": ["slip dress"]
+    },
+    "cocktail-dress": {
+      "vam": ["cocktail dress", "cocktail dress and jacket"],
+      "met": ["cocktail dress"]
+    },
+    "miniskirt": {
+      "vam": ["mini-dress", "mini dress", "mini-skirt and belt"],
+      "met": ["miniskirt"],
+      "runway": ["miniskirt"]
+    },
+    "maxi-skirt": {
+      "vam": ["maxi skirt"]
+    },
+    "kilt": {
+      "runway": ["kilt"]
+    },
+    "culottes": {
+      "vam": ["culotte dress"]
+    },
+    "corset": {
+      "vam": [
+        "corset",
+        "corset brassiere",
+        "corset set",
+        "corset and straps",
+        "corset and case",
+        "corselette",
+        "girdle",
+        "girdle pants",
+        "panty girdle",
+        "bra and girdle",
+        "bra, corset and waspie",
+        "waspie",
+        "basque",
+        "bustier",
+        "blouse and bustier"
+      ],
+      "met": ["corset", "girdle", "waist cincher", "bustier"],
+      "runway": ["corset"]
+    },
+    "stockings": {
+      "vam": [
+        "pair of stockings",
+        "stocking",
+        "pair of stockings and packet",
+        "pair of stockings in box",
+        "pair of stockings and box"
+      ],
+      "met": ["stockings"]
+    },
+    "tights": {
+      "vam": ["tights", "pair of tights"],
+      "met": ["tights", "pantyhose"],
+      "runway": ["tights"]
+    },
+    "camisole": {
+      "vam": ["camisole", "camisole top and knickers"]
+    },
+    "crop-top": {
+      "vam": ["crop top"]
+    },
+    "tube-top": {
+      "vam": ["tube top"]
+    },
+    "halter-top": {
+      "met": ["halter"]
+    },
+    "white-t-shirt": {
+      "vam": ["t-shirt", "t.shirt", "t. shirt", "t- shirt"],
+      "met": ["t-shirt"],
+      "runway": ["tshirt"]
+    },
+    "hawaiian-shirt": {
+      "vam": ["hawaiian shirt"]
+    },
+    "turtleneck": {
+      "met": ["turtleneck sweater"]
+    },
+    "cardigan": {
+      "vam": ["cardigan"],
+      "met": ["cardigan sweater"],
+      "runway": ["cardigan"]
+    },
+    "sweater-vest": {
+      "met": ["sweater vest"]
+    },
+    "hoodie": {
+      "vam": ["hoodie", "sweatshirt", "sweat top"],
+      "runway": ["sweatshirt"]
+    },
+    "kaftan": {
+      "vam": ["kaftan", "tunic", "tunic dress", "tunic and trousers", "tunic & belt", "evening tunic"],
+      "met": ["caftan", "tunic"]
+    },
+    "trouser-suit": {
+      "vam": [
+        "trouser suit",
+        "evening trouser suit",
+        "beach trouser suit",
+        "trouser suit and blouse",
+        "evening trouser suit and blouse"
+      ],
+      "met": ["pantsuit", "evening pantsuit"]
+    },
+    "skirt-suit": {
+      "vam": [
+        "skirt suit",
+        "evening skirt suit",
+        "knitted skirt suit",
+        "plaisir skirt suit",
+        "skirt suit and stole",
+        "skirt suit and scarf"
+      ]
+    },
+    "androgyny": {
+      "vam": [{ "title": "^le smoking$" }]
+    },
+    "trench-coat": {
+      "vam": ["trench coat"],
+      "met": ["trench coat"],
+      "runway": ["trench coat"]
+    },
+    "parka": {
+      "vam": ["parka"]
+    },
+    "bomber-jacket": {
+      "vam": ["bomber jacket", "flight jacket"]
+    },
+    "leather-jacket": {
+      "vam": [{ "type": ["jacket"], "material": ["leather", "patent leather"] }],
+      "runway": ["leather jacket"]
+    },
+    "denim-jacket": {
+      "vam": [{ "type": ["jacket"], "material": ["denim"] }]
+    },
+    "fur-coat": {
+      "vam": [
+        "fur coat",
+        "fur jacket",
+        "fur cape",
+        {
+          "type": ["coat", "jacket", "evening coat", "evening jacket", "cape", "evening cape"],
+          "material": ["fur", "fox fur", "beaver lamb fur", "chincilla fur", "monkey fur", "astrakhan", "nutria"]
+        }
+      ]
+    },
+    "faux-fur": {
+      "vam": [{ "material": ["faux fur", "fun fur", "fur fabric", "imitation fur"] }]
+    },
+    "cape": {
+      "vam": [
+        "cape",
+        "evening cape",
+        "evening cape and bag",
+        "cape and hat",
+        "cape and trousers",
+        "fur cape",
+        "raincape",
+        "poncho"
+      ],
+      "met": ["cape", "evening cape", "poncho"],
+      "runway": ["cape", "poncho"]
+    },
+    "waistcoat": {
+      "vam": ["waistcoat", "long waistcoat"],
+      "met": ["waistcoat"]
+    },
+    "utility-clothing": {
+      "vam": [{ "designer": "utility" }, { "title": "utility" }]
+    },
+    "workwear": {
+      "vam": ["boiler suit", "workcoat", "donkey jacket"]
+    },
+    "tracksuit": {
+      "vam": ["tracksuit"]
+    },
+    "leggings": {
+      "vam": ["legging"],
+      "met": ["leggings"]
+    },
+    "hot-pants": {
+      "vam": ["hot pants", "hotpants"]
+    },
+    "denim-shorts": {
+      "vam": [{ "type": ["shorts"], "material": ["denim"] }]
+    },
+    "womens-trousers": {
+      "vam": ["trousers"]
+    },
+    "leather-trousers": {
+      "vam": [{ "type": ["trousers"], "material": ["leather"] }]
+    },
+    "plus-fours": {
+      "vam": ["knickerbockers suit", "knickerbocker suit"],
+      "met": ["knickerbockers"]
+    },
+    "overalls": {
+      "vam": ["dungarees"]
+    },
+    "levis-501": {
+      "vam": [{ "designer": "^levi strauss", "title": "\\b501" }]
+    },
+    "designer-jeans": {
+      "vam": [
+        {
+          "type": ["jeans"],
+          "designer": "klein, calvin|calvin klein|armani|fiorucci|vanderbilt|jordache|versace|gucci|moschino|evisu"
+        }
+      ]
+    },
+    "jeans": {
+      "vam": ["jeans"],
+      "met": ["jeans"],
+      "runway": ["jeans"]
+    },
+    "denim": {
+      "vam": [{ "material": ["denim"] }],
+      "runway": ["denim"]
+    },
+    "doc-martens": {
+      "vam": [{ "title": "doc martens?|dr\\.? ?martens?" }, { "designer": "griggs" }]
+    },
+    "platform-shoes": {
+      "vam": ["pair of platform shoes", "platform sandal"]
+    },
+    "go-go-boots": {
+      "vam": [{ "designer": "courr[eè]ges", "type": ["pair of boots", "boot", "boots"] }]
+    },
+    "knee-high-boots": {
+      "runway": ["riding boot"]
+    },
+    "cowboy-boots": {
+      "vam": ["pair of cowboy boots"],
+      "met": ["cowboy boots"],
+      "runway": ["cowboy boot"]
+    },
+    "court-shoes": {
+      "met": ["pumps", "evening pumps"]
+    },
+    "brogues": {
+      "vam": ["pair of brogue shoes"],
+      "met": ["oxfords"]
+    },
+    "loafers": {
+      "met": ["loafers"]
+    },
+    "moccasins": {
+      "met": ["moccasins"]
+    },
+    "high-top-sneakers": {
+      "vam": ["pair of basketball boots"]
+    },
+    "sneakers": {
+      "vam": ["pair of trainers", "pair of training shoes", "pair of plimsolls"],
+      "met": ["athletic shoes"],
+      "runway": ["sneaker", "running shoe"]
+    },
+    "cloche-hat": {
+      "vam": ["cloche hat", "cloche"],
+      "met": ["cloche"]
+    },
+    "pillbox-hat": {
+      "vam": ["pillbox hat"],
+      "met": ["pillbox hat"]
+    },
+    "fedora": {
+      "met": ["fedora"]
+    },
+    "homburg": {
+      "met": ["homburg"]
+    },
+    "bowler-hat": {
+      "met": ["derby"]
+    },
+    "pork-pie-hat": {
+      "vam": [{ "title": "pork ?pie" }]
+    },
+    "beret": {
+      "vam": ["beret", "yellow beret"],
+      "met": ["beret"]
+    },
+    "baseball-cap": {
+      "vam": ["baseball cap", "baseball hat"],
+      "runway": ["baseball cap"]
+    },
+    "beanie": {
+      "runway": ["beanie"]
+    },
+    "stetson": {
+      "runway": ["cowboy hat"]
+    },
+    "headband": {
+      "vam": ["headband", "head band"],
+      "met": ["headband"],
+      "runway": ["headband"]
+    },
+    "headscarf": {
+      "vam": ["head scarf", "headscarf", "head scarf and packaging", "headscarf and packaging", "evening turban"],
+      "met": ["turban", "hat (turban)"]
+    },
+    "choker": {
+      "vam": ["choker", "choker and collar"],
+      "met": ["choker"]
+    },
+    "pearls": {
+      "vam": [{ "type": ["necklace"], "material": ["pearl", "pearls", "seed pearls", "imitation pearl"] }]
+    },
+    "fanny-pack": {
+      "vam": ["belt bag"]
+    },
+    "gloves": {
+      "vam": ["pair of gloves", "glove", "pair of wedding gloves"],
+      "met": ["gloves", "evening gloves", "cocktail gloves", "gauntlets"]
+    },
+    "leg-warmers": {
+      "vam": ["pair of legwarmers"]
+    },
+    "braces": {
+      "vam": ["braces"],
+      "met": ["suspenders"],
+      "runway": ["suspenders"]
+    },
+    "feather-boa": {
+      "vam": ["feather boa", "boa"],
+      "met": ["boa"],
+      "runway": ["feather boa"]
+    },
+    "bandana": {
+      "runway": ["bandana"]
+    },
+    "tattoos": {
+      "runway": ["tattoo"]
+    },
+    "ponytail": {
+      "runway": ["ponytail"]
+    },
+    "braids": {
+      "runway": ["braid"]
+    },
+    "beard": {
+      "runway": ["beard"]
+    },
+    "shoulder-pads": {
+      "vam": ["shoulder pad"]
+    },
+    "new-look": {
+      "vam": [
+        {
+          "designer": "^(christian dior|dior, christian)$",
+          "type": ["dress", "day dress", "cocktail dress", "evening dress", "skirt suit", "jacket", "skirt"],
+          "from": 1947,
+          "to": 1953
+        }
+      ]
+    },
+    "space-age": {
+      "vam": [{ "designer": "courr[eè]ges|cardin|rabanne", "from": 1963, "to": 1969 }]
+    },
+    "swinging-london": {
+      "vam": [
+        {
+          "designer": "quant|biba|hulanicki|clark, ossie|ossie clark|foale|tuffin|bates, john|john bates",
+          "from": 1961,
+          "to": 1967
+        }
+      ]
+    },
+    "punk": {
+      "vam": [{ "designer": "westwood|mclaren|seditionaries", "from": 1974, "to": 1980 }]
+    },
+    "deconstruction": {
+      "vam": [{ "designer": "margiela|kawakubo|comme des gar" }]
+    },
+    "minimalism": {
+      "vam": [{ "designer": "sander, jil|jil sander|helmut lang|lang, helmut", "from": 1990, "to": 1999 }]
+    },
+    "streetwear": {
+      "vam": [{ "designer": "st[uü]ssy|supreme|bathing ape|stone island" }]
+    },
+    "western-wear": {
+      "vam": ["cowgirl suit", "chaps"]
+    },
+    "velvet": {
+      "vam": [{ "material": ["velvet", "silk velvet", "cotton velvet", "crushed velvet", "velour"] }]
+    },
+    "corduroy": {
+      "vam": [{ "material": ["corduroy", "cotton corduroy"] }]
+    },
+    "tweed": {
+      "vam": [{ "material": ["tweed", "wool tweed"] }]
+    },
+    "seersucker": {
+      "vam": [{ "material": ["seersucker", "cotton seersucker", "silk seersucker"] }]
+    },
+    "fringe": {
+      "vam": [{ "material": ["fringe"] }]
+    },
+    "lace": {
+      "vam": [{ "material": ["lace"] }],
+      "runway": ["lace"]
+    },
+    "sequins": {
+      "vam": [{ "material": ["sequins", "sequin"] }]
+    },
+    "metallics": {
+      "vam": [{ "colour": ["metallic"] }, { "material": ["lurex", "lamé", "lame"] }]
+    },
+    "polyester": {
+      "vam": [{ "material": ["polyester", "polyester cotton", "polyester crêpe", "polyester jersey"] }]
+    },
+    "spandex": {
+      "vam": [{ "material": ["lycra", "elastane", "spandex"] }],
+      "runway": ["spandex"]
+    },
+    "pvc": {
+      "vam": [{ "material": ["pvc", "polyvinyl chloride", "vinyl"] }]
+    },
+    "fleece": {
+      "vam": [{ "material": ["fleece", "nylon fleece"] }],
+      "runway": ["fleece"]
+    },
+    "gingham": {
+      "vam": [{ "material": ["gingham"] }]
+    },
+    "tartan": {
+      "runway": ["tartan", "plaid"]
+    },
+    "polka-dots": {
+      "runway": ["polka dot"]
+    }
+  }
+}

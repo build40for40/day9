@@ -1,0 +1,27 @@
+{
+  "trend_id": "madras",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Chennai",
+      "place_type": "city",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "Authentic Madras comes from Chennai (Madras) in Tamil Nadu.",
+      "note": "authentic cloth comes from Chennai"
+    },
+    {
+      "kind": "root",
+      "place": "Chennai",
+      "place_type": "city",
+      "year": 1958,
+      "year_precision": "year",
+      "who": "William Jacobson",
+      "hedged": false,
+      "quote": "In 1958 William Jacobson, a leading textile importer, traveled to Bombay to trade with Captain C.P. Krishnan, an exporter of madras from Chennai (formerly Madras).",
+      "note": "US importer bought madras cloth"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "trend_id": "kilt",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Scottish Highlands",
+      "place_type": "region",
+      "year": 1500,
+      "year_precision": "century",
+      "who": null,
+      "hedged": false,
+      "quote": "Originating in the Scottish Highland dress for men, it is first recorded in the 16th century as the great kilt, a full-length garment whose upper half could be worn as a cloak.",
+      "note": "first recorded as the great kilt"
+    }
+  ]
+}

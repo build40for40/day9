@@ -1,0 +1,16 @@
+{
+  "trend_id": "sportswear",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "United States",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "The term originated in America, and at first was used to describe separate jacket and trousers worn rather than a full men's suit.",
+      "note": "term started in America for separates"
+    }
+  ]
+}

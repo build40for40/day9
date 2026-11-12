@@ -1,0 +1,38 @@
+{
+  "trend_id": "jeans",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "United States",
+      "place_type": "country",
+      "year": 1873,
+      "year_precision": "year",
+      "who": "Jacob W. Davis and Levi Strauss",
+      "hedged": false,
+      "quote": "Strauss accepted Davis's offer, and the two men received US patent No. 139,121 for an \"Improvement in Fastening Pocket-Openings\" on May 20, 1873.",
+      "note": "riveted jeans patented"
+    },
+    {
+      "kind": "root",
+      "place": "Genoa",
+      "place_type": "city",
+      "year": 1500,
+      "year_precision": "century",
+      "who": null,
+      "hedged": false,
+      "quote": "Research on the trade of jean fabric shows that it emerged in the city of Genoa, Italy, in the 16th century, followed by Nîmes, France, in the 17th century.",
+      "note": "jean fabric emerged in Genoa"
+    },
+    {
+      "kind": "root",
+      "place": "Nîmes",
+      "place_type": "city",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "In Nîmes, weavers tried to reproduce jean fabric but instead developed a similar twill fabric that became known as denim, \"de Nîmes\", meaning \"from Nîmes\".",
+      "note": "weavers copied jean into denim"
+    }
+  ]
+}

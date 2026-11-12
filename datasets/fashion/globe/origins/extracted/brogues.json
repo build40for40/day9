@@ -1,0 +1,27 @@
+{
+  "trend_id": "brogues",
+  "claims": [
+    {
+      "kind": "root",
+      "place": "Ireland",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "Modern brogues trace their roots to a rudimentary shoe originating in Ireland and Scotland that was constructed using untanned hide.",
+      "note": "rooted in untanned hide shoe"
+    },
+    {
+      "kind": "root",
+      "place": "Scotland",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "Modern brogues trace their roots to a rudimentary shoe originating in Ireland and Scotland that was constructed using untanned hide.",
+      "note": "rooted in untanned hide shoe"
+    }
+  ]
+}

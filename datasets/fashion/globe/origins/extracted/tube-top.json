@@ -1,0 +1,16 @@
+{
+  "trend_id": "tube-top",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "New York",
+      "place_type": "city",
+      "year": 1971,
+      "year_precision": "year",
+      "who": "Murray Kleid",
+      "hedged": true,
+      "quote": "In 2012, Iranian-Jewish fashion designer Elie Tahari claimed that he helped popularize the tube top after his arrival in New York in 1971. The original tube tops, as spotted by Tahari in a New York factory run by Murray Kleid, were elasticated gauze tubes reportedly produced through a factory manufacturing error.",
+      "note": "first tubes from a New York factory error"
+    }
+  ]
+}

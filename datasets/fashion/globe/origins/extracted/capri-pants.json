@@ -1,0 +1,16 @@
+{
+  "trend_id": "capri-pants",
+  "claims": [
+    {
+      "kind": "root",
+      "place": "Capri",
+      "place_type": "region",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "The name of the pants is derived from the Italian isle of Capri, where they rose to popularity in the late 1950s and early 1960s.",
+      "note": "named after Italian isle of Capri"
+    }
+  ]
+}

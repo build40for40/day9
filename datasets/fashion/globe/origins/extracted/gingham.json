@@ -1,0 +1,27 @@
+{
+  "trend_id": "gingham",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Guingamp",
+      "place_type": "city",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": true,
+      "quote": "It is speculated that the fabric now known as gingham may have been made at Guingamp, a town in Brittany, France, and that the fabric may be named after the town.",
+      "note": "maybe made at and named for Guingamp"
+    },
+    {
+      "kind": "root",
+      "place": "Malaysia",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "Gingham was introduced to France from Malaysia, where it started being produced in Vichy, France, under the reign of Napoleon Bonaparte.",
+      "note": "introduced to France from Malaysia"
+    }
+  ]
+}

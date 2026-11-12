@@ -1,0 +1,16 @@
+{
+  "trend_id": "round-glasses",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Britain",
+      "place_type": "country",
+      "year": 1840,
+      "year_precision": "decade",
+      "who": null,
+      "hedged": false,
+      "quote": "The Windsor style was produced in Britain by the 1840s.",
+      "note": "already made in Britain by the 1840s"
+    }
+  ]
+}

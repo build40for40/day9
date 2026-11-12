@@ -1,0 +1,16 @@
+{
+  "trend_id": "skinny-tie",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "United Kingdom",
+      "place_type": "country",
+      "year": 1957,
+      "year_precision": "decade",
+      "who": "the Beatles and the Kinks",
+      "hedged": false,
+      "quote": "Skinny ties were first popularized in the late 1950s and early 1960s by British bands such as the Beatles and the Kinks, alongside the subculture that embraced such bands, the mods.",
+      "note": "British bands and mods popularized skinny ties"
+    }
+  ]
+}

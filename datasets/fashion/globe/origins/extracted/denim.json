@@ -1,0 +1,16 @@
+{
+  "trend_id": "denim",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Nîmes",
+      "place_type": "city",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "Denim, as it is recognised today, was first produced in Nîmes, France.",
+      "note": "first produced in Nîmes"
+    }
+  ]
+}

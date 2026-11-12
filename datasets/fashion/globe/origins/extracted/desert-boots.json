@@ -1,0 +1,38 @@
+{
+  "trend_id": "desert-boots",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Chicago",
+      "place_type": "city",
+      "year": 1949,
+      "year_precision": "year",
+      "who": "C. & J. Clark",
+      "hedged": false,
+      "quote": "Desert boots were officially introduced to the world with the debut of the Clarks' Desert Boot at the 1949 Chicago Shoe Fair.",
+      "note": "Clarks debuted it at a shoe fair"
+    },
+    {
+      "kind": "root",
+      "place": "Cairo",
+      "place_type": "city",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": true,
+      "quote": "According to Clarks, inspiration came from \"the crepe-soled, rough suede boots made in Cairo's Khan el-Khalili bazaar for British Eighth Army officers.\"",
+      "note": "copied Cairo bazaar boots"
+    },
+    {
+      "kind": "root",
+      "place": "South Africa",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "These boots were based on the South African veldskoen which became a popular footwear item in Southern Africa due to their robust and simple design.",
+      "note": "based on the veldskoen"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "trend_id": "cargo-pants",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Britain",
+      "place_type": "country",
+      "year": 1938,
+      "year_precision": "year",
+      "who": "British Armed Forces",
+      "hedged": false,
+      "quote": "Battle dress was first worn by members of the British Armed Forces in 1938, and was introduced to the United States in the mid-1940s during World War II. The large pockets characteristic of cargo pants were originally designed for British forces to hold field dressings, maps, and other items.",
+      "note": "British forces pockets on battle dress"
+    }
+  ]
+}

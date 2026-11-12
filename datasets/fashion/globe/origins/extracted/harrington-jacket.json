@@ -1,0 +1,27 @@
+{
+  "trend_id": "harrington-jacket",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "United Kingdom",
+      "place_type": "country",
+      "year": 1930,
+      "year_precision": "decade",
+      "who": "Baracuta (John and Issac Miller)",
+      "hedged": true,
+      "quote": "The first Harrington-style jackets were claimed to be made in the 1930s by the British clothing company, Baracuta by two brothers, John and Issac Miller.",
+      "note": "Baracuta claimed first"
+    },
+    {
+      "kind": "rival",
+      "place": "United Kingdom",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": "Grenfell",
+      "hedged": true,
+      "quote": "The British company Grenfell, previously known as Haythornthwaite and Sons, also claims to have invented an identical jacket around the same time based on their golf jackets, which is also still in production using their own signature cotton.",
+      "note": "Grenfell claims same jacket"
+    }
+  ]
+}

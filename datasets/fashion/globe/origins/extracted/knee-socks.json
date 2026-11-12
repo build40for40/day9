@@ -1,0 +1,16 @@
+{
+  "trend_id": "knee-socks",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Roman Empire",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "It was during the Roman Empire that the first type of knee highs was introduced. At the time women wrapped their feet with cloth and bound leather straps around their feet up to the calves.",
+      "note": "first knee highs in Roman Empire"
+    }
+  ]
+}

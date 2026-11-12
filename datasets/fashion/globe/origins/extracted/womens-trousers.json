@@ -1,0 +1,16 @@
+{
+  "trend_id": "womens-trousers",
+  "claims": [
+    {
+      "kind": "root",
+      "place": "Turkey",
+      "place_type": "country",
+      "year": 1851,
+      "year_precision": "year",
+      "who": "Elizabeth Smith Miller",
+      "hedged": false,
+      "quote": "In 1851, early women's rights advocate Elizabeth Smith Miller introduced Amelia Bloomer to a garment initially known as the \"Turkish dress\", which featured a knee-length skirt over Turkish-style pantaloons.",
+      "note": "bloomers copied Turkish pantaloons"
+    }
+  ]
+}

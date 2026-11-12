@@ -1,0 +1,16 @@
+{
+  "trend_id": "beatniks",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "New York City",
+      "place_type": "city",
+      "year": 1948,
+      "year_precision": "year",
+      "who": "Jack Kerouac",
+      "hedged": false,
+      "quote": "In 1948, Jack Kerouac introduced the phrase \"Beat Generation\", generalizing from his social circle to characterize the underground, anti-conformist youth gathering in New York City at that time.",
+      "note": "Kerouac named the Beat Generation in New York"
+    }
+  ]
+}

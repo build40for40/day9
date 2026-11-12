@@ -1,0 +1,16 @@
+{
+  "trend_id": "polyester",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "United Kingdom",
+      "place_type": "country",
+      "year": 1941,
+      "year_precision": "year",
+      "who": "Whinfield and Dickson",
+      "hedged": false,
+      "quote": "Carothers' project was revived by British scientists Whinfield and Dickson, who patented polyethylene terephthalate (PET) or PETE in 1941.",
+      "note": "British scientists patented PET"
+    }
+  ]
+}

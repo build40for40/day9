@@ -1,0 +1,16 @@
+{
+  "trend_id": "leg-warmers",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "New York",
+      "place_type": "city",
+      "year": 1980,
+      "year_precision": "decade",
+      "who": "David Lee and Trisha Kate",
+      "hedged": false,
+      "quote": "In the early 1980s leg warmers became a fad after David Lee and Trisha Kate opened a dancewear shop in the East Village, New York.",
+      "note": "dancewear shop started the fad"
+    }
+  ]
+}

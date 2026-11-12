@@ -1,0 +1,16 @@
+{
+  "trend_id": "trucker-hat",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "United States",
+      "place_type": "country",
+      "year": 1970,
+      "year_precision": "decade",
+      "who": "U.S. feed and farming supply companies",
+      "hedged": false,
+      "quote": "It is also sometimes known as a \"gimme [as in 'give me'] cap\" or a \"feed cap\" because this style of hat originated during the 1970s as a promotional give-away from U.S. feed or farming supply companies to farmers, truck drivers, or other rural workers.",
+      "note": "promo give-away from feed companies"
+    }
+  ]
+}

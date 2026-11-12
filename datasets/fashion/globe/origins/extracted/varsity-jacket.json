@@ -1,0 +1,16 @@
+{
+  "trend_id": "varsity-jacket",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "Cambridge, Massachusetts",
+      "place_type": "city",
+      "year": 1865,
+      "year_precision": "year",
+      "who": "Harvard University baseball team",
+      "hedged": false,
+      "quote": "Varsity jackets trace their origins to letter sweaters, first introduced by the Harvard University baseball team in 1865.",
+      "note": "letter sweaters began at Harvard"
+    }
+  ]
+}

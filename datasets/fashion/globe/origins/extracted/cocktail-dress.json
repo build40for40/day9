@@ -1,0 +1,16 @@
+{
+  "trend_id": "cocktail-dress",
+  "claims": [
+    {
+      "kind": "origin",
+      "place": "France",
+      "place_type": "country",
+      "year": null,
+      "year_precision": null,
+      "who": null,
+      "hedged": false,
+      "quote": "Since cocktail parties originated in the United States, French designers created their own version of a cocktail dress.",
+      "note": "French designers made their own cocktail dress"
+    }
+  ]
+}
