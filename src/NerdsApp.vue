@@ -9,7 +9,7 @@ import { pickComponents } from "./intent/client";
 import IntentBar from "./intent/IntentBar.vue";
 import type { IntentResult } from "./intent/registry";
 import { viewById } from "./registry";
-import { BORN_KEY, readBorn, routeKey } from "./route";
+import { BORN_KEY, routeKey } from "./route";
 
 const nerds = shallowRef<Nerds>();
 const failed = ref("");
@@ -80,7 +80,14 @@ function home() {
 onMounted(async () => {
   read();
   query.value = params.value.q ?? "";
-  born.value = readBorn();
+  // There's no birth year question any more, so nothing should talk to the reader as if it knows them.
+  // Forget any year an earlier version of the page saved in this browser.
+  born.value = null;
+  try {
+    localStorage.removeItem(BORN_KEY);
+  } catch {
+    // Private mode: nothing was saved.
+  }
   addEventListener("popstate", read);
   try {
     nerds.value = await loadNerds();
