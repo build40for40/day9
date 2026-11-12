@@ -8,7 +8,9 @@ const PROPS = { P571: 'inception', P495: 'country_of_origin', P740: 'location_of
 
 const out = [];
 for (const trend of TRENDS) {
-  const res = await get(wd({ action: 'wbgetentities', sites: 'enwiki', titles: trend.wiki, props: 'claims|labels', languages: 'en', normalize: 1 }));
+  // The entity for the trend itself: the hub edition's article when English has none of its own.
+  const page = trend.hub ?? { lang: 'en', title: trend.wiki[0] };
+  const res = await get(wd({ action: 'wbgetentities', sites: `${page.lang}wiki`, titles: page.title, props: 'claims|labels', languages: 'en', normalize: 1 }));
   const entity = Object.values(res.entities ?? {})[0];
   const row = { trend: trend.id, qid: entity?.id ?? null, label: entity?.labels?.en?.value ?? null };
   const ids = new Set();

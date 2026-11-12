@@ -27,18 +27,17 @@
   },
   {
     "trend": "new-look",
-    "qid": "Q542767",
-    "label": "Christian Dior",
+    "qid": "Q2030942",
+    "label": "New Look",
     "inception": [
-      1946,
-      1958
+      1947
     ],
     "country_of_origin": [],
-    "location_of_formation": [
-      "Paris"
-    ],
+    "location_of_formation": [],
     "discoverer_or_inventor": [],
-    "creator": [],
+    "creator": [
+      "Christian Dior"
+    ],
     "time_period": [],
     "start_time": []
   },
@@ -106,8 +105,8 @@
   },
   {
     "trend": "harajuku",
-    "qid": null,
-    "label": null,
+    "qid": "Q4538438",
+    "label": "Japanese street fashion",
     "inception": [],
     "country_of_origin": [],
     "location_of_formation": [],
