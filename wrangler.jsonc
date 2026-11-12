@@ -13,6 +13,7 @@
     "TYPESAFE_API_URL": "https://api.typesafe.ai"
   },
   // Secrets: ANTHROPIC_API_KEY (Draw your own), TYPESAFE_API_KEY (Jev search) and PUBLIC_POSTHOG_PROJECT_TOKEN.
+  // CI uploads them from the GitHub org secrets with every deploy.
   "routes": [
     { "pattern": "build40for40.com/nerds-of-fashion", "zone_name": "build40for40.com" },
     { "pattern": "build40for40.com/nerds-of-fashion/*", "zone_name": "build40for40.com" }

@@ -23,8 +23,8 @@ i want a clueless wardrobe app that tells me what to wear from my cupboard.
 - `npm run dev` serves the app at `http://localhost:5173/nerds-of-fashion/` and proxies the API to `npm run dev:api` on port 8787.
 - `npm test` runs the app and Worker tests.
 - Run wrangler as `npm run wrangler -- <args>`, never `npx wrangler`, so it uses the `40for40` profile.
-- Secrets for local runs go in `.dev.vars` (see `.dev.vars.example`). In production they're Worker secrets: `ANTHROPIC_API_KEY`, `TYPESAFE_API_KEY` and `PUBLIC_POSTHOG_PROJECT_TOKEN`.
+- Secrets for local runs go in `.dev.vars` (see `.dev.vars.example`). In production they're Worker secrets: `ANTHROPIC_API_KEY`, `TYPESAFE_API_KEY` and `PUBLIC_POSTHOG_PROJECT_TOKEN`. CI copies them from the GitHub org secrets of the same names on every deploy, so change them there, not in Cloudflare.
 
 ## Deploys
 
-CI tests and builds every PR, uploads a preview and comments its link. Merging to `main` deploys. Never deploy by hand.
+CI tests and builds every PR, uploads a preview and comments its link. Merging to `main` deploys, with the Worker's secrets. Never deploy by hand.
