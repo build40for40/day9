@@ -39,8 +39,21 @@ const ord = (n) => n + (n % 10 === 1 && n !== 11 ? 'st' : n % 10 === 2 && n !== 
 const when = (o) => o.year == null ? '' : o.year < 0 ? ` around ${-o.year} BC` : o.yearPrecision === 'century' ? ` in the ${ord(Math.floor(o.year / 100) + 1)} century` : o.yearPrecision === 'decade' ? ` in the ${Math.floor(o.year / 10) * 10}s` : ` in ${o.year}`;
 const list = (a) => (a.length < 2 ? a.join('') : a.slice(0, -1).join(', ') + ' and ' + a[a.length - 1]);
 const clip = (s, n = 230) => (s.length > n ? s.slice(0, n - 3).replace(/\s+\S*$/, '') + '…' : s);
-const the = (n) => (/^(United|Netherlands|Soviet|Scottish Highlands|Andes|Philippines|Caribbean|Middle East|Ottoman|Roman|British Raj|Bronx|Basque)/.test(n) ? 'the ' + n : n);
+const the = (n) => (/^(United|Netherlands|Soviet|Scottish Highlands|Scottish Lowlands|Scottish Borders|Indus Valley|South Pacific|Pyrenees|Rhine|Andes|Philippines|Caribbean|Middle East|Ottoman|Roman|British Raj|Bronx|Basque)/.test(n) ? 'the ' + n : n);
 const homeOf = ([lon, lat]) => (lon > -8 && lon < 2 && lat > 49.5 && lat < 61 ? 'UK' : lon > 6.5 && lon < 18.5 && lat > 36 && lat < 47 ? 'IT' : lon > -5 && lon < 8.3 && lat > 42 && lat < 51.2 ? 'FR' : lon > -125 && lon < -66 && lat > 24 && lat < 50 ? 'US' : null);
+
+// Hand-written captions for looks where the quote is real but "Born in X" would misread it:
+// the place is where the look was first worn, launched, named or revived, not where it began.
+// fold: its "borrowed from" claim is really a later chapter, so it joins this stop's receipts.
+const REWORD = {
+  'polo-shirt': { born: 'First worn at the 1926 US Open by René Lacoste, who designed it.' },
+  fedora: { born: 'Named after Fédora, a play by Victorien Sardou that reached the United States in 1889.' },
+  'desert-boots': { born: 'Launched at the 1949 Chicago Shoe Fair by Clarks.' },
+  kaftan: { born: 'Born in West Asia, thousands of years ago. The West met it in the 1890s, on a Russian coronation dress.', fold: true },
+  'bucket-hat': { born: 'Born in Ireland around 1900, on farmers and fishermen. The modern one comes from a US Army hat issued in Vietnam.', fold: true },
+  'low-rise-jeans': { born: 'Brought back in 1993 by Alexander McQueen, whose bumster trousers started the revival.' },
+  'chelsea-boots': { born: 'Named for Chelsea in London, where they came roaring back in the 1950s and 1960s.' },
+};
 
 const arrivals = {};
 for (const r of pilot) {
@@ -69,8 +82,13 @@ for (const t of ben.trends) {
   glob.sort((a, b) => a[0] - b[0]);
   const first = Object.entries(named).map(([k, v]) => [k, v[0][0], v[0][1]]).sort((a, b) => a[1] - b[1]);
   const og = [...(t.origins || [])].sort((a, b) => rank[a.confidence] - rank[b.confidence]);
-  const roots = og.filter((o) => o.kind === 'root');
   const origins = og.filter((o) => o.kind === 'origin');
+  const fix = REWORD[t.id] || {};
+  // A "root" that is the birthplace itself, or that is dated after the look was born, is a later
+  // chapter of the story and not where it was borrowed from. Its quote joins the born stop instead.
+  const later = (o) => fix.fold || (origins[0] && (o.place === origins[0].place || (o.year != null && origins[0].year != null && o.year > origins[0].year)));
+  const allRoots = og.filter((o) => o.kind === 'root');
+  const roots = allRoots.filter((o) => !later(o)), folded = allRoots.filter(later);
   const rivals = [...og.filter((o) => o.kind === 'rival'), ...origins.slice(1)];
   const receipt = (o) => ({ l: o.place, t: 'Wikipedia: “' + clip(o.quote) + '”', u: o.url, s: o.confidence === 'low' ? 1 : 0 });
   const stops = [];
@@ -78,7 +96,7 @@ for (const t of ben.trends) {
   if (origins[0]) {
     const o = origins[0];
     born = { n: o.place, at: [o.lon, o.lat] }; home = homeOf(born.at); bornYear = o.year;
-    stops.push({ k: 'born', cap: `Born in ${the(o.place)}${when(o)}.` + (o.who ? ` Credit goes to ${o.who}.` : ''), pts: [[o.lon, o.lat, o.place + (o.year > 0 && o.yearPrecision === 'year' ? ' ' + o.year : ''), o.confidence === 'low' ? 1 : 0]], rc: [receipt(o)] });
+    stops.push({ k: 'born', cap: fix.born || `Born in ${the(o.place)}${when(o)}.` + (o.who ? ` Credit goes to ${o.who}.` : ''), pts: [[o.lon, o.lat, o.place + (o.year > 0 && o.yearPrecision === 'year' ? ' ' + o.year : ''), o.confidence === 'low' ? 1 : 0]], rc: [receipt(o), ...folded.map(receipt)] });
   } else if (first.length && !(glob.length && glob[0][0] < first[0][1])) {
     const [k, y] = first[0], c = CORE[k];
     born = { n: c[0], at: [c[1], c[2]] }; home = k; bornYear = y; guess = true;
@@ -87,9 +105,13 @@ for (const t of ben.trends) {
       rc: [{ l: c[0], t: 'A guess: the first country our dataset records it in.' + (src ? ' Wikipedia: “' + clip(src.quote, 180) + '”' : ''), u: src ? src.url : null, s: 1 }] });
   }
   if (roots.length) {
-    const names = [...new Set(roots.map((o) => o.place))];
-    stops.unshift({ k: 'root', cap: `Borrowed from ${list(names.map(the))}${when(roots.find((o) => o.year != null) || {})}.`, pts: roots.map((o) => [o.lon, o.lat, o.place, o.confidence === 'low' ? 1 : 0]),
-      arcs: born ? roots.map((o) => [o.lon, o.lat, born.at[0], born.at[1], o.confidence === 'low' ? 1 : 0]) : [], rc: roots.map(receipt) });
+    const seen = new Set(), places = roots.filter((o) => !seen.has(o.place) && seen.add(o.place)).sort((x, y) => (x.year ?? 9999) - (y.year ?? 9999));
+    const dates = places.map(when), same = dates.every((d) => d === dates[0]);
+    stops.unshift({ k: 'root', cap: `Borrowed from ${list(places.map((o, i) => the(o.place) + (same ? '' : dates[i])))}${same ? dates[0] : ''}.`,
+      pts: roots.map((o) => [o.lon, o.lat, o.place, o.confidence === 'low' ? 1 : 0]), rc: roots.map(receipt) });
+    // The line from each root reaches the birthplace on the "born" stop, not before it.
+    const b = stops.find((x) => x.k === 'born');
+    if (b) b.arcs = roots.map((o) => [o.lon, o.lat, born.at[0], born.at[1], o.confidence === 'low' ? 1 : 0]);
   }
   if (!born && !roots.length) continue;
   if (rivals.length) {
@@ -112,8 +134,10 @@ for (const t of ben.trends) {
   went.sort((a, b) => a.y - b.y);
   if (went.length) {
     const items = went.map((w) => `${the(w.n)} ${old ? 'around ' : ''}${w.y}`);
+    const firsts = went.filter((w) => w.y === went[0].y).map((w) => the(w.n));
+    const long = `Then it travelled to ${went.length} places between ${went[0].y} and ${went[went.length - 1].y}. ${list(firsts.slice(0, 3)).replace(/^t/, 'T')} got it first.`;
     const src = t.sources[0];
-    stops.push({ k: 'went', cap: (old ? 'Fashion caught up with it: ' : 'Then it travelled: ') + list(items.slice(0, 4)) + (items.length > 4 ? `, plus ${items.length - 4} more` : '') + '.',
+    stops.push({ k: 'went', cap: went.length > 4 ? long : (old ? 'Fashion caught up with it: ' : 'Then it travelled: ') + list(items) + '.', all: went.length > 4 ? went.map((w) => `${w.n} ${w.y}`) : undefined,
       pts: went.map((w) => [w.at[0], w.at[1], w.n + ' ' + w.y, w.s]), arcs: born ? went.map((w) => [born.at[0], born.at[1], w.at[0], w.at[1], w.s]) : [],
       rc: [...went.filter((w) => w.rc).map((w) => w.rc), ...(went.some((w) => !w.rc) ? [{ l: 'Dates for ' + list([...new Set(went.filter((w) => !w.rc).map((w) => w.n))]), t: 'From decade by decade fashion histories, so read each year as "around then".' + (src ? ' Wikipedia: “' + clip(src.quote, 160) + '”' : ''), u: src ? src.url : null, s: 1 }] : [])] });
   }
